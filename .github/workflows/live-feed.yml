@@ -52,11 +52,19 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/generate_live_feed.py --league-id 703243
 
+      - name: Generate matchup live analysis
+        env:
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_matchup_live.py --league-id 703243
+
       - name: Commit updated feed
         run: |
           git config user.name "espn-data-bot"
           git config user.email "actions@users.noreply.github.com"
           if [ -f docs/data/live_feed.json ]; then git add docs/data/live_feed.json; fi
+          if [ -f docs/data/matchup_live.json ]; then git add docs/data/matchup_live.json; fi
           git diff --cached --quiet || git commit -m "Update live feed ($(date -u +'%Y-%m-%d %H:%M UTC'))"
           git pull --rebase --autostash origin main
           git push

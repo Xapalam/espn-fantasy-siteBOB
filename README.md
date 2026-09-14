@@ -43,10 +43,14 @@ the Action also calls Claude (explicit language, on purpose) to write:
 - one roast of each owner's current roster as a whole
 - an explicit recap of last week's matchups and a trash-talk preview of
   this week's
-- a live "Game Night" check-in after each night's real games wrap (Thursday,
-  Sunday, Monday) — current score margins plus standout starter performances
-  (vs. that player's own established average, so it's "stud/stinker
-  relative to them," not just raw points)
+- a per-player LIVE feed after each night's games: who beat or missed their
+  projection, and who got left on the bench while going off
+- a "Matchup Live" analysis of every matchup — who's winning, who's likely
+  to lose, and the worst lineup mistake each manager made. Predictions use
+  ESPN's own win probability and projected finals rather than anything the
+  model invents; bench mistakes are only claimed when the benched player was
+  actually eligible for the slot the started player occupied. Recent lines
+  are fed back into the prompt so it stops recycling the same jokes.
 - the **LIVE** tab's per-player feed: individual call-outs for players who
   beat or missed their week's projection, plus roasts aimed at any owner who
   left a big scorer on the bench

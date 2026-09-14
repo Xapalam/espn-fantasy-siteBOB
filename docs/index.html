@@ -15,6 +15,7 @@
   <nav class="tabs">
     <button data-tab="standings" class="active">Standings</button>
     <button data-tab="live">LIVE</button>
+    <button data-tab="matchups">Matchup Live</button>
     <button data-tab="weekly">This Week</button>
     <button data-tab="alltime">All-Time</button>
     <button data-tab="roasts">Hall of Shame</button>
@@ -31,6 +32,12 @@
       <h2><span class="emoji">🔴</span>LIVE</h2>
       <p class="footer-note" style="text-align:left;margin:-8px 0 16px" id="live-subtitle"></p>
       <div id="live-content"><p class="empty-state">Loading...</p></div>
+    </section>
+
+    <section id="tab-matchups" class="panel" hidden>
+      <h2><span class="emoji">⚔️</span>Matchup Live</h2>
+      <p class="footer-note" style="text-align:left;margin:-8px 0 16px" id="matchups-subtitle"></p>
+      <div id="matchups-content"><p class="empty-state">Loading...</p></div>
     </section>
 
     <section id="tab-weekly" class="panel" hidden>

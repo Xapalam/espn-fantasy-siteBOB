@@ -49,13 +49,6 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/generate_weekly_recap.py
 
-      - name: Generate game night update
-        env:
-          ESPN_SWID: ${{ secrets.ESPN_SWID }}
-          ESPN_S2: ${{ secrets.ESPN_S2 }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/generate_game_night_update.py --league-id 703243
-
       - name: Commit updated data
         run: |
           git config user.name "espn-data-bot"
@@ -63,7 +56,6 @@ jobs:
           git add docs/data/seasons docs/data/league_meta.json
           if [ -f docs/data/ai_roasts.json ]; then git add docs/data/ai_roasts.json; fi
           if [ -f docs/data/weekly_recap.json ]; then git add docs/data/weekly_recap.json; fi
-          if [ -f docs/data/game_night_update.json ]; then git add docs/data/game_night_update.json; fi
           git diff --cached --quiet || git commit -m "Update league data ($(date -u +%Y-%m-%d))"
           git pull --rebase --autostash origin main
           git push

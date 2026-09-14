@@ -1,0 +1,331 @@
+{
+  "generatedAt": "2026-09-14T16:35:25.973534+00:00",
+  "seasonId": 2026,
+  "matchupPeriodId": 1,
+  "matchups": [
+    {
+      "homeOwner": "Rilind Ahmetaj",
+      "awayOwner": "Rob Ricigliano",
+      "home": {
+        "score": 102.5,
+        "projectedFinal": 102.5,
+        "winProbability": 0.99,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Denzel Boston",
+          "benchedPoints": 12.9,
+          "started": "Rico Dowdle",
+          "startedPoints": 3.1,
+          "margin": 9.8
+        },
+        "bestStarter": {
+          "name": "Ashton Jeanty",
+          "actual": 29.7,
+          "projected": 16.2,
+          "delta": 13.5
+        },
+        "worstStarter": {
+          "name": "Rico Dowdle",
+          "actual": 3.1,
+          "projected": 11.6,
+          "delta": -8.5
+        }
+      },
+      "away": {
+        "score": 63.2,
+        "projectedFinal": 74.9,
+        "winProbability": 0.01,
+        "yetToPlay": [
+          "Rashee Rice"
+        ],
+        "worstMistake": {
+          "benched": "Kyle Monangai",
+          "benchedPoints": 19.4,
+          "started": "Jadarian Price",
+          "startedPoints": 6.8,
+          "margin": 12.6
+        },
+        "bestStarter": {
+          "name": "Kyren Williams",
+          "actual": 14.0,
+          "projected": 12.7,
+          "delta": 1.3
+        },
+        "worstStarter": {
+          "name": "Texans D/ST",
+          "actual": -4.0,
+          "projected": 5.3,
+          "delta": -9.3
+        }
+      },
+      "analysis": "Rilind Ahmetaj leads Rob Ricigliano by 39.3."
+    },
+    {
+      "homeOwner": "Jetmir Asllani / Peter Mardjonovic",
+      "awayOwner": "Adam Vilajeti",
+      "home": {
+        "score": 95.4,
+        "projectedFinal": 118.6,
+        "winProbability": 0.99,
+        "yetToPlay": [
+          "Kenneth Walker III",
+          "Jaylen Waddle"
+        ],
+        "worstMistake": null,
+        "bestStarter": {
+          "name": "Caleb Williams",
+          "actual": 37.3,
+          "projected": 16.4,
+          "delta": 20.9
+        },
+        "worstStarter": {
+          "name": "Omarion Hampton",
+          "actual": 8.3,
+          "projected": 16.1,
+          "delta": -7.8
+        }
+      },
+      "away": {
+        "score": 83.3,
+        "projectedFinal": 91.3,
+        "winProbability": 0.01,
+        "yetToPlay": [
+          "Xavier Worthy"
+        ],
+        "worstMistake": null,
+        "bestStarter": {
+          "name": "Justin Jefferson",
+          "actual": 27.2,
+          "projected": 13.8,
+          "delta": 13.4
+        },
+        "worstStarter": {
+          "name": "MarShawn Lloyd",
+          "actual": 3.7,
+          "projected": 11.9,
+          "delta": -8.2
+        }
+      },
+      "analysis": "Jetmir Asllani / Peter Mardjonovic leads Adam Vilajeti by 12.1."
+    },
+    {
+      "homeOwner": "Ilir Asllani",
+      "awayOwner": "Rinor Ahmetaj",
+      "home": {
+        "score": 155.5,
+        "projectedFinal": 155.5,
+        "winProbability": 1.0,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Jalen Coker",
+          "benchedPoints": 29.8,
+          "started": "Kenny Gainwell",
+          "startedPoints": 2.3,
+          "margin": 27.5
+        },
+        "bestStarter": {
+          "name": "Josh Allen",
+          "actual": 35.7,
+          "projected": 19.3,
+          "delta": 16.3
+        },
+        "worstStarter": {
+          "name": "Kenny Gainwell",
+          "actual": 2.3,
+          "projected": 10.3,
+          "delta": -8.0
+        }
+      },
+      "away": {
+        "score": 115.5,
+        "projectedFinal": 115.5,
+        "winProbability": 0.0,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Devaughn Vele",
+          "benchedPoints": 16.4,
+          "started": "Davante Adams",
+          "startedPoints": 4.1,
+          "margin": 12.3
+        },
+        "bestStarter": {
+          "name": "Derrick Henry",
+          "actual": 34.8,
+          "projected": 15.7,
+          "delta": 19.1
+        },
+        "worstStarter": {
+          "name": "De'Von Achane",
+          "actual": 8.6,
+          "projected": 16.3,
+          "delta": -7.7
+        }
+      },
+      "analysis": "Ilir Asllani leads Rinor Ahmetaj by 40.0."
+    },
+    {
+      "homeOwner": "Faton Muriqi",
+      "awayOwner": "Flamur Muriqi",
+      "home": {
+        "score": 67.8,
+        "projectedFinal": 92.8,
+        "winProbability": 0.03,
+        "yetToPlay": [
+          "J.K. Dobbins",
+          "Bo Nix"
+        ],
+        "worstMistake": null,
+        "bestStarter": {
+          "name": "D'Andre Swift",
+          "actual": 31.9,
+          "projected": 11.4,
+          "delta": 20.5
+        },
+        "worstStarter": {
+          "name": "Colston Loveland",
+          "actual": 0.0,
+          "projected": 9.7,
+          "delta": -9.7
+        }
+      },
+      "away": {
+        "score": 117.1,
+        "projectedFinal": 117.1,
+        "winProbability": 0.97,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Dontayvion Wicks",
+          "benchedPoints": 14.3,
+          "started": "Chris Godwin Jr.",
+          "startedPoints": 6.3,
+          "margin": 8.0
+        },
+        "bestStarter": {
+          "name": "Isaiah Likely",
+          "actual": 23.8,
+          "projected": 7.6,
+          "delta": 16.2
+        },
+        "worstStarter": {
+          "name": "Saquon Barkley",
+          "actual": 8.5,
+          "projected": 16.4,
+          "delta": -7.9
+        }
+      },
+      "analysis": "Flamur Muriqi leads Faton Muriqi by 49.3."
+    },
+    {
+      "homeOwner": "Veton Gjonbalaj",
+      "awayOwner": "Arben Sinanaj",
+      "home": {
+        "score": 105.3,
+        "projectedFinal": 111.2,
+        "winProbability": 0.01,
+        "yetToPlay": [
+          "Broncos D/ST"
+        ],
+        "worstMistake": null,
+        "bestStarter": {
+          "name": "Dallas Goedert",
+          "actual": 21.7,
+          "projected": 8.9,
+          "delta": 12.8
+        },
+        "worstStarter": {
+          "name": "Ja'Marr Chase",
+          "actual": 2.2,
+          "projected": 16.4,
+          "delta": -14.2
+        }
+      },
+      "away": {
+        "score": 123.2,
+        "projectedFinal": 138.1,
+        "winProbability": 0.99,
+        "yetToPlay": [
+          "Courtland Sutton",
+          "Chiefs D/ST"
+        ],
+        "worstMistake": {
+          "benched": "Jakobi Meyers",
+          "benchedPoints": 11.2,
+          "started": "Terry McLaurin",
+          "startedPoints": 2.4,
+          "margin": 8.8
+        },
+        "bestStarter": {
+          "name": "Chuba Hubbard",
+          "actual": 22.2,
+          "projected": 11.0,
+          "delta": 11.2
+        },
+        "worstStarter": {
+          "name": "Terry McLaurin",
+          "actual": 2.4,
+          "projected": 10.0,
+          "delta": -7.6
+        }
+      },
+      "analysis": "Arben Sinanaj leads Veton Gjonbalaj by 17.9."
+    },
+    {
+      "homeOwner": "Ben Vucetaj",
+      "awayOwner": "Nori Kastrati",
+      "home": {
+        "score": 79.0,
+        "projectedFinal": 86.7,
+        "winProbability": 0.01,
+        "yetToPlay": [
+          "Travis Kelce"
+        ],
+        "worstMistake": {
+          "benched": "Stefon Diggs",
+          "benchedPoints": 13.5,
+          "started": "KC Concepcion",
+          "startedPoints": 5.8,
+          "margin": 7.7
+        },
+        "bestStarter": {
+          "name": "Ladd McConkey",
+          "actual": 16.7,
+          "projected": 11.4,
+          "delta": 5.3
+        },
+        "worstStarter": {
+          "name": "Puka Nacua",
+          "actual": 9.9,
+          "projected": 17.4,
+          "delta": -7.5
+        }
+      },
+      "away": {
+        "score": 165.7,
+        "projectedFinal": 165.7,
+        "winProbability": 0.99,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Deebo Samuel Sr.",
+          "benchedPoints": 15.0,
+          "started": "Marvin Harrison Jr.",
+          "startedPoints": 3.8,
+          "margin": 11.2
+        },
+        "bestStarter": {
+          "name": "Christian Watson",
+          "actual": 29.7,
+          "projected": 9.3,
+          "delta": 20.4
+        },
+        "worstStarter": {
+          "name": "Marvin Harrison Jr.",
+          "actual": 3.8,
+          "projected": 9.4,
+          "delta": -5.6
+        }
+      },
+      "analysis": "Nori Kastrati leads Ben Vucetaj by 86.7."
+    }
+  ],
+  "recentLines": []
+}

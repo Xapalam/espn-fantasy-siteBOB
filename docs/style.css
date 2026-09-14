@@ -265,6 +265,38 @@ tr.clickable-row:hover td { background: var(--panel-2); }
   margin-bottom: 4px;
 }
 
+.matchup-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.matchup-side {
+  flex: 1 1 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  border-left: 3px solid var(--border);
+}
+
+.matchup-side.leading { border-left-color: var(--good); }
+
+.matchup-owner {
+  font-weight: 700;
+  color: var(--accent-2);
+  font-size: 14px;
+}
+
+.matchup-score {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
 .player-outlook {
   color: var(--muted);
   font-size: 13px;

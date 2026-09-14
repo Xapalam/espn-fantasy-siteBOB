@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-09-11T09:01:17.948584+00:00",
+  "generatedAt": "2026-09-14T10:02:21.364832+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 1,
   "events": [
+    {
+      "type": "benched",
+      "owner": "Ilir Asllani",
+      "player": "Jalen Coker",
+      "position": "WR",
+      "actual": 29.8,
+      "projected": 7.3670653,
+      "line": "Ilir, you absolute coward\u2014benched Jalen Coker while he put up 29.8 points on your bench like some kind of fantasy lottery ticket you threw away at the gas station."
+    },
     {
       "type": "benched",
       "owner": "Veton Gjonbalaj",
       "player": "Brock Purdy",
       "position": "QB",
       "actual": 21.1,
-      "projected": 15.48135402,
-      "line": "Veton benched the Mr. Irrelevant himself for 21 fucking points\u2014guess the Mr. Relevant decision-making strikes again."
+      "projected": 15.48212099,
+      "line": "Veton, you absolute fucking coward\u2014Brock Purdy sitting on your bench just dropped 21 points and you couldn't even work up the balls to start your own quarterback, what the hell is wrong with you?"
+    },
+    {
+      "type": "over",
+      "owner": "Jetmir Asllani / Peter Mardjonovic",
+      "player": "Caleb Williams",
+      "position": "QB",
+      "actual": 37.26,
+      "projected": 16.38930619,
+      "line": "Caleb went absolutely nuclear with 37.3 points and you still started him like a goddamn genius instead of some panic-stricken dipshit\u2014guess even a broken clock is right twice a day when your QB1 decides to have the game of his fucking life."
+    },
+    {
+      "type": "over",
+      "owner": "Faton Muriqi",
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual": 31.9,
+      "projected": 11.41301279,
+      "line": "Faton actually fucking nailed it for once\u2014Swift went absolutely nuclear and made that 11.4 projection look like a joke, but let's be honest, you started him despite everyone writing him off this week anyway so you can't take full credit for this one."
+    },
+    {
+      "type": "over",
+      "owner": "Nori Kastrati",
+      "player": "Christian Watson",
+      "position": "WR",
+      "actual": 29.7,
+      "projected": 9.27853632,
+      "line": "Nori, I don't know if you accidentally stumbled into genius or if Watson fell out of the sky, but holy shit\u201429.7 points when you were bracing for 9? Your dumbass accidentally played 4D chess this week, and honestly, that's the scariest part."
     },
     {
       "type": "benched",
-      "owner": "Nori Kastrati",
-      "player": "Deebo Samuel Sr.",
-      "position": "WR",
-      "actual": 15.0,
-      "projected": 7.3570026,
-      "line": "Nori, you absolute coward\u2014benched Deebo when he was gonna go off, and now you're watching him rack up 15 on your fucking bench while your starter probably put up 4 points and a prayer."
+      "owner": "Rob Ricigliano",
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "actual": 19.4,
+      "projected": 9.49534696,
+      "line": "Rob, you absolute coward\u2014you benched Monangai and he just put up nearly 20 points on your bench like he was auditioning for your lineup next week. That's what happens when you panic and get cute instead of just riding your guy."
     },
     {
-      "type": "under",
+      "type": "over",
       "owner": "Rinor Ahmetaj",
-      "player": "Davante Adams",
-      "position": "WR",
-      "actual": 4.1,
-      "projected": 11.79912902,
-      "line": "Rinor really said \"fuck it, let's start the guy projected for 12 and watch him shit the bed for 4 points\" \u2014 absolutely masterclass in reading the room this week."
+      "player": "Derrick Henry",
+      "position": "RB",
+      "actual": 34.8,
+      "projected": 15.71754402,
+      "line": "Rinor actually had the balls to start Henry and he went absolutely nuclear\u2014maybe next time trust your own roster instead of panic-checking rankings at 11:59 PM like a psychopath."
     },
     {
-      "type": "under",
-      "owner": "Ben Vucetaj",
-      "player": "Puka Nacua",
+      "type": "benched",
+      "owner": "Rinor Ahmetaj",
+      "player": "Devaughn Vele",
       "position": "WR",
-      "actual": 9.9,
-      "projected": 17.37041747,
-      "line": "Ben, Puka averaging 9 points when you needed 17 is basically the fantasy equivalent of ordering a full pizza and getting served a single slice with a shrug."
-    },
-    {
-      "type": "under",
-      "owner": "Adam Vilajeti",
-      "player": "A.J. Brown",
-      "position": "WR",
-      "actual": 4.1,
-      "projected": 11.54542305,
-      "line": "Adam, your boy A.J. Brown just took a massive shit on your lineup after you confidently started him\u2014dude put up 4.1 points when you needed 11.5, and now you're sitting here wondering if maybe you should've checked literally any injury report before game time."
+      "actual": 16.4,
+      "projected": 7.37034522,
+      "line": "Rinor, you absolute dipshit\u2014Vele went off for 16 points on your bench while you probably started some washed-up vet who caught 2 balls for 8 yards, and now you're gonna lose by exactly that margin, aren't you?"
     },
     {
       "type": "over",
       "owner": "Ilir Asllani",
-      "player": "Seahawks D/ST",
-      "position": "D/ST",
-      "actual": 14.0,
-      "projected": 7.22353485,
-      "line": "Ilir actually made a competent decision for once in his miserable existence and started the Seahawks D/ST, which proceeded to absolutely shit the bed and still somehow doubled its projection\u2014somehow you managed to accidentally lucksack your way into 14 points while your team implodes around you like a dying star."
+      "player": "Josh Allen",
+      "position": "QB",
+      "actual": 35.66,
+      "projected": 19.32266889,
+      "line": "Josh Allen just shit the bed... in the best way possible and you still almost benched him, Ilir\u2014dude put up 35.7 on a 19.3 projection and you were probably sweating bullets about it."
     },
     {
       "type": "over",
-      "owner": "Arben Sinanaj",
-      "player": "Jaxon Smith-Njigba",
-      "position": "WR",
-      "actual": 22.2,
-      "projected": 15.52963115,
-      "line": "JSN just shit all over his projection and carried Arben's ass this week\u2014maybe next time trust your first-round pick instead of panic-benching him every other Sunday like you've got commitment issues."
-    },
-    {
-      "type": "under",
-      "owner": "Adam Vilajeti",
-      "player": "Drake Maye",
-      "position": "QB",
-      "actual": 9.82,
-      "projected": 16.25228795,
-      "line": "Adam, Drake Maye just took a massive shit on your starting lineup and you *knew* it was coming\u2014nine points from your QB is the kind of performance that makes you seriously question every decision you've made in this league."
-    },
-    {
-      "type": "under",
-      "owner": "Rob Ricigliano",
-      "player": "Jadarian Price",
-      "position": "RB",
-      "actual": 6.8,
-      "projected": 12.83437993,
-      "line": "Rob really said \"I'm gonna start a guy projected for 12.8\" and then watched him pull up like he was running through mud in a fucking nightmare, finishing with 6.8 points of pure disappointment."
-    },
-    {
-      "type": "under",
-      "owner": "Adam Vilajeti",
-      "player": "Rams D/ST",
-      "position": "D/ST",
-      "actual": 1.0,
-      "projected": 6.11892266,
-      "line": "Adam, the Rams D/ST putting up a fucking 1 point is basically what happens when you leave your defense slot on autopilot and pray\u2014except the prayers didn't work either, so now you're just bleeding points like a stuck pig."
+      "owner": "Flamur Muriqi",
+      "player": "Isaiah Likely",
+      "position": "TE",
+      "actual": 23.8,
+      "projected": 7.58186853,
+      "line": "Isaiah Likely just threw up a fucking 23.8 on your ass and you started him anyway\u2014congrats on the accidental genius move, Flamur, but let's be real, you had no idea this was coming."
     }
   ]
 }

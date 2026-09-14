@@ -584,12 +584,17 @@ function renderMatchupLive(matchupLive) {
           + `${escapeHTML(k.started)} (${k.startedPoints.toFixed(1)})</div>`;
       }).join("");
 
+    const family = m.familyName
+      ? `<div class="family-tag">👨‍👦 Family matchup · the ${escapeHTML(m.familyName)}s</div>`
+      : "";
+
     return `
       <div class="roast-card">
         <div class="matchup-head">
           ${sideLine(m.homeOwner, m.home, leadHome)}
           ${sideLine(m.awayOwner, m.away, !leadHome)}
         </div>
+        ${family}
         <p>${escapeHTML(m.analysis)}</p>
         ${mistakes}
       </div>

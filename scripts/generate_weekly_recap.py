@@ -24,7 +24,7 @@ from pathlib import Path
 
 import anthropic
 
-from owner_resolution import resolve_owner_name
+from owner_resolution import resolve_owner_name, shared_last_name
 from ai_tone import TONE_GUARDRAIL, looks_like_refusal
 
 MODEL = "claude-haiku-4-5"
@@ -58,11 +58,20 @@ because the record is empty.
 Respond with ONLY the preview text, nothing else -- no preamble, no labels."""
 
 
+def family_note(name_a, name_b):
+    family = shared_last_name(name_a, name_b)
+    if not family:
+        return ""
+    return (f"\nThese two are family -- both are {family}s. Family bragging rights "
+            f"are on the line, so make the roast about that.")
+
+
 def recap_prompt(winner, loser, winner_score, loser_score):
     return (
         f"Winner: {winner}, scored {winner_score:.1f}\n"
         f"Loser: {loser}, scored {loser_score:.1f}\n"
         f"Margin: {winner_score - loser_score:.1f} points"
+        + family_note(winner, loser)
     )
 
 
@@ -70,6 +79,7 @@ def preview_prompt(name_a, record_a, name_b, record_b):
     return (
         f"Team A: {name_a}, currently {record_a}\n"
         f"Team B: {name_b}, currently {record_b}"
+        + family_note(name_a, name_b)
     )
 
 

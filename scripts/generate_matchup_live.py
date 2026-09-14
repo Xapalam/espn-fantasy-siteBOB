@@ -34,7 +34,7 @@ from pathlib import Path
 import anthropic
 
 import fetch_espn_data as espn
-from owner_resolution import resolve_owner_name
+from owner_resolution import resolve_owner_name, shared_last_name
 from ai_tone import TONE_GUARDRAIL, looks_like_refusal
 
 MODEL = "claude-haiku-4-5"
@@ -62,6 +62,9 @@ your own numbers or stats.
   - No corny sportscaster voice. No "folks", no "ladies and gentlemen", no \
 puns on player names, no "ouch", no rhetorical questions to the reader. Write \
 like a friend talking shit in a group chat, not a broadcaster.
+  - If you're told the two managers are family, make it about the family \
+rivalry -- bragging rights, who has to hear about this at every holiday, \
+which one the family is embarrassed by this week.
   - You'll be shown lines already used in previous updates. Do not reuse \
 those jokes, phrasings, or angles. Find a new one.
 
@@ -179,8 +182,11 @@ def describe_side(name, facts):
     return "\n".join(lines)
 
 
-def build_prompt(home_name, home_facts, away_name, away_facts, recent_lines):
+def build_prompt(home_name, home_facts, away_name, away_facts, recent_lines, family_name=None):
     parts = [describe_side(home_name, home_facts), describe_side(away_name, away_facts)]
+    if family_name:
+        parts.append(f"These two are family -- both are {family_name}s. Family bragging "
+                     f"rights are on the line, so make the roast about that.")
     if recent_lines:
         parts.append("Lines already used in previous updates -- do not reuse these jokes or angles:\n"
                      + "\n".join(f"- {line}" for line in recent_lines))
@@ -248,6 +254,7 @@ def main():
         away_name = resolve_owner_name(teams_by_id[away["teamId"]], raw, owners)
         home_facts = analyze_side(home, latest_year, period)
         away_facts = analyze_side(away, latest_year, period)
+        family_name = shared_last_name(home_name, away_name)
 
         leader, trailer = ((home_name, away_name) if home_facts["score"] >= away_facts["score"]
                            else (away_name, home_name))
@@ -259,7 +266,7 @@ def main():
                 response = client.messages.create(
                     model=MODEL, max_tokens=500, system=SYSTEM_PROMPT,
                     messages=[{"role": "user", "content": build_prompt(
-                        home_name, home_facts, away_name, away_facts, recent_lines)}],
+                        home_name, home_facts, away_name, away_facts, recent_lines, family_name)}],
                 )
                 text = "".join(b.text for b in response.content if b.type == "text").strip()
                 if response.stop_reason == "refusal" or looks_like_refusal(text):
@@ -275,6 +282,7 @@ def main():
         results.append({
             "homeOwner": home_name, "awayOwner": away_name,
             "home": home_facts, "away": away_facts,
+            "familyName": family_name,
             "analysis": analysis,
         })
         print(f"  {home_name} {home_facts['score']} - {away_facts['score']} {away_name}"

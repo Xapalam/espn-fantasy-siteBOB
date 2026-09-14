@@ -3,6 +3,36 @@ turn an ESPN team object into a real person's name. Mirrors the same
 resolution order as docs/app.js's resolveOwnerName -- keep both in sync."""
 
 
+def last_names(owner_label):
+    """Last names found in a resolved owner label, keyed lowercase.
+
+    Handles co-owned teams ("Jetmir Asllani / Peter Mardjonovic" -> both
+    surnames) and skips labels that aren't real names -- departed members
+    fall back to raw ESPN handles like "Brezi6714", which have no surname
+    and must never be matched against each other.
+    """
+    found = {}
+    for part in (owner_label or "").split("/"):
+        tokens = part.strip().split()
+        if len(tokens) < 2:
+            continue  # single token -> an ESPN handle, not a first/last name
+        surname = tokens[-1]
+        if any(ch.isdigit() for ch in surname):
+            continue
+        found[surname.lower()] = surname
+    return found
+
+
+def shared_last_name(label_a, label_b):
+    """The surname two owners have in common, or None. Used to treat league
+    members with the same last name as family."""
+    a, b = last_names(label_a), last_names(label_b)
+    for key in sorted(a):
+        if key in b:
+            return a[key]
+    return None
+
+
 def team_display_name(team):
     name = (team.get("name") or "").strip()
     if name:

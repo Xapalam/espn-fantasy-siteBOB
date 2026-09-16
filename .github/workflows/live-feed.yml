@@ -50,14 +50,14 @@ jobs:
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/generate_live_feed.py --league-id 703243
+        run: python scripts/generate_live_feed.py --league-id 1392189008
 
       - name: Generate matchup live analysis
         env:
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/generate_matchup_live.py --league-id 703243
+        run: python scripts/generate_matchup_live.py --league-id 1392189008
 
       - name: Commit updated feed
         run: |

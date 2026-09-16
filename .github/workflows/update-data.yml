@@ -37,7 +37,7 @@ jobs:
         env:
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
           ESPN_S2: ${{ secrets.ESPN_S2 }}
-        run: python scripts/fetch_espn_data.py --league-id 703243
+        run: python scripts/fetch_espn_data.py --league-id 1392189008
 
       - name: Generate AI roasts
         env:

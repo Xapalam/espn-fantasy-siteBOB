@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-09-15T09:33:27.079805+00:00",
+  "generatedAt": "2026-09-18T04:38:59.491305+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 2,
-  "events": []
+  "events": [
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "actual": 22.5,
+      "projected": 10.4164085,
+      "line": "Eric absolutely left 12 points on the fucking bench with Kincaid, and of course he did\u2014this is the same guy who's been playing tight end roulette all season like he's got a crystal ball that only works when it's completely wrong."
+    },
+    {
+      "type": "over",
+      "owner": "82Cole47",
+      "player": "Josh Allen",
+      "position": "QB",
+      "actual": 40.82,
+      "projected": 22.68562038,
+      "line": "Josh Allen just dropped a fucking 40-burger and made 82Cole47 look like a goddamn genius for once\u2014too bad you spent all season second-guessing this man like he owed you money."
+    },
+    {
+      "type": "over",
+      "owner": "SteelerFan9828",
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "actual": 35.2,
+      "projected": 20.36852067,
+      "line": "SteelerFan9828 finally drafted someone competent and actually had the good sense to start him\u2014don't get used to it, this is probably a fluke for your dumpster fire of a roster."
+    },
+    {
+      "type": "under",
+      "owner": "ESPNFAN6437471416",
+      "player": "DJ Moore",
+      "position": "WR",
+      "actual": -0.1,
+      "projected": 12.53686815,
+      "line": "Bro, DJ Moore put up negative points and you still started him\u2014that's not faith in your player, that's just pure negligence; maybe next time check if there's actually a game happening before plugging someone in."
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual": 5.3,
+      "projected": 12.31719971,
+      "line": "RGM2215 really said \"I'm gonna start Jameson Williams this week\" and watched him put up 5.3 points like some kind of masochist\u2014might as well have left that roster spot empty and scored the same damn points."
+    },
+    {
+      "type": "over",
+      "owner": "espnfan7338848211",
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual": 17.2,
+      "projected": 11.23784224,
+      "line": "LaPorta just shit all over his projection and you're out here looking like a goddamn genius for starting him\u2014don't get too comfortable though, because next week you'll probably bench him when he actually matters."
+    }
+  ]
 }

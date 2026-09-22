@@ -24,44 +24,44 @@
           "wins": 0
         },
         "division": {
-          "gamesBack": 1.0,
-          "losses": 1,
+          "gamesBack": 2.0,
+          "losses": 2,
           "percentage": 0.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 0,
+          "losses": 1,
           "percentage": 0.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         },
         "overall": {
-          "gamesBack": 1.0,
-          "losses": 1,
+          "gamesBack": 2.0,
+          "losses": 2,
           "percentage": 0.0,
-          "pointsAgainst": 140.86,
-          "pointsFor": 125.56,
-          "streakLength": 1,
+          "pointsAgainst": 256.76,
+          "pointsFor": 216.66,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         }
       },
-      "playoffSeed": 6,
-      "points_for": 125.56,
-      "points_against": 140.86,
+      "playoffSeed": 9,
+      "points_for": 216.66,
+      "points_against": 256.76,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
       "roster": [
         {
@@ -505,17 +505,6 @@
         "away": {
           "gamesBack": 0.0,
           "losses": 0,
-          "percentage": 0.0,
-          "pointsAgainst": 0.0,
-          "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
-          "ties": 0,
-          "wins": 0
-        },
-        "division": {
-          "gamesBack": 0.0,
-          "losses": 0,
           "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
@@ -523,6 +512,17 @@
           "streakType": "WIN",
           "ties": 0,
           "wins": 1
+        },
+        "division": {
+          "gamesBack": 0.0,
+          "losses": 0,
+          "percentage": 1.0,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 2
         },
         "home": {
           "gamesBack": 0.0,
@@ -539,18 +539,18 @@
           "gamesBack": 0.0,
           "losses": 0,
           "percentage": 1.0,
-          "pointsAgainst": 125.56,
-          "pointsFor": 140.86,
-          "streakLength": 1,
+          "pointsAgainst": 219.48000000000002,
+          "pointsFor": 276.28,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 1
+          "wins": 2
         }
       },
-      "playoffSeed": 2,
-      "points_for": 140.86,
-      "points_against": 125.56,
-      "wins": 1,
+      "playoffSeed": 1,
+      "points_for": 276.28,
+      "points_against": 219.48000000000002,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
       "roster": [
@@ -814,7 +814,7 @@
           "name": "Jonathon Brooks",
           "position": "RB",
           "proTeam": "CAR",
-          "injuryStatus": "QUESTIONABLE",
+          "injuryStatus": "DOUBTFUL",
           "seasonOutlook": "Brooks is hoping to get his career on track in 2026 after appearing in only one game since being drafted in the second round of the 2024 draft. Brooks spent most of his rookie season recovering from a torn ACL suffered while at the University of Texas. He returned in Week 12 and handled 12 touches in three games prior to retearing the same ACL and missing the entire 2025 season. Only 23 years old and skilled as a rusher and receiver, Brooks figures to eventually get his shot at a lead-back role in the pros. He's expected to battle for touches with Chuba Hubbard this season, so it's possible he quickly earns his way into a fantasy-relevant role. Consider him in the middle rounds.",
           "currentSeason": {
             "points": 9.3,
@@ -963,22 +963,22 @@
       "record": {
         "away": {
           "gamesBack": 0.0,
-          "losses": 0,
-          "percentage": 0.0,
-          "pointsAgainst": 0.0,
-          "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
-          "ties": 0,
-          "wins": 0
-        },
-        "division": {
-          "gamesBack": 1.0,
           "losses": 1,
           "percentage": 0.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
+          "streakType": "LOSS",
+          "ties": 0,
+          "wins": 0
+        },
+        "division": {
+          "gamesBack": 2.0,
+          "losses": 2,
+          "percentage": 0.0,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 0
@@ -995,22 +995,22 @@
           "wins": 0
         },
         "overall": {
-          "gamesBack": 1.0,
-          "losses": 1,
+          "gamesBack": 2.0,
+          "losses": 2,
           "percentage": 0.0,
-          "pointsAgainst": 118.06,
-          "pointsFor": 117.72,
-          "streakLength": 1,
+          "pointsAgainst": 233.94,
+          "pointsFor": 216.88,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         }
       },
-      "playoffSeed": 9,
-      "points_for": 117.72,
-      "points_against": 118.06,
+      "playoffSeed": 8,
+      "points_for": 216.88,
+      "points_against": 233.94,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
       "roster": [
         {
@@ -1018,7 +1018,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "proTeam": "LAR",
-          "injuryStatus": "QUESTIONABLE",
+          "injuryStatus": "OUT",
           "seasonOutlook": "Nacua has defied the odds, emerging from fifth-round flier in 2023 to one of the most relied upon and productive offensive players in the league. Nacua has finished each of his three pro seasons sixth or better among receivers in fantasy PPG and peaked with a first-place finish last season. Matthew Stafford's top target led the league with 129 receptions and finished no lower than third among receivers in targets, yardage and touchdowns, while also adding 105 yards and one score as a rusher. More goal-line work would be nice (he has 11 end zone targets over the past two seasons), but Nacua's heavy usage in an elite offense locks in the 25-year-old as arguably the top receiver in fantasy.",
           "currentSeason": {
             "points": 12.4,
@@ -1472,10 +1472,10 @@
           "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 1
+          "wins": 2
         },
         "division": {
           "gamesBack": 0.0,
@@ -1483,10 +1483,10 @@
           "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 1
+          "wins": 2
         },
         "home": {
           "gamesBack": 0.0,
@@ -1503,18 +1503,18 @@
           "gamesBack": 0.0,
           "losses": 0,
           "percentage": 1.0,
-          "pointsAgainst": 125.16,
-          "pointsFor": 150.6,
-          "streakLength": 1,
+          "pointsAgainst": 216.26,
+          "pointsFor": 266.5,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 1
+          "wins": 2
         }
       },
-      "playoffSeed": 1,
-      "points_for": 150.6,
-      "points_against": 125.16,
-      "wins": 1,
+      "playoffSeed": 2,
+      "points_for": 266.5,
+      "points_against": 216.26,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
       "roster": [
@@ -1725,15 +1725,15 @@
           "name": "Jaxson Dart",
           "position": "QB",
           "proTeam": "NYG",
-          "injuryStatus": "ACTIVE",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Dart is a strong 2026 breakout candidate following an impressive rookie campaign in which he delivered eight top-10 fantasy weeks (tied for fifth most) despite playing the bulk of the snaps in only 12 games. Dart was solid as a passer but elite as a rusher, finishing in the top five at the position in rushing attempts, yards, TDs and carries inside the 5-yard line. Dart's aggressive playing style raises concerns about his durability, but it also provides the 23-year-old with elite fantasy upside. With a new coaching staff led by John Harbaugh and a new playcaller in Matt Nagy, as well as an improved supporting cast that includes a healthy Malik Nabers and newcomers Isaiah Likely and Darnell Mooney, Dart is best valued as a midrange QB1 with a high ceiling.",
           "currentSeason": {
-            "points": 26.6,
-            "pointsPerGame": 26.6,
+            "points": 27.4,
+            "pointsPerGame": 13.7,
             "stats": {
-              "passAtt": 29.0,
-              "passCmp": 23.0,
-              "passYds": 230.0,
+              "passAtt": 34.0,
+              "passCmp": 26.0,
+              "passYds": 250.0,
               "passTD": 3.0,
               "rushAtt": 11.0,
               "rushYds": 54.0
@@ -1869,8 +1869,8 @@
           "injuryStatus": null,
           "seasonOutlook": "This already highly regarded defense only got stronger in June with the acquisition of two-time Defensive Player of the Year (2023, 2025) Myles Garrett. He wasn't their only addition, as CBs Trent McDuffie and Jaylen Watson were brought in from the Chiefs. Expect another productive season from this unit, though it does face one of the tougher early-season schedules, with the 49ers (Week 1), Broncos (3), Eagles (4) and Bills (5) among their first five opponents. The Rams' second-half schedule is one of the easiest, meaning they might be a better in-season trade target than a draft-day pickup.",
           "currentSeason": {
-            "points": 1.0,
-            "pointsPerGame": 1.0,
+            "points": 12.0,
+            "pointsPerGame": 6.0,
             "stats": {}
           },
           "priorSeason": {
@@ -1976,44 +1976,44 @@
           "wins": 0
         },
         "division": {
-          "gamesBack": 1.0,
-          "losses": 1,
+          "gamesBack": 2.0,
+          "losses": 2,
           "percentage": 0.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 1,
+          "losses": 2,
           "percentage": 0.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         },
         "overall": {
-          "gamesBack": 1.0,
-          "losses": 1,
+          "gamesBack": 2.0,
+          "losses": 2,
           "percentage": 0.0,
-          "pointsAgainst": 137.4,
-          "pointsFor": 99.3,
-          "streakLength": 1,
+          "pointsAgainst": 270.64,
+          "pointsFor": 199.45999999999998,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         }
       },
       "playoffSeed": 10,
-      "points_for": 99.3,
-      "points_against": 137.4,
+      "points_for": 199.45999999999998,
+      "points_against": 270.64,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
       "roster": [
         {
@@ -2083,14 +2083,14 @@
           "name": "Malik Nabers",
           "position": "WR",
           "proTeam": "NYG",
-          "injuryStatus": "ACTIVE",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Nabers is on the comeback trail after a torn ACL limited him to only four appearances last season. In 18 full games in his career, Nabers has a massive 35% target share (11.3 per game) and he's averaging 18.2 fantasy PPG. As a rookie, the 2024 sixth overall pick finished seventh or better among receivers in targets, receptions, yards and fantasy points despite missing two games and dealing with New York's offensive struggles. Nabers' massive target share allowed him a high floor, as he was a top-30 fantasy scorer in 13 of 15 games, including 10 straight to end the 2024 season. He essentially has a new quarterback (Jaxson Dart threw only three passes his way last season), a new coach (John Harbaugh), a new offensive playcaller (Matt Nagy) and is recovering from the knee, so there are a lot of variables here, but the 23-year-old still holds elite upside. A healthy Nabers should be valued as a mid-to-back-end WR1, but the potential for a slow start needs to be considered on draft day.",
           "currentSeason": {
-            "points": 12.9,
-            "pointsPerGame": 12.9,
+            "points": 14.0,
+            "pointsPerGame": 7.0,
             "stats": {
-              "rec": 6.0,
-              "recYds": 69.0
+              "rec": 7.0,
+              "recYds": 70.0
             }
           },
           "priorSeason": {
@@ -2440,24 +2440,24 @@
         "away": {
           "gamesBack": 0.0,
           "losses": 0,
-          "percentage": 0.0,
+          "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
+          "streakLength": 1,
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 0
+          "wins": 1
         },
         "division": {
           "gamesBack": 1.0,
           "losses": 1,
-          "percentage": 0.0,
+          "percentage": 0.5,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "LOSS",
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 0
+          "wins": 1
         },
         "home": {
           "gamesBack": 0.0,
@@ -2473,19 +2473,19 @@
         "overall": {
           "gamesBack": 1.0,
           "losses": 1,
-          "percentage": 0.0,
-          "pointsAgainst": 150.6,
-          "pointsFor": 125.16,
+          "percentage": 0.5,
+          "pointsAgainst": 226.12,
+          "pointsFor": 258.84000000000003,
           "streakLength": 1,
-          "streakType": "LOSS",
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 0
+          "wins": 1
         }
       },
-      "playoffSeed": 7,
-      "points_for": 125.16,
-      "points_against": 150.6,
-      "wins": 0,
+      "playoffSeed": 4,
+      "points_for": 258.84000000000003,
+      "points_against": 226.12,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
       "roster": [
@@ -2585,14 +2585,16 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Williams continues to produce at a high level as the Rams' lead back. The 2022 fifth-round pick has produced 1,350-plus scrimmage yards in three straight seasons (including a career-high 1,533 in 2025), and he's one of 11 backs in NFL history who have scored 13-plus touchdowns in three of his first four seasons. Williams' carry share actually dropped quite a bit last season, but it was mostly offset by a boost in both rushing and receiving efficiency, and he still averaged a healthy 15.5 fantasy points. Williams doesn't do much as a receiver (he has never cleared 36 catches in a season), but his overall usage and scoring potential in the Rams' elite offense is enough to make the 26-year-old a solid RB2 option.",
           "currentSeason": {
-            "points": 15.5,
-            "pointsPerGame": 15.5,
+            "points": 31.2,
+            "pointsPerGame": 15.600000000000001,
             "stats": {
-              "rushAtt": 11.0,
-              "rushYds": 41.0,
+              "rushAtt": 23.0,
+              "rushYds": 126.0,
               "rushTD": 1.0,
-              "rec": 3.0,
-              "recYds": 24.0
+              "rec": 5.0,
+              "recYds": 36.0,
+              "recTD": 1.0,
+              "fumblesLost": 1.0
             }
           },
           "priorSeason": {
@@ -2649,11 +2651,11 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Likely signed with the Giants after four years of backing up Mark Andrews in Baltimore. Likely is reuniting with coach John Harbaugh and is finally expected to play a consistent offensive role. During his time in Baltimore, Likely was limited to 50% of the team's offensive snaps and never finished a season better than 20th among tight ends in snaps, routes, targets, catches, yards or fantasy PPG. His only extensive stretch with Andrews sidelined came back in 2023. During the seven-game span, Likely posted a 23-356-6 receiving line on a 16% target share and averaged a solid 13.5 fantasy PPG. The 26-year-old is obviously unproven, but his receiving skills in New York's ascending offense are enough to put him on the TE2 radar.",
           "currentSeason": {
-            "points": 27.8,
-            "pointsPerGame": 27.8,
+            "points": 36.1,
+            "pointsPerGame": 18.05,
             "stats": {
-              "rec": 8.0,
-              "recYds": 78.0,
+              "rec": 13.0,
+              "recYds": 111.0,
               "recTD": 2.0
             }
           },
@@ -2957,44 +2959,44 @@
           "wins": 1
         },
         "division": {
-          "gamesBack": 0.0,
-          "losses": 0,
-          "percentage": 1.0,
+          "gamesBack": 1.0,
+          "losses": 1,
+          "percentage": 0.5,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "WIN",
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 0,
+          "losses": 1,
           "percentage": 0.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         },
         "overall": {
-          "gamesBack": 0.0,
-          "losses": 0,
-          "percentage": 1.0,
-          "pointsAgainst": 123.76,
-          "pointsFor": 135.82,
+          "gamesBack": 1.0,
+          "losses": 1,
+          "percentage": 0.5,
+          "pointsAgainst": 257.44,
+          "pointsFor": 211.33999999999997,
           "streakLength": 1,
-          "streakType": "WIN",
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         }
       },
-      "playoffSeed": 4,
-      "points_for": 135.82,
-      "points_against": 123.76,
+      "playoffSeed": 7,
+      "points_for": 211.33999999999997,
+      "points_against": 257.44,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
       "roster": [
         {
@@ -3401,8 +3403,8 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": null,
           "currentSeason": {
-            "points": 1.0,
-            "pointsPerGame": 1.0,
+            "points": 4.0,
+            "pointsPerGame": 2.0,
             "stats": {}
           },
           "priorSeason": {
@@ -3458,38 +3460,38 @@
           "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 1
+          "wins": 2
         },
         "home": {
           "gamesBack": 0.0,
           "losses": 0,
-          "percentage": 0.0,
+          "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
+          "streakLength": 1,
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 0
+          "wins": 1
         },
         "overall": {
           "gamesBack": 0.0,
           "losses": 0,
           "percentage": 1.0,
-          "pointsAgainst": 99.3,
-          "pointsFor": 137.4,
-          "streakLength": 1,
+          "pointsAgainst": 198.45999999999998,
+          "pointsFor": 253.28,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 1
+          "wins": 2
         }
       },
       "playoffSeed": 3,
-      "points_for": 137.4,
-      "points_against": 99.3,
-      "wins": 1,
+      "points_for": 253.28,
+      "points_against": 198.45999999999998,
+      "wins": 2,
       "losses": 0,
       "ties": 0,
       "roster": [
@@ -3619,12 +3621,14 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Skattebo is a Year 2 breakout candidate following an impressive but injury-shortened rookie season. The fourth-round pick first played a significant offensive role in Week 2 and went on to average 16.0 carries, 4.7 targets and 96.3 yards while scoring six TDs during his six full games. His 19.1 fantasy points per game during the span would've ranked sixth over the full season. The 24-year-old enters 2026 with a new coach (John Harbaugh) and playcaller (Matt Nagy), but his competition for touches are Najee Harris and the same guys he beat out for work in 2025 (Tyrone Tracy Jr., Devin Singletary). Assuming his ankle heals up as expected, Skattebo will be on the RB2 radar with upside for more.",
           "currentSeason": {
-            "points": 14.1,
-            "pointsPerGame": 14.1,
+            "points": 23.6,
+            "pointsPerGame": 11.8,
             "stats": {
-              "rushAtt": 18.0,
-              "rushYds": 81.0,
-              "rushTD": 1.0
+              "rushAtt": 30.0,
+              "rushYds": 117.0,
+              "rushTD": 1.0,
+              "rec": 4.0,
+              "recYds": 19.0
             }
           },
           "priorSeason": {
@@ -3763,7 +3767,7 @@
           "name": "Dallas Goedert",
           "position": "TE",
           "proTeam": "PHI",
-          "injuryStatus": "QUESTIONABLE",
+          "injuryStatus": "DOUBTFUL",
           "seasonOutlook": "Goedert enters the 2026 season as the poster boy for inevitable touchdown regression to the mean. After scoring 24 touchdowns in his first seven seasons (3.4 per year), Goedert inexplicably leaped to 11 scores in 15 games in 2025. Goedert's expected TD total was 5.1, and he saw only five end zone targets (12 tight ends saw more). Goedert is a solid fantasy tight end -- he has finished 12th or better in PPG each of the past seven seasons -- but he often misses games (at least two in each of the past six years) and has never finished in the top eight at the position in targets or catches. The 31-year-old is likely to deliver fringe-TE1 numbers in 2026.",
           "currentSeason": {
             "points": 25.1,
@@ -3792,11 +3796,13 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Corum has spent his first two NFL seasons as Kyren Williams' backup, and that's expected to be the case again in 2026. The 2024 third-round NFL draft pick played well in the role last season, averaging a healthy 5.1 yards per carry (seventh among RBs) and scoring six touchdowns on 145 carries. However, Corum played only 29% of the Rams' snaps and remained a nonfactor as a receiver (36 yards on 14 targets). The 25-year-old has no standalone fantasy value, but he's an elite insurance stash, as he'd launch into the fringe-RB1 mix in the Rams' high-powered offense should Williams miss time.",
           "currentSeason": {
-            "points": 5.4,
-            "pointsPerGame": 5.4,
+            "points": 15.6,
+            "pointsPerGame": 7.800000000000001,
             "stats": {
-              "rushAtt": 10.0,
-              "rushYds": 54.0
+              "rushAtt": 22.0,
+              "rushYds": 133.0,
+              "rec": 1.0,
+              "recYds": 13.0
             }
           },
           "priorSeason": {
@@ -3944,44 +3950,44 @@
           "wins": 1
         },
         "division": {
-          "gamesBack": 0.0,
-          "losses": 0,
-          "percentage": 1.0,
+          "gamesBack": 1.0,
+          "losses": 1,
+          "percentage": 0.5,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "WIN",
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 0,
+          "losses": 1,
           "percentage": 0.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 0
         },
         "overall": {
-          "gamesBack": 0.0,
-          "losses": 0,
-          "percentage": 1.0,
-          "pointsAgainst": 117.72,
-          "pointsFor": 118.06,
+          "gamesBack": 1.0,
+          "losses": 1,
+          "percentage": 0.5,
+          "pointsAgainst": 253.14,
+          "pointsFor": 211.98000000000002,
           "streakLength": 1,
-          "streakType": "WIN",
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         }
       },
-      "playoffSeed": 5,
-      "points_for": 118.06,
-      "points_against": 117.72,
+      "playoffSeed": 6,
+      "points_for": 211.98000000000002,
+      "points_against": 253.14,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0,
       "roster": [
         {
@@ -4212,7 +4218,7 @@
           "name": "Alec Pierce",
           "position": "WR",
           "proTeam": "IND",
-          "injuryStatus": "QUESTIONABLE",
+          "injuryStatus": "DOUBTFUL",
           "seasonOutlook": "Pierce has spent the majority of his first four NFL seasons as a situational deep threat, but that didn't stop him from becoming one of the league's highest-paid wide receivers during the offseason. The 2022 second-round pick is fresh off a career year and he's now paced all receivers in YPR, YPT and aDOT each of the last two seasons. However, he's yet to finish a season better than 48th at WR in target share (18%), 42nd in targets (84), 45th in catches (47), 18th in yards (1,003), 18th in TDs (seven) or 25th in fantasy PPG. Of course, with Michael Pittman Jr. no longer in the mix, Pierce is a good bet for a more well-rounded role as Daniel Jones' top target. There's some risk here, but the 26-year-old's hefty contract suggests we should take him seriously as a fantasy WR3.",
           "currentSeason": {
             "points": 12.2,
@@ -4237,7 +4243,7 @@
           "name": "Caleb Williams",
           "position": "QB",
           "proTeam": "CHI",
-          "injuryStatus": "QUESTIONABLE",
+          "injuryStatus": "DOUBTFUL",
           "seasonOutlook": "Williams enters his third NFL season after a solid rookie campaign in 2024 followed by a big leap forward in 2025. Williams finished last season no lower than 11th among QBs in pass attempts, completions, pass yards, passing TDs, carries, rush yards, rush TDs and fantasy points per game. While Williams' completion percentage was one of the worst in the league (58%), his dual-threat ability and turnover avoidance (seven INTs both seasons) has led to solid fantasy output. The 2024 No. 1 draft pick has a good supporting cast in playcaller Ben Johnson and a trio of young pass catchers in Rome Odunze, Luther Burden III and Colston Loveland. Williams is a fringe QB1 with upside for another leap.",
           "currentSeason": {
             "points": 44.98,
@@ -4410,24 +4416,24 @@
         "away": {
           "gamesBack": 0.0,
           "losses": 0,
-          "percentage": 0.0,
+          "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 0,
-          "streakType": "NONE",
+          "streakLength": 1,
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 0
+          "wins": 1
         },
         "division": {
           "gamesBack": 1.0,
           "losses": 1,
-          "percentage": 0.0,
+          "percentage": 0.5,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "LOSS",
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 0
+          "wins": 1
         },
         "home": {
           "gamesBack": 0.0,
@@ -4443,19 +4449,19 @@
         "overall": {
           "gamesBack": 1.0,
           "losses": 1,
-          "percentage": 0.0,
-          "pointsAgainst": 135.82,
-          "pointsFor": 123.76,
+          "percentage": 0.5,
+          "pointsAgainst": 235.98,
+          "pointsFor": 257.0,
           "streakLength": 1,
-          "streakType": "LOSS",
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 0
+          "wins": 1
         }
       },
-      "playoffSeed": 8,
-      "points_for": 123.76,
-      "points_against": 135.82,
-      "wins": 0,
+      "playoffSeed": 5,
+      "points_for": 257.0,
+      "points_against": 235.98,
+      "wins": 1,
       "losses": 1,
       "ties": 0,
       "roster": [
@@ -4591,11 +4597,12 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Adams' first season in Los Angeles was a success, as the veteran led the wide receiver position in touchdowns for the third time in the past six seasons. His 27 end zone targets were nine more than any other player and he now sits second in that category (148) and in TDs from scrimmage (117) since entering the league in 2014. Adams' ninth-place finish in fantasy PPG marked his ninth top-10 in his past 10 seasons. Now 33 years old, he isn't targeted as much as in years past (24% target share in 2025 was his lowest since 2016), but he's the clear No. 2 behind Puka Nacua in the Rams' elite, Matthew Stafford-led offense. Adams' heavy usage near the goal line helps cement him as a fine fantasy WR2.",
           "currentSeason": {
-            "points": 5.6,
-            "pointsPerGame": 5.6,
+            "points": 45.1,
+            "pointsPerGame": 22.55,
             "stats": {
-              "rec": 3.0,
-              "recYds": 26.0
+              "rec": 11.0,
+              "recYds": 221.0,
+              "recTD": 2.0
             }
           },
           "priorSeason": {
@@ -4788,15 +4795,16 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "The reigning NFL MVP, Stafford returns for his 18th NFL season and his fifth with the Rams. The 38-year-old is fresh off an elite season in which he led the NFL in passing yards and touchdowns, which allowed him nine top-10 fantasy weeks (tied for third most at the position). Stafford's third-place finish in fantasy points per game was his first top-10 finish since 2019, and some regression is likely due to a complete lack of rushing (65 or fewer rushing yards in five straight seasons and one rushing touchdown since 2017). Stafford still has receivers Puka Nacua and Davante Adams and a strong offensive line at his disposal, so another big passing season is possible. That's just enough to keep him in the fringe QB1 mix.",
           "currentSeason": {
-            "points": 4.1,
-            "pointsPerGame": 4.1000000000000005,
+            "points": 31.08,
+            "pointsPerGame": 15.540000000000001,
             "stats": {
-              "passAtt": 25.0,
-              "passCmp": 15.0,
-              "passYds": 155.0,
-              "int": 1.0,
-              "rushAtt": 2.0,
-              "rushYds": -1.0
+              "passAtt": 56.0,
+              "passCmp": 37.0,
+              "passYds": 482.0,
+              "passTD": 4.0,
+              "int": 2.0,
+              "rushAtt": 6.0,
+              "rushYds": -2.0
             }
           },
           "priorSeason": {
@@ -5014,65 +5022,65 @@
       "playoffTierType": "NONE",
       "home": {
         "teamId": 1,
-        "totalPoints": 0.0
+        "totalPoints": 91.1
       },
       "away": {
         "teamId": 4,
-        "totalPoints": 0.0
+        "totalPoints": 115.9
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 2,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 9,
-        "totalPoints": 0.0
+        "totalPoints": 93.92
       },
       "away": {
         "teamId": 2,
-        "totalPoints": 0.0
+        "totalPoints": 135.42
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 2,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 7,
-        "totalPoints": 0.0
+        "totalPoints": 75.52
       },
       "away": {
         "teamId": 6,
-        "totalPoints": 0.0
+        "totalPoints": 133.68
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 2,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 8,
-        "totalPoints": 0.0
+        "totalPoints": 115.88
       },
       "away": {
         "teamId": 3,
-        "totalPoints": 0.0
+        "totalPoints": 99.16
       },
-      "winner": "UNDECIDED"
+      "winner": "HOME"
     },
     {
       "matchupPeriodId": 2,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 5,
-        "totalPoints": 0.0
+        "totalPoints": 100.16
       },
       "away": {
         "teamId": 10,
-        "totalPoints": 0.0
+        "totalPoints": 133.24
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 3,
@@ -5863,7 +5871,7 @@
     "activatedDate": 1786630093003,
     "createdAsLeagueType": 3,
     "currentLeagueType": 0,
-    "currentMatchupPeriod": 2,
+    "currentMatchupPeriod": 3,
     "finalScoringPeriod": 17,
     "firstScoringPeriod": 1,
     "isActive": true,
@@ -5873,13 +5881,13 @@
     "isToBeDeleted": false,
     "isViewable": false,
     "isWaiverOrderEdited": false,
-    "latestScoringPeriod": 2,
+    "latestScoringPeriod": 3,
     "previousSeasons": [],
-    "requestedMatchupPeriodId": 2,
-    "standingsUpdateDate": 1789975630678,
+    "requestedMatchupPeriodId": 3,
+    "standingsUpdateDate": 1790061864979,
     "teamsJoined": 10,
-    "transactionScoringPeriod": 2,
-    "waiverLastExecutionDate": 1789975630562,
+    "transactionScoringPeriod": 3,
+    "waiverLastExecutionDate": 1790061864598,
     "waiverProcessStatus": {
       "2026-09-16T07:11:50.770+00:00": 2
     }

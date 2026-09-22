@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T08:19:19.637369+00:00",
+  "generatedAt": "2026-09-22T04:38:43.502252+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 2,
   "matchups": [
@@ -9,7 +9,7 @@
       "home": {
         "score": 91.1,
         "projectedFinal": 91.1,
-        "winProbability": 0.01,
+        "winProbability": 0.0,
         "yetToPlay": [],
         "worstMistake": {
           "benched": "TreVeyon Henderson",
@@ -32,13 +32,10 @@
         }
       },
       "away": {
-        "score": 104.1,
-        "projectedFinal": 128.0,
-        "winProbability": 0.99,
-        "yetToPlay": [
-          "Jaxson Dart",
-          "Rams D/ST"
-        ],
+        "score": 115.9,
+        "projectedFinal": 115.9,
+        "winProbability": 1.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Devaughn Vele",
           "benchedPoints": 11.4,
@@ -53,14 +50,14 @@
           "delta": 7.5
         },
         "worstStarter": {
-          "name": "Drake London",
-          "actual": 8.9,
-          "projected": 12.9,
-          "delta": -4.0
+          "name": "Jaxson Dart",
+          "actual": 0.8,
+          "projected": 18.2,
+          "delta": -17.4
         }
       },
       "familyName": null,
-      "analysis": "Doakes22's sitting at 1% and locked in at 91.1, which is what happens when you bench TreVeyon Henderson (13.6) to start Saquon Barkley's abysmal 3.0-point dud\u2014that's a 10.6-point swing that turned what could've been competitive into a complete bloodbath before halftime. espnfan7338848211's already at 104.1 with an ESPN projection of 128.0, meaning they're about to drop a 37-point assbeating on you with Jaxson Dart and Rams D/ST still sitting there as the cherry on top. Brandon Aubrey outperforming his projection by 6.4 points is cute and all, but it's like bringing a knife to a nuclear war when Ja'Marr Chase is out here at 26.5 (projected 19.0) doing Ja'Marr things while your star running back decides to be a punchline. This matchup is genuinely over\u2014you're getting absolutely demolished by someone who benched Devaughn Vele for a 3.6-point mistake and still has enough firepower to bury you twice over."
+      "analysis": "Doakes22's completely cooked at 91.1 with a 0% win probability, getting absolutely demolished by espnfan7338848211's 115.9 final\u2014that's a 24.8-point gap that ESPN basically called before Doakes22's last starter even hit the field. The real catastrophe is benching TreVeyon Henderson (13.6) to start Saquon Barkley's embarrassing 3.0-point performance, a 10.6-point swing that turned this into a blowout instead of something remotely competitive when you were already getting stomped. Saquon projecting 17.6 and delivering 3.0 is bad enough, but making that start/sit call yourself and then watching Henderson put up 13.6 on your bench is the kind of decision that lives rent-free in your head all offseason\u2014meanwhile espnfan's Ja'Marr Chase went 26.5 (projected 19.0) while you were busy self-sabotaging with your running back. This one's been dead since Sunday morning kickoff."
     },
     {
       "homeOwner": "SteelerFan9828",
@@ -116,18 +113,16 @@
         }
       },
       "familyName": null,
-      "analysis": "SteelerFan9828's completely cooked at 93.9 with a 0% win probability, and this one was dead the moment you benched George Kittle for Colston Loveland and watched a 16.7-point swing evaporate\u2014you literally had an extra touchdown sitting on your bench while your actual starter contributed basically nothing. Caleb Williams finished at 7.7 when ESPN had him at 19.4, so your young QB stack decided to underperform at exactly the wrong time, but that's almost secondary to the fact that you made a catastrophically bad start/sit call that cost you nearly a full touchdown before either guy took another snap. 82Cole47's running away at 135.4 with 100% win probability and all starters locked in, which means Josh Allen's 18-point beat on projection was basically the dagger\u2014Cole also botched the Rachaad White/Tony Pollard call for a 6.8-point loss, but he's got such a massive cushion that his own incompetence barely registers. You maxed out Amon-Ra for 35.2 and somehow still got demolished because one bad sit/start decision turned a close matchup into a full blowout before the day was even over."
+      "analysis": "SteelerFan9828's completely cooked at 93.9 with a 0% win probability\u2014this one was dead the moment you benched George Kittle's 18.0 points to start Colston Loveland's 1.3-point catastrophe, a 16.7-point swing that turned what could've been competitive into a full blowout before either guy took another snap. Caleb Williams finishing at 7.7 when ESPN had him at 19.4 is rough, but that's almost secondary to the fact that you made one of the worst start/sit calls of the week and then compounded it by having your QB also underperform by 11.7 points\u2014that's basically two separate ways you sabotaged yourself before kickoff even mattered. 82Cole47's running away at 135.4 with 100% win probability and everyone already locked in, meaning Josh Allen's 18-point beat on projection was the exclamation point on a matchup that stopped being competitive the second you decided Loveland was the move over a tight end who actually caught footballs. You got absolutely punished for one decision you had full control over, and that's the kind of thing that's going to sting every time you look at the scoring summary this week."
     },
     {
       "homeOwner": "kconley5",
       "awayOwner": "Eric Brotmann",
       "home": {
-        "score": 72.5,
-        "projectedFinal": 81.9,
-        "winProbability": 0.01,
-        "yetToPlay": [
-          "Harrison Mevis"
-        ],
+        "score": 75.5,
+        "projectedFinal": 75.5,
+        "winProbability": 0.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Khalil Shakir",
           "benchedPoints": 6.8,
@@ -149,13 +144,10 @@
         }
       },
       "away": {
-        "score": 109.7,
-        "projectedFinal": 135.1,
-        "winProbability": 0.99,
-        "yetToPlay": [
-          "Kyren Williams",
-          "Isaiah Likely"
-        ],
+        "score": 133.7,
+        "projectedFinal": 133.7,
+        "winProbability": 1.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Dalton Kincaid",
           "benchedPoints": 22.5,
@@ -177,7 +169,7 @@
         }
       },
       "familyName": null,
-      "analysis": "kconley5's at 1% and ESPN's got them losing by 54 points at final (81.9 to 135.1), which is the kind of ass-kicking that doesn't need Harrison Mevis to complete\u2014this one was decided the moment you benched Khalil Shakir's 6.8 points to start Quentin Johnston's 2.4-point abomination, a -4.4 swing you absolutely couldn't afford when Bijan Robinson was already tanking you with 11.1 instead of the projected 22.9. Eric Brotmann's walking away at 99% with CeeDee Lamb's 35.3-point performance as your execution baseline, and yeah, he fucked up benching Dalton Kincaid's 22.5 for Rhamondre Stevenson's 3.6, but when you're already up 37 points with Kyren Williams and Isaiah Likely still pending, your own incompetence barely registers as a speedbump. You needed a completely different roster and a different set of lineup decisions to even make this competitive\u2014instead you got a clinic in how to sink yourself twice: once in the draft with Robinson's underperformance and again Sunday morning with the Johnston call that cost you a full touchdown you didn't have to lose."
+      "analysis": "kconley5's done at 75.5 points with a 0% win probability, getting absolutely demolished by Eric Brotmann's 133.7 final score\u2014this isn't even close to competitive at this point. You benched Khalil Shakir's 6.8 points to start Quentin Johnston's 2.4-point disaster, which is a -4.4 swing you absolutely couldn't absorb when Bijan Robinson was already tanking you with 11.1 instead of the projected 22.9. Eric also botched his start/sit by benching Dalton Kincaid's 22.5 for Rhamondre Stevenson's 3.6, but when you're up 58 points with all starters locked in, your own incompetence is just background noise\u2014CeeDee Lamb's 35.3-point performance did all the heavy lifting while you were busy making decisions that belong in a cautionary tale about Sunday morning panic."
     },
     {
       "homeOwner": "ESPNFAN6437471416",
@@ -211,15 +203,13 @@
         "score": 99.2,
         "projectedFinal": 99.2,
         "winProbability": 0.0,
-        "yetToPlay": [
-          "Puka Nacua"
-        ],
+        "yetToPlay": [],
         "worstMistake": {
-          "benched": "Patrick Mahomes",
-          "benchedPoints": 29.0,
-          "started": "Jalen Hurts",
-          "startedPoints": 16.2,
-          "margin": 12.8
+          "benched": "Jaylen Waddle",
+          "benchedPoints": 21.8,
+          "started": "Puka Nacua",
+          "startedPoints": 0.0,
+          "margin": 21.8
         },
         "bestStarter": {
           "name": "Travis Kelce",
@@ -235,18 +225,16 @@
         }
       },
       "familyName": null,
-      "analysis": "ESPNFAN6437471416's walking away with this one at 100% and 115.9 locked in, which is what happens when Brock Purdy decides to actually show up and beat his projection by 7.9 points instead of being the mid-range option people drafted him to be. espn88256878's completely buried the moment you benched Patrick Mahomes (29.0) to start Jalen Hurts (16.2)\u2014that's a 12.8-point swing that turned this into a blowout before halftime, and Puka Nacua still pending doesn't matter when you're already down 16.7 with ESPN calling it a 0% win probability. Javonte Williams also showed up as a liability at 8.0 instead of 16.7, so you're running double dead weight on a roster that was already cooked by a quarterback decision that shouldn't have been close\u2014you had one of the highest-scoring QBs on the waiver wire and actively chose to bench him for a guy who couldn't keep pace, which is the kind of decision that haunts you all season when you're watching games you should've won slip away."
+      "analysis": "ESPNFAN6437471416's walking out of this one at 100% with 115.9 locked in, and espn88256878 is completely cooked at 0%\u2014a 16.7-point gap that was essentially decided Sunday morning when you benched Jaylen Waddle's 21.8 points to start Puka Nacua's goose egg, which is a 21.8-point swing you absolutely didn't have when you're already getting outscored. Brock Purdy beating his projection by 7.9 while your best play was Travis Kelce overperforming at 25.1 tells you everything about how badly the rest of your roster underdelivered\u2014Javonte Williams coming in at 8.0 instead of 16.7 is a secondary disaster, but it's nothing compared to benching a WR who actually showed up to start one who contributed absolutely nothing. This matchup was over the second you made that start/sit call, and now you're staring at a loss that's entirely on the decision-maker rather than draft capital or bad luck."
     },
     {
       "homeOwner": "RGM2215",
       "awayOwner": "ESPNfan83795608",
       "home": {
-        "score": 99.1,
-        "projectedFinal": 114.0,
-        "winProbability": 0.01,
-        "yetToPlay": [
-          "Malik Nabers"
-        ],
+        "score": 100.2,
+        "projectedFinal": 100.2,
+        "winProbability": 0.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Jake Ferguson",
           "benchedPoints": 20.3,
@@ -261,23 +249,23 @@
           "delta": 9.7
         },
         "worstStarter": {
-          "name": "Jameson Williams",
-          "actual": 5.3,
-          "projected": 12.3,
-          "delta": -7.0
+          "name": "Malik Nabers",
+          "actual": 1.1,
+          "projected": 14.9,
+          "delta": -13.8
         }
       },
       "away": {
         "score": 133.2,
         "projectedFinal": 133.2,
-        "winProbability": 0.99,
+        "winProbability": 1.0,
         "yetToPlay": [],
         "worstMistake": {
-          "benched": "Mark Andrews",
-          "benchedPoints": 10.9,
-          "started": "Tucker Kraft",
-          "startedPoints": 3.5,
-          "margin": 7.4
+          "benched": "Davante Adams",
+          "benchedPoints": 39.5,
+          "started": "Mike Evans",
+          "startedPoints": 8.4,
+          "margin": 31.1
         },
         "bestStarter": {
           "name": "Jaxon Smith-Njigba",
@@ -293,21 +281,21 @@
         }
       },
       "familyName": null,
-      "analysis": "RGM2215's at 1% and about to get absolutely skull-fucked by a 34-point deficit with only Malik Nabers left to save them\u2014that's what happens when you bench Jake Ferguson's 20.3 points to start DK Metcalf's 6.7-point ghost of a performance, a decision that cost you 13.6 points you literally cannot afford down 34. ESPNfan83795608's already locked at 133.2 with 99% win probability and everyone in the books, which means you needed Nabers to go full superhero mode just to make this embarrassing loss slightly less embarrassing, and that's not happening. Jameson Williams also showed up as dead weight at 5.3 when he was supposed to contribute 12.3, so you're buried in consecutive bad calls while your opponent's sitting pretty with Jaxon Smith-Njigba's 42.5-point explosion already in the bank\u2014this one's been over since you made that start/sit call Sunday morning."
+      "analysis": "RGM2215's getting absolutely demolished at 0% win probability with a final score of 100.2, and honestly the only reason this isn't even worse is because Dak actually showed up and beat his projection by 9.8 points\u2014too bad that got completely buried by benching Jake Ferguson (20.3) to start DK Metcalf's pathetic 6.7-point ghost, a decision that cost you 13.6 points you literally couldn't afford down 34. ESPNfan83795608's locked in at 133.2 with 100% win probability and everyone in the books, meaning Jaxon Smith-Njigba's 42.5-point explosion (projected 18.5) already closed this out before halftime. Malik Nabers' 1.1-point dud didn't help your cause either, but the real story here is that you made an inexplicable start/sit call and then watched it cost you a full touchdown while your opponent was already celebrating\u2014even ESPNfan's own mistake benching Davante Adams (39.5) for Mike Evans (8.4) couldn't save you because they're just that far ahead. This one belongs entirely to ESPNfan now, and you get to spend the rest of the week knowing you handed them the win Sunday morning with a decision that belongs in a screenshot labeled \"how not to manage a roster.\""
     }
   ],
   "recentLines": [
+    "Doakes22's completely cooked at 91.1 with a 0% win probability, getting absolutely demolished by espnfan7338848211's 115.9 final\u2014that's a 24.8-point gap that ESPN basically called before Doakes22's last starter even hit the field. The real catastrophe is benching TreVeyon Henderson (13.6) to start Saquon Barkley's embarrassing 3.0-point performance, a 10.6-point swing that turned this into a blowout instead of something remotely competitive when you were already getting stomped. Saquon projecting 17.6 and delivering 3.0 is bad enough, but making that start/sit call yourself and then watching Henderson put up 13.6 on your bench is the kind of decision that lives rent-free in your head all offseason\u2014meanwhile espnfan's Ja'Marr Chase went 26.5 (projected 19.0) while you were busy self-sabotaging with your running back. This one's been dead since Sunday morning kickoff.",
+    "SteelerFan9828's completely cooked at 93.9 with a 0% win probability\u2014this one was dead the moment you benched George Kittle's 18.0 points to start Colston Loveland's 1.3-point catastrophe, a 16.7-point swing that turned what could've been competitive into a full blowout before either guy took another snap. Caleb Williams finishing at 7.7 when ESPN had him at 19.4 is rough, but that's almost secondary to the fact that you made one of the worst start/sit calls of the week and then compounded it by having your QB also underperform by 11.7 points\u2014that's basically two separate ways you sabotaged yourself before kickoff even mattered. 82Cole47's running away at 135.4 with 100% win probability and everyone already locked in, meaning Josh Allen's 18-point beat on projection was the exclamation point on a matchup that stopped being competitive the second you decided Loveland was the move over a tight end who actually caught footballs. You got absolutely punished for one decision you had full control over, and that's the kind of thing that's going to sting every time you look at the scoring summary this week.",
+    "kconley5's done at 75.5 points with a 0% win probability, getting absolutely demolished by Eric Brotmann's 133.7 final score\u2014this isn't even close to competitive at this point. You benched Khalil Shakir's 6.8 points to start Quentin Johnston's 2.4-point disaster, which is a -4.4 swing you absolutely couldn't absorb when Bijan Robinson was already tanking you with 11.1 instead of the projected 22.9. Eric also botched his start/sit by benching Dalton Kincaid's 22.5 for Rhamondre Stevenson's 3.6, but when you're up 58 points with all starters locked in, your own incompetence is just background noise\u2014CeeDee Lamb's 35.3-point performance did all the heavy lifting while you were busy making decisions that belong in a cautionary tale about Sunday morning panic.",
+    "ESPNFAN6437471416's walking out of this one at 100% with 115.9 locked in, and espn88256878 is completely cooked at 0%\u2014a 16.7-point gap that was essentially decided Sunday morning when you benched Jaylen Waddle's 21.8 points to start Puka Nacua's goose egg, which is a 21.8-point swing you absolutely didn't have when you're already getting outscored. Brock Purdy beating his projection by 7.9 while your best play was Travis Kelce overperforming at 25.1 tells you everything about how badly the rest of your roster underdelivered\u2014Javonte Williams coming in at 8.0 instead of 16.7 is a secondary disaster, but it's nothing compared to benching a WR who actually showed up to start one who contributed absolutely nothing. This matchup was over the second you made that start/sit call, and now you're staring at a loss that's entirely on the decision-maker rather than draft capital or bad luck.",
+    "RGM2215's getting absolutely demolished at 0% win probability with a final score of 100.2, and honestly the only reason this isn't even worse is because Dak actually showed up and beat his projection by 9.8 points\u2014too bad that got completely buried by benching Jake Ferguson (20.3) to start DK Metcalf's pathetic 6.7-point ghost, a decision that cost you 13.6 points you literally couldn't afford down 34. ESPNfan83795608's locked in at 133.2 with 100% win probability and everyone in the books, meaning Jaxon Smith-Njigba's 42.5-point explosion (projected 18.5) already closed this out before halftime. Malik Nabers' 1.1-point dud didn't help your cause either, but the real story here is that you made an inexplicable start/sit call and then watched it cost you a full touchdown while your opponent was already celebrating\u2014even ESPNfan's own mistake benching Davante Adams (39.5) for Mike Evans (8.4) couldn't save you because they're just that far ahead. This one belongs entirely to ESPNfan now, and you get to spend the rest of the week knowing you handed them the win Sunday morning with a decision that belongs in a screenshot labeled \"how not to manage a roster.\"",
     "Doakes22's sitting at 1% and locked in at 91.1, which is what happens when you bench TreVeyon Henderson (13.6) to start Saquon Barkley's abysmal 3.0-point dud\u2014that's a 10.6-point swing that turned what could've been competitive into a complete bloodbath before halftime. espnfan7338848211's already at 104.1 with an ESPN projection of 128.0, meaning they're about to drop a 37-point assbeating on you with Jaxson Dart and Rams D/ST still sitting there as the cherry on top. Brandon Aubrey outperforming his projection by 6.4 points is cute and all, but it's like bringing a knife to a nuclear war when Ja'Marr Chase is out here at 26.5 (projected 19.0) doing Ja'Marr things while your star running back decides to be a punchline. This matchup is genuinely over\u2014you're getting absolutely demolished by someone who benched Devaughn Vele for a 3.6-point mistake and still has enough firepower to bury you twice over.",
     "SteelerFan9828's completely cooked at 93.9 with a 0% win probability, and this one was dead the moment you benched George Kittle for Colston Loveland and watched a 16.7-point swing evaporate\u2014you literally had an extra touchdown sitting on your bench while your actual starter contributed basically nothing. Caleb Williams finished at 7.7 when ESPN had him at 19.4, so your young QB stack decided to underperform at exactly the wrong time, but that's almost secondary to the fact that you made a catastrophically bad start/sit call that cost you nearly a full touchdown before either guy took another snap. 82Cole47's running away at 135.4 with 100% win probability and all starters locked in, which means Josh Allen's 18-point beat on projection was basically the dagger\u2014Cole also botched the Rachaad White/Tony Pollard call for a 6.8-point loss, but he's got such a massive cushion that his own incompetence barely registers. You maxed out Amon-Ra for 35.2 and somehow still got demolished because one bad sit/start decision turned a close matchup into a full blowout before the day was even over.",
     "kconley5's at 1% and ESPN's got them losing by 54 points at final (81.9 to 135.1), which is the kind of ass-kicking that doesn't need Harrison Mevis to complete\u2014this one was decided the moment you benched Khalil Shakir's 6.8 points to start Quentin Johnston's 2.4-point abomination, a -4.4 swing you absolutely couldn't afford when Bijan Robinson was already tanking you with 11.1 instead of the projected 22.9. Eric Brotmann's walking away at 99% with CeeDee Lamb's 35.3-point performance as your execution baseline, and yeah, he fucked up benching Dalton Kincaid's 22.5 for Rhamondre Stevenson's 3.6, but when you're already up 37 points with Kyren Williams and Isaiah Likely still pending, your own incompetence barely registers as a speedbump. You needed a completely different roster and a different set of lineup decisions to even make this competitive\u2014instead you got a clinic in how to sink yourself twice: once in the draft with Robinson's underperformance and again Sunday morning with the Johnston call that cost you a full touchdown you didn't have to lose.",
     "ESPNFAN6437471416's walking away with this one at 100% and 115.9 locked in, which is what happens when Brock Purdy decides to actually show up and beat his projection by 7.9 points instead of being the mid-range option people drafted him to be. espn88256878's completely buried the moment you benched Patrick Mahomes (29.0) to start Jalen Hurts (16.2)\u2014that's a 12.8-point swing that turned this into a blowout before halftime, and Puka Nacua still pending doesn't matter when you're already down 16.7 with ESPN calling it a 0% win probability. Javonte Williams also showed up as a liability at 8.0 instead of 16.7, so you're running double dead weight on a roster that was already cooked by a quarterback decision that shouldn't have been close\u2014you had one of the highest-scoring QBs on the waiver wire and actively chose to bench him for a guy who couldn't keep pace, which is the kind of decision that haunts you all season when you're watching games you should've won slip away.",
     "RGM2215's at 1% and about to get absolutely skull-fucked by a 34-point deficit with only Malik Nabers left to save them\u2014that's what happens when you bench Jake Ferguson's 20.3 points to start DK Metcalf's 6.7-point ghost of a performance, a decision that cost you 13.6 points you literally cannot afford down 34. ESPNfan83795608's already locked at 133.2 with 99% win probability and everyone in the books, which means you needed Nabers to go full superhero mode just to make this embarrassing loss slightly less embarrassing, and that's not happening. Jameson Williams also showed up as dead weight at 5.3 when he was supposed to contribute 12.3, so you're buried in consecutive bad calls while your opponent's sitting pretty with Jaxon Smith-Njigba's 42.5-point explosion already in the bank\u2014this one's been over since you made that start/sit call Sunday morning.",
     "Doakes22's dead in the water at 1% win probability with 91.1 final points locked in, getting absolutely demolished by espnfan7338848211's projected 128.0 finish\u2014that's a 37-point beatdown where the only thing keeping this from being a complete blowout is the fact that espnfan still has Jaxson Dart and Rams D/ST left to play. The real killer is benching TreVeyon Henderson (13.6) for Saquon Barkley's pathetic 3.0 points, which cost you 10.6 points you absolutely needed when you're already getting stomped\u2014that's the difference between looking slightly less embarrassed and whatever this is. Saquon projecting 17.6 and delivering 3.0 is inexplicable, but at least you've got Brandon Aubrey outperforming by 6.4 points to cushion the blow slightly; espnfan's Ja'Marr Chase going absolutely nuclear at 26.5 (projected 19.0) basically sealed your fate before halftime. This one's over except for the formality of final scores hitting.",
-    "SteelerFan9828's completely cooked at 93.9 with a 0% win probability, and this one was decided the moment you benched George Kittle for Colston Loveland and watched that 16.7-point swing evaporate\u2014you literally had an extra touchdown sitting on your bench while your actual starter contributed basically nothing. Caleb Williams finished at 7.7 when ESPN had him at 19.4, so your young QB stack decided to underperform at exactly the wrong time, but that's almost secondary to the fact that you made a catastrophically bad start/sit call that cost you nearly a full touchdown before either guy took another snap. 82Cole47's running away at 135.4 with 100% win probability, which means Josh Allen's 18-point beat on projection was basically the dagger\u2014Cole's just got safer remaining execution across the board and the projection cushion to prove it. You maxed out Amon-Ra for 35.2 and now need eight more guys to collectively bail you out of a decision that shouldn't have needed bailing out in the first place.",
-    "Eric Brotmann's walking away with this one at 99% and ESPN's projecting him to finish at 135.1 while you're staring down 81.9\u2014that's a 53-point gap that tells you everything you need to know about how badly this one got away from you. CeeDee Lamb absolutely carried you on his back with 35.3 points while Bijan Robinson decided to be a fucking afterthought at 11.1 instead of the 22.9 he was supposed to hit, so you're already down 11.8 points before we even get to the real disaster: you benched Khalil Shakir's 6.8 points to start Quentin Johnston's 2.4-point dud, which is a -4.4 swing that cost you a roster spot you didn't have to lose. Eric's sitting pretty with CeeDee already eating, and yeah, he fucked up benching Dalton Kincaid's 22.5 for Rhamondre Stevenson's 3.6, but he's got such a massive cushion that even his own incompetence barely dents his win probability\u2014you needed a miracle this week and instead got a masterclass in how not to manage a roster. With Harrison Mevis your only remaining play and Eric still having Kyren Williams and Isaiah Likely to pad the lead, this one's done.",
-    "ESPNFAN6437471416's already got this locked at 115.9 with 100% win probability, which is what happens when Brock Purdy decides to actually beat his projection by 7.9 points instead of being the mid-range option everyone drafted him to be. But here's the thing that's going to haunt espn88256878 all week: benching Patrick Mahomes (29.0) to start Jalen Hurts (16.2) cost you 12.8 fucking points, and that's the difference between this being close and getting absolutely embarrassed by a full touchdown with Puka Nacua still pending. Javonte Williams also decided to show up as a liability at 8.0 when you needed 16.7, so you're running double dead weight on a roster that's already buried before your last starter even takes the field. espn88256878 somehow out-projected Hurts with Kelce (25.1 vs 10.5) and still got smoked because the rest of your lineup made decisions that belong in a Reddit post titled \"How I Lost My League,\" and now you're watching the clock tick on a loss that was fully self-inflicted before halftime Sunday.",
-    "RGM2215's down 34.1 points with Malik Nabers as the only lifeline, and ESPN's got them at 1% because that's basically what happens when you bench Jake Ferguson for 20.3 points to start DK Metcalf's 6.7-point corpse\u2014that's a 13.6-point swing you're trying to overcome before your remaining guy even catches a snap. ESPNfan's sitting at 99% win probability with everyone already in the books at 133.2, which means you needed your entire remaining stack to go absolutely nuclear while also praying their already-locked scores somehow retroactively got lower, and neither of those things are happening. Jameson Williams also decided to be completely useless at 5.3 when he was supposed to be 12.3, so you're buried in self-inflicted holes while ESPNfan's already celebrating\u2014Nabers would need a 35-point monster game just to make this competitive, and that's not the math that usually works out when you're down this far with one guy left.",
-    "Doakes22's looking at 128.2 projected versus espnfan7338848211's 121.9, and ESPN's got you favored at 53% to win\u2014basically a coin flip that slightly breaks your way because Jefferson, Saquon, Barkley, and Lamar are just safer remaining execution than watching espnfan's entire gameplan hinge on Ja'Marr Chase going nuclear. espnfan's already squeezed everything out of LaPorta with that 17.2-point ceiling game, so now you're asking for Chase, Kenneth Walker, and Drake London to all collectively hit their floors while your volume machines just show up normally, and that's not the execution math that usually works when you're spotting someone nearly 7 points. Both teams are basically wire-to-wire still, but Doakes22's remaining nine guys are just better positioned to produce consistently than espnfan's eight, so unless Chase decides to go absolutely superhero mode while your entire skill position group simultaneously tanks, you should coast this one down to the finish.",
-    "SteelerFan9828's sitting at 45% and ESPN's got them losing by 7.6 points (133.8 to 141.4), which is a brutal final margin when both teams still have seven starters left to play\u2014Cole's already riding Josh Allen's 18-point beat on projection and now just needs Trey McBride, Tony Pollard, and Rome Odunze to show up at their floors while you're asking Jeremiyah Love, Breece Hall, and Caleb Williams to collectively execute flawlessly after maxing out everything Amon-Ra had left in the tank. You don't have a lineup mistake to point at, but that's almost worse because it means you just built a roster that peaks with one guy going nuclear instead of distributing your risk across studs who can all hit projection simultaneously\u2014Cole's cleaner remaining execution and nearly 10-point projection cushion basically says his volume guys just produce better than your young skill position stack down the stretch. This one's Cole's to lose unless your entire remaining offense suddenly goes absolutely nuclear while his consistent machines all decide to tank, but ESPN's calling it decisively in his direction because you squeezed everything out of one asset and now need perfection across the board to catch up."
+    "SteelerFan9828's completely cooked at 93.9 with a 0% win probability, and this one was decided the moment you benched George Kittle for Colston Loveland and watched that 16.7-point swing evaporate\u2014you literally had an extra touchdown sitting on your bench while your actual starter contributed basically nothing. Caleb Williams finished at 7.7 when ESPN had him at 19.4, so your young QB stack decided to underperform at exactly the wrong time, but that's almost secondary to the fact that you made a catastrophically bad start/sit call that cost you nearly a full touchdown before either guy took another snap. 82Cole47's running away at 135.4 with 100% win probability, which means Josh Allen's 18-point beat on projection was basically the dagger\u2014Cole's just got safer remaining execution across the board and the projection cushion to prove it. You maxed out Amon-Ra for 35.2 and now need eight more guys to collectively bail you out of a decision that shouldn't have needed bailing out in the first place."
   ]
 }

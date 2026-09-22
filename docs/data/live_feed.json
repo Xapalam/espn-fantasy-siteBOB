@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-09-21T04:40:03.376134+00:00",
+  "generatedAt": "2026-09-22T04:38:20.837980+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 2,
   "events": [
+    {
+      "type": "benched",
+      "owner": "ESPNfan83795608",
+      "player": "Davante Adams",
+      "position": "WR",
+      "actual": 39.5,
+      "projected": 15.49770958,
+      "line": "Holy shit, you benched Davante Adams and he put up 39.5 points\u2014that's not just leaving points on your bench, that's leaving a fucking championship on the sideline."
+    },
     {
       "type": "benched",
       "owner": "espn88256878",
@@ -10,7 +19,16 @@
       "position": "QB",
       "actual": 28.98,
       "projected": 18.22038326,
-      "line": "You absolute coward\u2014benched Mahomes for 29 fucking points? That's what happens when you panic like a little bitch instead of trusting the guy who's been carrying your sorry ass all season."
+      "line": "You benched Patrick fucking Mahomes for 29 points? That's not a bad week, that's a catastrophic decision that'll haunt you when you're explaining why you missed the playoffs by 5 points."
+    },
+    {
+      "type": "benched",
+      "owner": "ESPNfan83795608",
+      "player": "Matthew Stafford",
+      "position": "QB",
+      "actual": 26.98,
+      "projected": 18.21125763,
+      "line": "Matthew Stafford just shit the bed on your bench with 27 points while you started whoever the fuck else, so congrats on leaving nearly 30 points on the goddamn waiver wire this week you absolute donut."
     },
     {
       "type": "over",
@@ -19,7 +37,7 @@
       "position": "WR",
       "actual": 42.5,
       "projected": 18.49166582,
-      "line": "JSN just went absolutely nuclear and ESPNfan83795608 still managed to look like a genius by accident\u2014dude projected 18.5 and got 42.5, so either he's a time-traveler or he just got insanely lucky starting this absolute monster."
+      "line": "JSN just went absolutely nuclear and ESPNfan83795608 finally remembered what it feels like to have a receiver actually show up\u2014hopefully this is the start of something real and not just another false hope from a season held together with duct tape and prayers."
     },
     {
       "type": "benched",
@@ -28,7 +46,7 @@
       "position": "TE",
       "actual": 22.5,
       "projected": 10.43216445,
-      "line": "Eric, you absolute coward\u2014benched Kincaid while he exploded for 22.5 and you took the L because you didn't have the balls to trust your own guy. That's not strategy, that's just leaving money on the table like a moron."
+      "line": "Eric sat Kincaid on the bench and watched him put up 22.5 fucking points, more than double his projection\u2014that's what happens when you panic and don't trust your tight end, you absolute donkey."
     },
     {
       "type": "benched",
@@ -37,7 +55,7 @@
       "position": "WR",
       "actual": 21.8,
       "projected": 12.17764993,
-      "line": "Benching a guy who just dropped 21.8 on your ass? That's not strategy, that's just psychological warfare against yourself \u2014 hope you enjoyed watching that from the bench while you started whoever the hell you thought was gonna outscore him."
+      "line": "Jaylen Waddle just dropped 21.8 points on your bench while you started someone who probably shit the bed\u2014congrats on that galaxy brain move, espn88256878, nothing says \"I know what I'm doing\" like benching a WR who outscored his projection by 9 fucking points."
     },
     {
       "type": "benched",
@@ -46,7 +64,7 @@
       "position": "WR",
       "actual": 21.7,
       "projected": 10.32716219,
-      "line": "Stefon Diggs dropped 21.7 points on your fucking bench while you started someone who probably caught one pass and a prayer, so congrats on that championship-caliber decision, espn88256878."
+      "line": "Bench Stefon Diggs while he puts up 21.7? Jesus Christ, espn88256878, that's the kind of decision-making that gets you laughed out of the league\u2014dude absolutely fucking exploded and you were too scared to trust him, congrats on leaving 11 points on your bench like an absolute coward."
     },
     {
       "type": "benched",
@@ -55,7 +73,7 @@
       "position": "TE",
       "actual": 20.3,
       "projected": 9.6247704,
-      "line": "RGM2215 really said \"nah, I don't need 20 fucking points from my tight end this week\" and benched Ferguson like he was some waiver-wire scrub\u2014congrats on leaving that on the bench while your starter probably put up 4.2 and a prayer."
+      "line": "Jake Ferguson just dropped 20 fuckin' points on your bench while you started whatever waiver wire trash you thought was the move, RGM2215\u2014congrats on leaving that on the table like a complete jackass."
     },
     {
       "type": "over",
@@ -64,7 +82,7 @@
       "position": "QB",
       "actual": 40.82,
       "projected": 22.65422402,
-      "line": "Josh Allen just put up 40.8 points and absolutely shit all over his projection\u2014meanwhile 82Cole47 probably spent all week sweating whether to bench him for some waiver wire dart throw, then lucked into the best QB performance of the week anyway."
+      "line": "Josh Allen just shit all over your projection like it was a Miami defense, and 82Cole47 still managed to look like a genius for once\u2014too bad your entire team's gonna blow this lead by Sunday night like it always does."
     },
     {
       "type": "benched",
@@ -73,25 +91,7 @@
       "position": "TE",
       "actual": 18.0,
       "projected": 10.50388985,
-      "line": "SteelerFan9828 really said \"nah, I'm good\" and benched Kittle for 18 points\u2014might as well have lit that projection advantage on fire and used it to warm your hands while your season implodes."
-    },
-    {
-      "type": "over",
-      "owner": "Eric Brotmann",
-      "player": "CeeDee Lamb",
-      "position": "WR",
-      "actual": 35.3,
-      "projected": 17.99875061,
-      "line": "Eric, CeeDee just dropped a fucking 35-burger on your ass and you still look like a genius for starting him\u2014which is wild because half your draft strategy is guessing blindly at Cowboys receivers and praying."
-    },
-    {
-      "type": "benched",
-      "owner": "ESPNFAN6437471416",
-      "player": "Parker Washington",
-      "position": "WR",
-      "actual": 16.8,
-      "projected": 12.19179173,
-      "line": "Benched Parker Washington and watched him drop 16.8 on your bench\u2014that's not coaching, that's sabotage, ESPNFAN. Your lineup's gonna feel that one for the rest of the season."
+      "line": "SteelerFan9828, you absolute coward\u2014Kittle went off for 18 points on your bench while you started some waiver-wire lottery ticket, and now you're gonna spend all week wondering what could've been."
     }
   ]
 }

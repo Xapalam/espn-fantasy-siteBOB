@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T08:18:41.497983+00:00",
+  "generatedAt": "2026-09-25T04:40:28.201426+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 3,
   "matchups": [
@@ -9,7 +9,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 113.2,
-        "winProbability": 0.43,
+        "winProbability": 0.38,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Jeremiyah Love",
@@ -26,38 +26,46 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 128.3,
-        "winProbability": 0.57,
+        "score": 22.6,
+        "projectedFinal": 137.9,
+        "winProbability": 0.62,
         "yetToPlay": [
           "Justin Jefferson",
           "Saquon Barkley",
           "Brock Bowers",
           "George Pickens",
           "Lamar Jackson",
-          "Christian Watson",
           "Chuba Hubbard",
           "Brandon Aubrey",
-          "Buccaneers D/ST"
+          "Vikings D/ST"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Christian Watson",
+          "actual": 22.6,
+          "projected": 14.0,
+          "delta": 8.6
+        },
+        "worstStarter": {
+          "name": "Christian Watson",
+          "actual": 22.6,
+          "projected": 14.0,
+          "delta": 8.6
+        }
       },
       "familyName": null,
-      "analysis": "Doakes22's walking this one at 57% win probability with a 128.3 projection versus SteelerFan9828's 113.7\u2014that's a 14.6-point gap that doesn't disappear just because both teams are starting from zero. SteelerFan's got nine starters left, sure, but they're banking on depth guys and Joe Burrow to somehow outscore Lamar Jackson, Saquon Barkley, and Justin Jefferson, which is basically the fantasy equivalent of showing up to a gunfight with a knife. Neither of you made a meaningful lineup mistake, so this is pure roster construction, and SteelerFan got absolutely outgunned at every premium position\u2014ESPN's confidence in that 14.6-point buffer isn't some fluke, it's just recognizing that three top-tier talents beat nine mid-tier guys every single time. Doakes should be able to coast this out barring a complete meltdown, while SteelerFan's gonna need a genuinely historic performance from their entire remaining lineup just to make this competitive at all."
+      "analysis": "SteelerFan9828's staring down a 62-38 hole with ESPN projecting a 137.9 finish for Doakes versus 113.2\u2014that's a 24.7-point deficit that doesn't magically disappear just because nine starters are still pending. SteelerFan's got the volume play with Amon-Ra, Breece Hall, and Joe Burrow all left to go, but ESPN's basically saying that's the fantasy equivalent of showing up with a squirt gun when Doakes is running Lamar Jackson, Saquon Barkley, and Justin Jefferson\u2014three premium weapons that each hit their ceiling more often than nine depth guys combine to outscore them. Neither of you made a meaningful lineup mistake, so this is purely a draft capital execution problem: SteelerFan needed to be better at the premium positions back in August, and instead they're now hoping for a historic performance from mid-tier talent to overcome a roster that was built to win games like this from the jump. Doakes should coast this one out barring a complete implosion, while SteelerFan's gonna need literally everything to break perfectly just to make this competitive."
     },
     {
       "homeOwner": "espnfan7338848211",
       "awayOwner": "kconley5",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 127.8,
-        "winProbability": 0.55,
+        "score": 28.4,
+        "projectedFinal": 140.8,
+        "winProbability": 0.53,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
-          "Drake London",
           "D'Andre Swift",
           "Zay Flowers",
           "Sam LaPorta",
@@ -66,37 +74,56 @@
           "Tyler Shough"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Drake London",
+          "actual": 28.4,
+          "projected": 15.4,
+          "delta": 13.0
+        },
+        "worstStarter": {
+          "name": "Drake London",
+          "actual": 28.4,
+          "projected": 15.4,
+          "delta": 13.0
+        }
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 117.6,
-        "winProbability": 0.45,
+        "score": 35.3,
+        "projectedFinal": 136.1,
+        "winProbability": 0.47,
         "yetToPlay": [
-          "Bijan Robinson",
           "Derrick Henry",
+          "Ladd McConkey",
           "Tee Higgins",
           "David Montgomery",
           "Drake Maye",
           "Harold Fannin Jr.",
-          "Quentin Johnston",
           "Harrison Mevis",
           "Eagles D/ST"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Bijan Robinson",
+          "actual": 35.3,
+          "projected": 19.5,
+          "delta": 15.8
+        },
+        "worstStarter": {
+          "name": "Bijan Robinson",
+          "actual": 35.3,
+          "projected": 19.5,
+          "delta": 15.8
+        }
       },
       "familyName": null,
-      "analysis": "espnfan7338848211's sitting at 55% with a 10.2-point projection cushion, which should hold up when Ja'Marr Chase and Kenneth Walker are still in the chamber\u2014but kconley5's got enough horses left that this doesn't turn into a coronation if Bijan and Henry actually run wild like they're capable of. Both of you have completely clean rosters with no self-inflicted wounds, so this is pure Sunday execution: espnfan needs Chase to actually hit his ceiling and Walker to get fed, while kconley5's leaning on the Henry/Montgomery power combo to chip away at that deficit. ESPN's giving espnfan the edge here, but that 10-point buffer evaporates fast if kconley5's RBs dominate and espnfan's receivers decide to disappear\u2014this one's staying genuinely competitive all the way through until one offense actually shows up and the other doesn't."
+      "analysis": "espnfan7338848211's holding onto a 53% win probability with a 4.7-point projection edge, but that Drake London 28.4 is basically carrying dead weight compared to what's still pending\u2014Ja'Marr Chase, Kenneth Walker, and D'Andre Swift are the real lineup here, and ESPN's banking on them actually delivering instead of the typical \"I drafted elite talent but it didn't show up\" energy that defines your season. kconley5's Bijan Robinson already did the heavy lifting to keep this tight, and Derrick Henry plus David Montgomery still sitting in the chamber means this thing stays competitive all the way through since both rosters are loaded enough to hit their targets. espnfan7338848211 catches the edge and should hold serve, but kconley5's got absolutely enough firepower left that this doesn't get decided until someone's offense actually performs down the stretch instead of vanishing when the points matter\u2014don't celebrate yet when both these depth charts are stacked enough to swing this thing completely."
     },
     {
       "homeOwner": "82Cole47",
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 0.0,
-        "projectedFinal": 127.8,
+        "projectedFinal": 128.6,
         "winProbability": 0.52,
         "yetToPlay": [
           "Jahmyr Gibbs",
@@ -104,7 +131,7 @@
           "Josh Allen",
           "Quinshon Judkins",
           "Rome Odunze",
-          "Tony Pollard",
+          "Michael Pittman Jr.",
           "Romeo Doubs",
           "Ka'imi Fairbairn",
           "Seahawks D/ST"
@@ -115,7 +142,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 123.4,
+        "projectedFinal": 124.9,
         "winProbability": 0.48,
         "yetToPlay": [
           "James Cook III",
@@ -133,14 +160,14 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "Both rosters are stacked with nine starters left apiece, and ESPN's got this at a dead heat with Cole catching the slimmest edge at 52% win probability and a 4.4-point projection buffer (127.8 to 123.4). Cole's got the better talent concentration with Gibbs, Allen, and Odunze all capable of closing out a matchup like this, while ESPNFAN's counting on Purdy and Chase Brown to keep pace\u2014neither of you made a meaningful mistake, so this is pure execution Sunday with the projection gap staying razor-thin the whole way. This one genuinely stays competitive until someone's offense actually shows up, but Cole catches the edge because ESPN's basically saying his remaining firepower converts slightly more often than ESPNFAN's when both lineups are loaded enough that execution is all that matters."
+      "analysis": "82Cole47's walking this one at 52% win probability with a 3.7-point projection edge (128.6 to 124.9), which basically means ESPN thinks Cole's remaining talent is fractionally more likely to actually show up than ESPNFAN's when both rosters are stacked enough that execution is the only variable left. Cole's got Jahmyr Gibbs, Josh Allen, Trey McBride, and Rome Odunze all still pending\u2014that's a genuinely elite four-pack of remaining firepower\u2014while ESPNFAN's countering with James Cook, Garrett Wilson, Brock Purdy, and Cam Skattebo, which is solid but slightly less polished at the premium spots. Neither of you made a meaningful lineup mistake, so this is pure roster construction meeting Sunday execution, and Cole should be able to hold on unless ESPNFAN's entire remaining lineup goes full ceiling mode while Cole's underperforms across the board. This one stays competitive all the way through since the projection gap is thin enough that a couple of breakout performances flip the script, but Cole catches the edge and ESPN's basically saying his remaining guys are the safer floor plays when it actually matters."
     },
     {
       "homeOwner": "Eric Brotmann",
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 121.2,
+        "projectedFinal": 123.9,
         "winProbability": 0.5,
         "yetToPlay": [
           "Jonathan Taylor",
@@ -148,10 +175,10 @@
           "DeVonta Smith",
           "Kyren Williams",
           "Isaiah Likely",
-          "Rhamondre Stevenson",
           "Justin Herbert",
+          "Dalton Kincaid",
           "Cameron Dicker",
-          "Ravens D/ST"
+          "Panthers D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -159,15 +186,15 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 122.2,
+        "projectedFinal": 122.9,
         "winProbability": 0.5,
         "yetToPlay": [
           "Christian McCaffrey",
           "De'Von Achane",
           "Malik Nabers",
+          "Travis Etienne Jr.",
           "Tyler Warren",
           "Jameson Williams",
-          "DK Metcalf",
           "Dak Prescott",
           "Jason Myers",
           "Chiefs D/ST"
@@ -177,15 +204,15 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "Eric's staring down a dead heat at 0-0 with RGM, and ESPN's basically saying \"flip a coin\" at 50-50 win probability\u2014the only separating factor is that microscopic 1-point projection edge to RGM at 122.2 versus Eric's 121.2, which is meaningless when both teams are running nine starters straight into the Sunday gauntlet. Eric's leaning on Taylor, Lamb, and Smith to carry the offensive load while RGM's countering with McCaffrey and Achane as the centerpieces, so this comes down to pure execution and whoever's guys actually remember how to catch a football when it matters instead of putting up practice-squad numbers. Neither of you torched yourselves on the bench, so ESPN's not handing this to either side\u2014this is a straight coin flip that probably gets decided by some random third-option receiver catching a TD in garbage time, which means both of you should just sit back and watch Sunday unfold knowing the margin's gonna be razor-thin no matter what happens."
+      "analysis": "Eric and RGM are locked in a dead-even 50-50 coin flip at 0-0, with ESPN projecting Eric's 123.9 finish barely edging RGM's 122.9\u2014basically saying neither team fucked up a start/sit decision, so this entire matchup comes down to which nine starters actually show up Sunday instead of collectively deciding to phone it in. Eric's got Taylor, Lamb, and Smith carrying the offensive load while RGM's banking on McCaffrey and Achane to keep pace, meaning the difference between winning and losing probably comes down to some third-option receiver catching a random TD or one team's game script tilting favorable. Neither roster has any meaningful mistakes to blame, so ESPN's basically calling this a pure execution matchup where the margin's gonna be razor-thin no matter who takes it\u2014just sit back and watch Sunday unfold knowing that 1-point projection gap is meaningless when both teams are running full lineups into the gauntlet and one random TD could decide everything."
     },
     {
       "homeOwner": "espn88256878",
       "awayOwner": "ESPNfan83795608",
       "home": {
         "score": 0.0,
-        "projectedFinal": 127.0,
-        "winProbability": 0.52,
+        "projectedFinal": 107.2,
+        "winProbability": 0.41,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -202,40 +229,49 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 122.4,
-        "winProbability": 0.48,
+        "score": 6.6,
+        "projectedFinal": 123.1,
+        "winProbability": 0.59,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Omarion Hampton",
           "Chris Olave",
-          "Mike Evans",
+          "Davante Adams",
           "Jaylen Warren",
-          "Tucker Kraft",
           "Texans D/ST",
           "Cairo Santos",
           "Bryce Young"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Tucker Kraft",
+          "actual": 6.6,
+          "projected": 10.3,
+          "delta": -3.7
+        },
+        "worstStarter": {
+          "name": "Tucker Kraft",
+          "actual": 6.6,
+          "projected": 10.3,
+          "delta": -3.7
+        }
       },
       "familyName": null,
-      "analysis": "ESPN88256878's walking away with this at 52% win probability and ESPN projecting a 127.0 finish versus ESPNfan83795608's 122.4\u2014that's a 4.6-point gap that stays competitive as long as both rosters actually show up Sunday instead of collectively deciding to sleepwalk through their slate. ESPN88256878's got the edge with Mahomes, Travis Kelce, and Ashton Jeanty all still pending to pad that lead, while ESPNfan's counting on Jaxon Smith-Njigba and Omarion Hampton to claw back into this\u2014neither of you sabotaged yourselves with a brutal start/sit decision, so this is purely a matter of which remaining talent converts at a higher rate. ESPN88256878 gets the slight nod and the projection buffer, but ESPNfan's absolutely got enough firepower left that this stays within reach if your top guys actually perform instead of disappearing when the game matters\u2014enjoy the sweat, because this one's legitimately undecided until the final whistle."
+      "analysis": "ESPN88256878's walking this one at 52% win probability with a 127.0 projection versus ESPNfan83795608's 122.4\u2014that's a 4.6-point gap that actually means something when both teams are sitting at zero and need their entire remaining lineup to actually show up instead of collectively ghosting on Sunday. ESPN88256878's got the better talent density with Mahomes, Kelce, and Jeanty all still pending to pad that lead, while ESPNfan's counting on Smith-Njigba and Hampton to claw back\u2014neither of you sabotaged yourselves on the bench, so this is purely execution Sunday where the team with better remaining firepower closes it out. ESPN88256878 should hold on here given the projection edge and win probability cushion, but ESPNfan's absolutely got enough horses left that this stays competitive if your top guys actually perform instead of disappearing when the game matters most."
     }
   ],
   "recentLines": [
+    "SteelerFan9828's staring down a 62-38 hole with ESPN projecting a 137.9 finish for Doakes versus 113.2\u2014that's a 24.7-point deficit that doesn't magically disappear just because nine starters are still pending. SteelerFan's got the volume play with Amon-Ra, Breece Hall, and Joe Burrow all left to go, but ESPN's basically saying that's the fantasy equivalent of showing up with a squirt gun when Doakes is running Lamar Jackson, Saquon Barkley, and Justin Jefferson\u2014three premium weapons that each hit their ceiling more often than nine depth guys combine to outscore them. Neither of you made a meaningful lineup mistake, so this is purely a draft capital execution problem: SteelerFan needed to be better at the premium positions back in August, and instead they're now hoping for a historic performance from mid-tier talent to overcome a roster that was built to win games like this from the jump. Doakes should coast this one out barring a complete implosion, while SteelerFan's gonna need literally everything to break perfectly just to make this competitive.",
+    "espnfan7338848211's holding onto a 53% win probability with a 4.7-point projection edge, but that Drake London 28.4 is basically carrying dead weight compared to what's still pending\u2014Ja'Marr Chase, Kenneth Walker, and D'Andre Swift are the real lineup here, and ESPN's banking on them actually delivering instead of the typical \"I drafted elite talent but it didn't show up\" energy that defines your season. kconley5's Bijan Robinson already did the heavy lifting to keep this tight, and Derrick Henry plus David Montgomery still sitting in the chamber means this thing stays competitive all the way through since both rosters are loaded enough to hit their targets. espnfan7338848211 catches the edge and should hold serve, but kconley5's got absolutely enough firepower left that this doesn't get decided until someone's offense actually performs down the stretch instead of vanishing when the points matter\u2014don't celebrate yet when both these depth charts are stacked enough to swing this thing completely.",
+    "82Cole47's walking this one at 52% win probability with a 3.7-point projection edge (128.6 to 124.9), which basically means ESPN thinks Cole's remaining talent is fractionally more likely to actually show up than ESPNFAN's when both rosters are stacked enough that execution is the only variable left. Cole's got Jahmyr Gibbs, Josh Allen, Trey McBride, and Rome Odunze all still pending\u2014that's a genuinely elite four-pack of remaining firepower\u2014while ESPNFAN's countering with James Cook, Garrett Wilson, Brock Purdy, and Cam Skattebo, which is solid but slightly less polished at the premium spots. Neither of you made a meaningful lineup mistake, so this is pure roster construction meeting Sunday execution, and Cole should be able to hold on unless ESPNFAN's entire remaining lineup goes full ceiling mode while Cole's underperforms across the board. This one stays competitive all the way through since the projection gap is thin enough that a couple of breakout performances flip the script, but Cole catches the edge and ESPN's basically saying his remaining guys are the safer floor plays when it actually matters.",
+    "Eric and RGM are locked in a dead-even 50-50 coin flip at 0-0, with ESPN projecting Eric's 123.9 finish barely edging RGM's 122.9\u2014basically saying neither team fucked up a start/sit decision, so this entire matchup comes down to which nine starters actually show up Sunday instead of collectively deciding to phone it in. Eric's got Taylor, Lamb, and Smith carrying the offensive load while RGM's banking on McCaffrey and Achane to keep pace, meaning the difference between winning and losing probably comes down to some third-option receiver catching a random TD or one team's game script tilting favorable. Neither roster has any meaningful mistakes to blame, so ESPN's basically calling this a pure execution matchup where the margin's gonna be razor-thin no matter who takes it\u2014just sit back and watch Sunday unfold knowing that 1-point projection gap is meaningless when both teams are running full lineups into the gauntlet and one random TD could decide everything.",
+    "ESPN88256878's walking this one at 52% win probability with a 127.0 projection versus ESPNfan83795608's 122.4\u2014that's a 4.6-point gap that actually means something when both teams are sitting at zero and need their entire remaining lineup to actually show up instead of collectively ghosting on Sunday. ESPN88256878's got the better talent density with Mahomes, Kelce, and Jeanty all still pending to pad that lead, while ESPNfan's counting on Smith-Njigba and Hampton to claw back\u2014neither of you sabotaged yourselves on the bench, so this is purely execution Sunday where the team with better remaining firepower closes it out. ESPN88256878 should hold on here given the projection edge and win probability cushion, but ESPNfan's absolutely got enough horses left that this stays competitive if your top guys actually perform instead of disappearing when the game matters most.",
     "Doakes22's walking this one at 57% win probability with a 128.3 projection versus SteelerFan9828's 113.7\u2014that's a 14.6-point gap that doesn't disappear just because both teams are starting from zero. SteelerFan's got nine starters left, sure, but they're banking on depth guys and Joe Burrow to somehow outscore Lamar Jackson, Saquon Barkley, and Justin Jefferson, which is basically the fantasy equivalent of showing up to a gunfight with a knife. Neither of you made a meaningful lineup mistake, so this is pure roster construction, and SteelerFan got absolutely outgunned at every premium position\u2014ESPN's confidence in that 14.6-point buffer isn't some fluke, it's just recognizing that three top-tier talents beat nine mid-tier guys every single time. Doakes should be able to coast this out barring a complete meltdown, while SteelerFan's gonna need a genuinely historic performance from their entire remaining lineup just to make this competitive at all.",
     "espnfan7338848211's sitting at 55% with a 10.2-point projection cushion, which should hold up when Ja'Marr Chase and Kenneth Walker are still in the chamber\u2014but kconley5's got enough horses left that this doesn't turn into a coronation if Bijan and Henry actually run wild like they're capable of. Both of you have completely clean rosters with no self-inflicted wounds, so this is pure Sunday execution: espnfan needs Chase to actually hit his ceiling and Walker to get fed, while kconley5's leaning on the Henry/Montgomery power combo to chip away at that deficit. ESPN's giving espnfan the edge here, but that 10-point buffer evaporates fast if kconley5's RBs dominate and espnfan's receivers decide to disappear\u2014this one's staying genuinely competitive all the way through until one offense actually shows up and the other doesn't.",
     "Both rosters are stacked with nine starters left apiece, and ESPN's got this at a dead heat with Cole catching the slimmest edge at 52% win probability and a 4.4-point projection buffer (127.8 to 123.4). Cole's got the better talent concentration with Gibbs, Allen, and Odunze all capable of closing out a matchup like this, while ESPNFAN's counting on Purdy and Chase Brown to keep pace\u2014neither of you made a meaningful mistake, so this is pure execution Sunday with the projection gap staying razor-thin the whole way. This one genuinely stays competitive until someone's offense actually shows up, but Cole catches the edge because ESPN's basically saying his remaining firepower converts slightly more often than ESPNFAN's when both lineups are loaded enough that execution is all that matters.",
     "Eric's staring down a dead heat at 0-0 with RGM, and ESPN's basically saying \"flip a coin\" at 50-50 win probability\u2014the only separating factor is that microscopic 1-point projection edge to RGM at 122.2 versus Eric's 121.2, which is meaningless when both teams are running nine starters straight into the Sunday gauntlet. Eric's leaning on Taylor, Lamb, and Smith to carry the offensive load while RGM's countering with McCaffrey and Achane as the centerpieces, so this comes down to pure execution and whoever's guys actually remember how to catch a football when it matters instead of putting up practice-squad numbers. Neither of you torched yourselves on the bench, so ESPN's not handing this to either side\u2014this is a straight coin flip that probably gets decided by some random third-option receiver catching a TD in garbage time, which means both of you should just sit back and watch Sunday unfold knowing the margin's gonna be razor-thin no matter what happens.",
     "ESPN88256878's walking away with this at 52% win probability and ESPN projecting a 127.0 finish versus ESPNfan83795608's 122.4\u2014that's a 4.6-point gap that stays competitive as long as both rosters actually show up Sunday instead of collectively deciding to sleepwalk through their slate. ESPN88256878's got the edge with Mahomes, Travis Kelce, and Ashton Jeanty all still pending to pad that lead, while ESPNfan's counting on Jaxon Smith-Njigba and Omarion Hampton to claw back into this\u2014neither of you sabotaged yourselves with a brutal start/sit decision, so this is purely a matter of which remaining talent converts at a higher rate. ESPN88256878 gets the slight nod and the projection buffer, but ESPNfan's absolutely got enough firepower left that this stays within reach if your top guys actually perform instead of disappearing when the game matters\u2014enjoy the sweat, because this one's legitimately undecided until the final whistle.",
     "Doakes22's walking away with this at 57% win probability and a 128.3 projection versus SteelerFan9828's 113.2\u2014that's a 15-point gap that's basically the death knell when both teams are starting from absolute zero. SteelerFan's got nine starters left including Joe Burrow, which is absolutely the kind of \"well at least I have depth\" energy that gets you demolished by a roster that just happens to have Lamar Jackson, Saquon Barkley, and Justin Jefferson all sitting in the chamber still. Neither of you made a meaningful lineup mistake, so this is pure draft capital, and SteelerFan basically got outgunned at every premium position\u2014ESPN's confidence in Doakes's remaining firepower is basically saying \"yeah, that 15-point cushion is staying intact.\" SteelerFan would need literally a perfect storm of production from nine mid-tier guys while Doakes completely tanks, which isn't happening when you're running three top-tier talents that are each capable of a 30-point day. This one's over in spirit if not on the scoreboard.",
-    "espnfan7338848211's sitting at 55% with a 127.8 projected finish and has the edge here, but kconley5's only 10.2 points back at 117.6 with nine starters still pending\u2014that's close enough that a solid game from Bijan Robinson or Derrick Henry flips this entirely. Both rosters are clean with no lineup mistakes, so this comes down to pure execution: espnfan's banking on Ja'Marr Chase and Kenneth Walker to extend the lead while kconley5's running the Henry/Montgomery power run game to keep pace. espnfan7338848211 should edge this out given the projection cushion and win probability, but kconley5's absolutely got enough firepower left that this stays competitive all the way through\u2014don't celebrate early when both your depth charts are stacked and Sunday's still got eight quarters of football left to play.",
-    "82Cole47's walking this one with 52% win probability and ESPN projecting 127.8 to ESPNFAN6437471416's 123.4\u2014that's a 4.4-point gap that feels like nothing when both of you are sitting at zero with a full slate still pending, but Cole's got the better remaining talent to actually close it out. Cole's got Jahmyr Gibbs, Josh Allen, and Rome Odunze all left to go, while ESPNFAN's banking on Brock Purdy and Chase Brown to keep pace\u2014neither of you made a meaningful mistake, so this is just pure roster matchup where Cole's got the fractionally better guys still in the pipeline. This one stays competitive all the way through since the projection gap is razor-thin and both rosters are loaded enough to hit their targets, but Cole catches the slight edge from ESPN's algorithm and should be able to hold on unless ESPNFAN's entire lineup goes off and Cole's underperforms across the board.",
-    "Eric and RGM are basically trading punches at 0-0 with ESPN calling this a dead even matchup at 50-50 win probability and separating them by a single point in final projections (122.2 to 121.2)\u2014meaning this entire thing hinges on which remaining starters actually convert instead of disappearing when it counts. Eric's leaning on Jonathan Taylor, CeeDee Lamb, and DeVonta Smith to carry the load, while RGM's betting Christian McCaffrey and De'Von Achane can keep pace, so neither of you sabotaged yourselves with a brutal start/sit call and now it's just pure execution Sunday. This one's genuinely a coin flip where the margin probably gets decided by some random touchdown vulture or game script quirk that neither of you actually controlled\u2014RGM catches the slightest edge from ESPN's projection, but we're talking a point separating these rosters, which means enjoy Sunday knowing this stays competitive straight through to the final snap.",
-    "ESPN88256878's walking out with this at 52% win probability and ESPN projecting a 127.0 finish versus ESPNfan83795608's 122.4\u2014that's a 4.6-point gap that evaporates the second Jaxon Smith-Njigba or Omarion Hampton actually catches passes instead of sitting on the bench invisible. Both teams are starting from zero with nine starters left apiece, so ESPN88256878's not coasting anywhere\u2014Puka Nacua, Ashton Jeanty, and Travis Kelce need to actually perform to that 127.0 projection instead of deciding to phone it in like they're playing a preseason game. ESPNfan's absolutely got the firepower to flip this with Mike Evans and Chris Olave both still pending, which means this one's staying competitive all the way through until someone's offense actually shows up and the other stalls out. ESPN88256878 gets the edge and the projection buffer, but this is legitimately a coin flip when both rosters are stacked enough that execution Sunday is all that matters\u2014enjoy the sweat.",
-    "Doakes22's sitting at 57% with a 128.3 projection and has the edge here, but SteelerFan9828's still got nine starters left including Lamar Jackson's backup Joe Burrow, so this theoretically stays alive until the final whistle\u2014except ESPN's basically saying that 14.6-point cushion is too much to overcome when both rosters are starting from zero. SteelerFan's got the volume with Amon-Ra, Breece Hall, and Emeka Egbuka all pending, but none of that matters when Doakes is running Lamar, Saquon, and Justin Jefferson\u2014that's three top-tier guys versus a roster built on depth and prayer, which is exactly why ESPN's giving the 57% nod to the team that didn't settle for mid-tier talent at the skill positions. Neither of you made a meaningful mistake, so this is pure roster evaluation, and SteelerFan basically got outgunned in the draft when they built a team that needs nine starters to keep pace with Doakes's three studs. Doakes should coast this barring some catastrophic meltdown, but hey, at least SteelerFan9828 can see where they went wrong this time instead of blaming a start/sit call.",
-    "kconley5's got this at 53% win probability with ESPN projecting a 115.0 finish versus espnfan7338848211's 109.0\u2014that's a 6-point gap that basically says kconley5's depth at running back (Bijan, Henry, Montgomery) is gonna outlast espnfan's skill position guys when both teams are starting from zero on Sunday. espnfan's Ja'Marr Chase and Kenneth Walker are definitely capable, but kconley5's got the more complete offensive line of remaining starters and ESPN's basically calling that the difference-maker here. Both rosters are clean with no catastrophic start/sit mistakes, so this one's pure talent matchup\u2014and right now the algorithm's favoring kconley5's firepower slightly more, though espnfan's absolutely got the upside to flip this if Chase goes off and Walker actually gets fed the ball. Enjoy Sunday knowing this stays genuinely competitive all the way through."
+    "espnfan7338848211's sitting at 55% with a 127.8 projected finish and has the edge here, but kconley5's only 10.2 points back at 117.6 with nine starters still pending\u2014that's close enough that a solid game from Bijan Robinson or Derrick Henry flips this entirely. Both rosters are clean with no lineup mistakes, so this comes down to pure execution: espnfan's banking on Ja'Marr Chase and Kenneth Walker to extend the lead while kconley5's running the Henry/Montgomery power run game to keep pace. espnfan7338848211 should edge this out given the projection cushion and win probability, but kconley5's absolutely got enough firepower left that this stays competitive all the way through\u2014don't celebrate early when both your depth charts are stacked and Sunday's still got eight quarters of football left to play."
   ]
 }

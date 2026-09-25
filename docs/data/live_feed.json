@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-09-22T08:17:49.404354+00:00",
+  "generatedAt": "2026-09-25T04:40:08.023512+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 3,
-  "events": []
+  "events": [
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "Matthew Golden",
+      "position": "WR",
+      "actual": 21.0,
+      "projected": 11.41006123,
+      "line": "Eric, you absolute donkey\u2014Matthew Golden just dropped 21 points on your bench while you were out here playing it safe with your projected 11.4, and now you're gonna spend all week wondering what could've been if you had even a shred of fucking conviction."
+    },
+    {
+      "type": "over",
+      "owner": "kconley5",
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "actual": 35.3,
+      "projected": 19.53551847,
+      "line": "Bijan just dropped 35.3 on your ass and somehow still outperformed expectations\u2014kconley5, you absolute coward, you've been benching this man all season and finally got desperate enough to play him when he decides to go full fucking nuclear."
+    },
+    {
+      "type": "over",
+      "owner": "espnfan7338848211",
+      "player": "Drake London",
+      "position": "WR",
+      "actual": 28.4,
+      "projected": 15.39077055,
+      "line": "Drake London just went absolutely nuclear and you still almost benched him, you coward\u2014next time trust your guys instead of panic-scrolling your lineup at 11:59 PM like a maniac."
+    },
+    {
+      "type": "over",
+      "owner": "Doakes22",
+      "player": "Christian Watson",
+      "position": "WR",
+      "actual": 22.6,
+      "projected": 14.02890438,
+      "line": "Watson absolutely went off for 22.6 and Doakes22 still managed to look like a genius by accident\u2014congrats on finally starting someone who didn't shit the bed, maybe this is the week your season turns around."
+    }
+  ]
 }

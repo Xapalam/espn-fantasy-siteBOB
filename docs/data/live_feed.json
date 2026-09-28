@@ -1,43 +1,97 @@
 {
-  "generatedAt": "2026-09-25T04:40:08.023512+00:00",
+  "generatedAt": "2026-09-28T04:41:24.469022+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 3,
   "events": [
+    {
+      "type": "benched",
+      "owner": "SteelerFan9828",
+      "player": "George Kittle",
+      "position": "TE",
+      "actual": 26.2,
+      "projected": 12.66907373,
+      "line": "SteelerFan9828, you absolute moron\u2014Kittle just dropped 26 fucking points on your bench while you started whoever the hell else, and that's what you get for panic-benching the one tight end who actually shows up."
+    },
+    {
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "Michael Wilson",
+      "position": "WR",
+      "actual": 25.9,
+      "projected": 11.31613394,
+      "line": "kconley5 really said \"nah, I don't need 25 points this week\" and threw Michael Wilson on the bench like he was some league minimum scrub\u2014absolute fucking choke job when you need every point you can get."
+    },
     {
       "type": "benched",
       "owner": "Eric Brotmann",
       "player": "Matthew Golden",
       "position": "WR",
       "actual": 21.0,
-      "projected": 11.41006123,
-      "line": "Eric, you absolute donkey\u2014Matthew Golden just dropped 21 points on your bench while you were out here playing it safe with your projected 11.4, and now you're gonna spend all week wondering what could've been if you had even a shred of fucking conviction."
+      "projected": 11.41006178,
+      "line": "Eric, you absolute coward\u2014Matthew Golden put up 21 points on your bench while you were probably sweating over some washed-up vet you started instead, and now you get to watch that L hit different knowing you benched the game-winner."
     },
     {
-      "type": "over",
-      "owner": "kconley5",
-      "player": "Bijan Robinson",
-      "position": "RB",
-      "actual": 35.3,
-      "projected": 19.53551847,
-      "line": "Bijan just dropped 35.3 on your ass and somehow still outperformed expectations\u2014kconley5, you absolute coward, you've been benching this man all season and finally got desperate enough to play him when he decides to go full fucking nuclear."
+      "type": "benched",
+      "owner": "ESPNfan83795608",
+      "player": "Jordan Addison",
+      "position": "WR",
+      "actual": 20.0,
+      "projected": 10.56855596,
+      "line": "Jordan Addison just dropped 20 points on your bench while you were out here starting some JAG, and that's what we call a masterclass in fantasy incompetence\u2014enjoy watching that L from the sidelines, you absolute donkey."
     },
     {
-      "type": "over",
+      "type": "benched",
+      "owner": "ESPNFAN6437471416",
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "actual": 19.78,
+      "projected": 17.47131556,
+      "line": "Trevor Lawrence just put up nearly 20 points on your bench while you started whoever the fuck you had at QB instead\u2014congrats on that galaxy brain decision, ESPNFAN6437471416, your \"safer floor\" pick probably cost you the week."
+    },
+    {
+      "type": "benched",
       "owner": "espnfan7338848211",
-      "player": "Drake London",
+      "player": "Terry McLaurin",
       "position": "WR",
-      "actual": 28.4,
-      "projected": 15.39077055,
-      "line": "Drake London just went absolutely nuclear and you still almost benched him, you coward\u2014next time trust your guys instead of panic-scrolling your lineup at 11:59 PM like a maniac."
+      "actual": 19.7,
+      "projected": 11.81179177,
+      "line": "espnfan7338848211 just benched Terry McLaurin for 19.7 points and I'm genuinely impressed by the commitment to making the worst fucking decision possible\u2014dude's out here leaving nearly 20 points on his bench like he's intentionally trying to lose."
     },
     {
-      "type": "over",
-      "owner": "Doakes22",
-      "player": "Christian Watson",
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "Jakobi Meyers",
       "position": "WR",
-      "actual": 22.6,
-      "projected": 14.02890438,
-      "line": "Watson absolutely went off for 22.6 and Doakes22 still managed to look like a genius by accident\u2014congrats on finally starting someone who didn't shit the bed, maybe this is the week your season turns around."
+      "actual": 19.4,
+      "projected": 9.29467769,
+      "line": "kconley5 really said \"nah, I don't need 19 points on my bench\" \u2014 congrats on the most expensive coaching decision of your season, you absolute donkey."
+    },
+    {
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual": 19.36,
+      "projected": 16.61992624,
+      "line": "kconley5 really benched Goff for a fuckin' 3-point ceiling this week, huh? That's what happens when you panic and get cute\u2014dude left 19 points on his bench like a coward."
+    },
+    {
+      "type": "benched",
+      "owner": "RGM2215",
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "actual": 18.7,
+      "projected": 8.00417237,
+      "line": "Benching Wan'Dale for 18.7 points while he laughs on your bench? That's the kind of decision-making that'll haunt you come playoff time, RGM2215\u2014might as well have left money on the table and burned it."
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "De'Von Achane",
+      "position": "RB",
+      "actual": 1.7,
+      "projected": 19.42224362,
+      "line": "RGM2215 really said \"fuck it, I'm starting De'Von Achane\" and watched him put up 1.7 points like some kind of fantasy masochist\u2014that's what you get for thinking Miami's backfield was going to cooperate with your delusions."
     }
   ]
 }

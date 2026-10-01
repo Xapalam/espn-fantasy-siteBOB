@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:20:57.745504+00:00",
+  "generatedAt": "2026-10-01T04:42:21.391116+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 4,
   "matchups": [
@@ -8,14 +8,14 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 0.0,
-        "projectedFinal": 132.5,
-        "winProbability": 0.53,
+        "projectedFinal": 126.4,
+        "winProbability": 0.5,
         "yetToPlay": [
-          "Justin Jefferson",
           "Saquon Barkley",
           "Brock Bowers",
           "George Pickens",
           "Lamar Jackson",
+          "Luther Burden III",
           "Christian Watson",
           "Chuba Hubbard",
           "Brandon Aubrey",
@@ -27,14 +27,14 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 124.8,
-        "winProbability": 0.47,
+        "projectedFinal": 126.4,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
-          "Ladd McConkey",
           "Tee Higgins",
           "David Montgomery",
+          "Michael Wilson",
           "Harold Fannin Jr.",
           "Harrison Mevis",
           "Jared Goff",
@@ -45,15 +45,15 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "Doakes22's sitting pretty at 53% win probability with ESPN projecting a 7.7-point lead (132.5 to 124.8), which means you've got the edge but this thing is absolutely not decided with both rosters still loaded and waiting to play. You're banking on Lamar, Saquon, and Jefferson to hold serve while kconley5's countering with Bijan, Henry, and Tee Higgins\u2014this is a legitimately tight matchup where whoever's ceiling games actually connect is walking out with the W. The math favors you slightly because your studs are marginally better on paper, but ESPN's basically saying this is a toss-up until the final whistle blows, so don't start planning your victory lap just yet. Both of you managed to avoid any actual lineup mistakes, which is genuinely impressive considering the carnage happening elsewhere this week, so this is pure projection roulette between two rosters that are just about evenly matched\u2014enjoy the stress."
+      "analysis": "Both managers are projecting to 126.4 and ESPN's got this dead even at 50-50, which means you're about to sweat through nine full starters per side before this thing gets decided\u2014this is a legitimate coin flip where whoever's studs actually show up instead of phoning it in is walking away with the W. Doakes22's banking on Lamar, Saquon, and Brock Bowers to carry the load while kconley5's countering with Bijan, Henry, and Tee Higgins, so the projections are basically saying both rosters are equally talented and equally capable of either winning or getting run off the field. Neither one of you managed to fuck up your lineups, which is genuinely impressive considering how many people are leaving points on their benches this week, so this entire matchup comes down to execution and ceiling games hitting\u2014enjoy the stress for the next three days because ESPN's telling you there's no mathematical edge here, just pure roster roulette."
     },
     {
       "homeOwner": "ESPNFAN6437471416",
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 0.0,
-        "projectedFinal": 121.3,
-        "winProbability": 0.61,
+        "projectedFinal": 122.4,
+        "winProbability": 0.51,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
@@ -71,25 +71,25 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 99.7,
-        "winProbability": 0.39,
+        "projectedFinal": 119.5,
+        "winProbability": 0.49,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Jeremiyah Love",
-          "Breece Hall",
-          "Colston Loveland",
           "Emeka Egbuka",
+          "Carnell Tate",
           "Joe Burrow",
-          "Xavier Worthy",
+          "George Kittle",
           "Steelers D/ST",
-          "Chris Boswell"
+          "Chris Boswell",
+          "Braelon Allen"
         ],
         "worstMistake": null,
         "bestStarter": null,
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "ESPNFAN6437471416's got this at 61% with ESPN projecting a 21.6-point win (121.3 to 99.7), which is basically a done deal unless SteelerFan9828's entire remaining slate decides to go full ceiling mode while half of your studs tank\u2014and that's only happening 39% of the time according to the math. You're banking on Cook, Wilson, Purdy, and the 49ers D to show up within normal range, while SteelerFan needs Amon-Ra and Breece Hall to absolutely explode just to avoid getting mercy-ruled by a roster that's objectively better built at every skill position. Both of you still have nine starters left to play, so technically this isn't locked until the final whistle, but ESPN's essentially telling SteelerFan that roster construction incompetence is about to cost you the week\u2014your team just doesn't have the ceiling plays to overcome that gap, even if everything breaks right. This is the kind of matchup where one team just built significantly better depth and it shows in the projections as a steadily widening margin that's really hard to overcome when you're already an underdog."
+      "analysis": "This is a dead heat that ESPN's basically refusing to call\u2014127.1 projected final for ESPNFAN6437471416 versus 119.5 for SteelerFan9828, sitting at 51-49 win probability, which means you're both sweating until the final whistle with nine starters apiece still waiting to either save you or bury you. ESPNFAN's got the slight edge because Cook, Wilson, and Purdy are marginally better ceiling plays than Amon-Ra, Love, and Burrow, but that 7.6-point gap is basically ESPN saying \"we genuinely have no idea,\" so one guy's studs hitting ceiling while the other's land near floor decides this entire thing. Both rosters are evenly talented enough that there's no roster construction argument to make here\u2014you're both just hoping your skill positions actually show up instead of phoning in a Sunday performance, and whoever does that walks out with the W. This is the kind of matchup where bragging rights come down to pure dumb luck and which lineup's studs decided to remember how to play football on the same day, so buckle in and prepare for a stress-filled afternoon."
     },
     {
       "homeOwner": "RGM2215",
@@ -115,7 +115,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 133.0,
+        "projectedFinal": 132.9,
         "winProbability": 0.69,
         "yetToPlay": [
           "Ja'Marr Chase",
@@ -133,25 +133,25 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "RGM2215's looking at a 39-point projection deficit with ESPN calling this 69-31 in espnfan7338848211's favor, which is basically a mercy rule masquerading as a matchup\u2014you need your entire remaining slate to hit ceiling while your opponent needs their guys to just show up somewhere in the ballpark of normal. Christian McCaffrey, Dak Prescott, and Ja'Marr Chase are all studs, but the math is fundamentally broken when ESPN's already got you down by the time kickoff happens and your opponent's got nine equally explosive weapons still waiting to pile on. espnfan built a roster that's just objectively better at every skill position, and now you're paying the price by needing lightning to strike multiple times just to make this respectable instead of getting run off the field\u2014there's no lineup mistakes to hide behind here, just pure personnel incompetence that's about to be on full display. Your 31% win probability isn't a path to victory, it's ESPN being generous enough to acknowledge that flukey shit happens sometimes, but the reality is that Kenneth Walker III and D'Andre Swift are about to remind you why you should've invested in actual talent instead of hoping your late-round fliers could carry you against a stacked roster."
+      "analysis": "RGM2215's staring down a 39-point projected deficit with ESPN calling this 69-31 in espnfan7338848211's favor, which means you need your entire remaining slate to hit ceiling while your opponent's studs just need to show up and collect paychecks. Christian McCaffrey, Dak Prescott, Ja'Marr Chase, and Kenneth Walker III are all certified weapons, but ESPN's essentially already got you down by 39 before the first snap even happens\u2014that's not a winnable position, that's a roster construction disaster on full display. You've still got nine starters left to play, so technically it's not over until the final whistle, but the math is fundamentally broken when espnfan built depth at every single skill position and you're hoping for lightning to strike multiple times just to make this respectable instead of getting mercy-ruled. The gap between your 31% win probability and their 69% isn't about bad luck or missed starts\u2014it's about one team building an actual NFL roster and one team apparently drafting in the dark with the sound off."
     },
     {
       "homeOwner": "ESPNfan83795608",
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 127.1,
-        "winProbability": 0.49,
+        "projectedFinal": 130.5,
+        "winProbability": 0.51,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
           "Bucky Irving",
           "Davante Adams",
           "Jaylen Warren",
-          "Tucker Kraft",
           "Texans D/ST",
           "Cairo Santos",
-          "Bryce Young"
+          "Bryce Young",
+          "Kenyon Sadiq"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -160,7 +160,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 128.5,
-        "winProbability": 0.51,
+        "winProbability": 0.49,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -177,7 +177,7 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "ESPNfan83795608 and 82Cole47 are locked in a dead heat\u2014ESPN's got this at 127.1 to 128.5 with both managers sitting right around 50% win probability, which is basically asking the fantasy gods to flip a coin and not blink while nine studs per side are still waiting to either bail you out or bury you. Smith-Njigba and Olave versus Gibbs and Josh Allen is the kind of firepower matchup where ESPN just throws up its hands, so whoever's roster decides to actually show up instead of phone in a Sunday performance is walking away with this. Neither one of you made any actual mistakes to roast, which is honestly refreshing after watching the dumpster fires happening elsewhere, so you're both just gonna sit there sweating until the final kicker limps off the field\u2014this entire thing comes down to whose studs remember how to play football and whose decide to take a nap."
+      "analysis": "Both of you are staring down a dead heat at 50-51% win probability with ESPN projecting 130.5 to 128.5\u2014basically asking which roster decides to actually show up instead of phone in a performance while nine studs per side are still waiting in the wings. Smith-Njigba and Olave versus Gibbs and Josh Allen is the kind of firepower matchup where ESPN just throws up its hands, so this entire thing comes down to whose ceiling games actually connect instead of whose guys decide to take a nap. You've both got the talent to win this outright and the talent to lose it just as badly, which means the next few hours are just going to be pure stress with zero control\u2014neither of you made any meaningful mistakes to blame, so you're just gonna sit there sweating until the final kicker limps off the field. May the fantasy gods favor whoever actually has the balls to watch this instead of rage-quitting by halftime."
     },
     {
       "homeOwner": "espn88256878",
@@ -221,21 +221,21 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "ESPN88256878's walking out with this at 56% win probability and ESPN's projecting a 128.9 final versus Eric Brotmann's 116.1\u2014that's a 12.8-point cushion that should feel comfortable, except both of you still have basically your entire roster waiting in the wings and we're about to find out if the projections actually hold. ESPN88256878's got the talent advantage across the board here: Mahomes, Kelce, and Puka Nacua are just objectively better ceiling plays than Stafford and Dalton Kincaid, and Ashton Jeanty versus Jonathan Taylor is another significant mismatch when you're already favored. Eric, you're getting out-talented at every skill position and your only realistic path is ceiling games across the board while ESPN88256878's studs land near floor\u2014that's a brutal ask when you're already an underdog, and ESPN's basically telling you there's a 56-44 chance you're spending next week hearing about this. Neither of you fucked up your lineups, so this is purely a roster construction story where one team just built better depth at the positions that actually matter, and that gap's showing up in the projections as the difference between winning and losing."
+      "analysis": "ESPN88256878's walking out with this at 56% win probability and ESPN's projecting a 128.9 final versus Eric Brotmann's 116.1\u2014that's a 12.8-point gap that should feel safe, except both of you still have basically your entire rosters waiting in the wings and we're about to find out if the projections actually hold up. ESPN88256878's got the talent advantage here: Mahomes, Kelce, and Puka Nacua are just objectively better ceiling plays than Stafford and Dalton Kincaid, and Ashton Jeanty versus Jonathan Taylor is another significant mismatch when you're already favored. Eric, you're getting out-skilled at every position and your only realistic path is if your guys all hit ceiling while ESPN88256878's studs land closer to their floors\u2014that's a brutal ask when you're already an underdog, and ESPN's basically saying there's a 56-44 chance you're spending next week hearing about this. Neither of you fucked up your lineups, so this is purely a roster construction story where one team just built significantly better depth at the positions that actually matter."
     }
   ],
   "recentLines": [
+    "Both managers are projecting to 126.4 and ESPN's got this dead even at 50-50, which means you're about to sweat through nine full starters per side before this thing gets decided\u2014this is a legitimate coin flip where whoever's studs actually show up instead of phoning it in is walking away with the W. Doakes22's banking on Lamar, Saquon, and Brock Bowers to carry the load while kconley5's countering with Bijan, Henry, and Tee Higgins, so the projections are basically saying both rosters are equally talented and equally capable of either winning or getting run off the field. Neither one of you managed to fuck up your lineups, which is genuinely impressive considering how many people are leaving points on their benches this week, so this entire matchup comes down to execution and ceiling games hitting\u2014enjoy the stress for the next three days because ESPN's telling you there's no mathematical edge here, just pure roster roulette.",
+    "This is a dead heat that ESPN's basically refusing to call\u2014127.1 projected final for ESPNFAN6437471416 versus 119.5 for SteelerFan9828, sitting at 51-49 win probability, which means you're both sweating until the final whistle with nine starters apiece still waiting to either save you or bury you. ESPNFAN's got the slight edge because Cook, Wilson, and Purdy are marginally better ceiling plays than Amon-Ra, Love, and Burrow, but that 7.6-point gap is basically ESPN saying \"we genuinely have no idea,\" so one guy's studs hitting ceiling while the other's land near floor decides this entire thing. Both rosters are evenly talented enough that there's no roster construction argument to make here\u2014you're both just hoping your skill positions actually show up instead of phoning in a Sunday performance, and whoever does that walks out with the W. This is the kind of matchup where bragging rights come down to pure dumb luck and which lineup's studs decided to remember how to play football on the same day, so buckle in and prepare for a stress-filled afternoon.",
+    "RGM2215's staring down a 39-point projected deficit with ESPN calling this 69-31 in espnfan7338848211's favor, which means you need your entire remaining slate to hit ceiling while your opponent's studs just need to show up and collect paychecks. Christian McCaffrey, Dak Prescott, Ja'Marr Chase, and Kenneth Walker III are all certified weapons, but ESPN's essentially already got you down by 39 before the first snap even happens\u2014that's not a winnable position, that's a roster construction disaster on full display. You've still got nine starters left to play, so technically it's not over until the final whistle, but the math is fundamentally broken when espnfan built depth at every single skill position and you're hoping for lightning to strike multiple times just to make this respectable instead of getting mercy-ruled. The gap between your 31% win probability and their 69% isn't about bad luck or missed starts\u2014it's about one team building an actual NFL roster and one team apparently drafting in the dark with the sound off.",
+    "Both of you are staring down a dead heat at 50-51% win probability with ESPN projecting 130.5 to 128.5\u2014basically asking which roster decides to actually show up instead of phone in a performance while nine studs per side are still waiting in the wings. Smith-Njigba and Olave versus Gibbs and Josh Allen is the kind of firepower matchup where ESPN just throws up its hands, so this entire thing comes down to whose ceiling games actually connect instead of whose guys decide to take a nap. You've both got the talent to win this outright and the talent to lose it just as badly, which means the next few hours are just going to be pure stress with zero control\u2014neither of you made any meaningful mistakes to blame, so you're just gonna sit there sweating until the final kicker limps off the field. May the fantasy gods favor whoever actually has the balls to watch this instead of rage-quitting by halftime.",
+    "ESPN88256878's walking out with this at 56% win probability and ESPN's projecting a 128.9 final versus Eric Brotmann's 116.1\u2014that's a 12.8-point gap that should feel safe, except both of you still have basically your entire rosters waiting in the wings and we're about to find out if the projections actually hold up. ESPN88256878's got the talent advantage here: Mahomes, Kelce, and Puka Nacua are just objectively better ceiling plays than Stafford and Dalton Kincaid, and Ashton Jeanty versus Jonathan Taylor is another significant mismatch when you're already favored. Eric, you're getting out-skilled at every position and your only realistic path is if your guys all hit ceiling while ESPN88256878's studs land closer to their floors\u2014that's a brutal ask when you're already an underdog, and ESPN's basically saying there's a 56-44 chance you're spending next week hearing about this. Neither of you fucked up your lineups, so this is purely a roster construction story where one team just built significantly better depth at the positions that actually matter.",
     "Doakes22's sitting pretty at 53% win probability with ESPN projecting a 7.7-point lead (132.5 to 124.8), which means you've got the edge but this thing is absolutely not decided with both rosters still loaded and waiting to play. You're banking on Lamar, Saquon, and Jefferson to hold serve while kconley5's countering with Bijan, Henry, and Tee Higgins\u2014this is a legitimately tight matchup where whoever's ceiling games actually connect is walking out with the W. The math favors you slightly because your studs are marginally better on paper, but ESPN's basically saying this is a toss-up until the final whistle blows, so don't start planning your victory lap just yet. Both of you managed to avoid any actual lineup mistakes, which is genuinely impressive considering the carnage happening elsewhere this week, so this is pure projection roulette between two rosters that are just about evenly matched\u2014enjoy the stress.",
     "ESPNFAN6437471416's got this at 61% with ESPN projecting a 21.6-point win (121.3 to 99.7), which is basically a done deal unless SteelerFan9828's entire remaining slate decides to go full ceiling mode while half of your studs tank\u2014and that's only happening 39% of the time according to the math. You're banking on Cook, Wilson, Purdy, and the 49ers D to show up within normal range, while SteelerFan needs Amon-Ra and Breece Hall to absolutely explode just to avoid getting mercy-ruled by a roster that's objectively better built at every skill position. Both of you still have nine starters left to play, so technically this isn't locked until the final whistle, but ESPN's essentially telling SteelerFan that roster construction incompetence is about to cost you the week\u2014your team just doesn't have the ceiling plays to overcome that gap, even if everything breaks right. This is the kind of matchup where one team just built significantly better depth and it shows in the projections as a steadily widening margin that's really hard to overcome when you're already an underdog.",
     "RGM2215's looking at a 39-point projection deficit with ESPN calling this 69-31 in espnfan7338848211's favor, which is basically a mercy rule masquerading as a matchup\u2014you need your entire remaining slate to hit ceiling while your opponent needs their guys to just show up somewhere in the ballpark of normal. Christian McCaffrey, Dak Prescott, and Ja'Marr Chase are all studs, but the math is fundamentally broken when ESPN's already got you down by the time kickoff happens and your opponent's got nine equally explosive weapons still waiting to pile on. espnfan built a roster that's just objectively better at every skill position, and now you're paying the price by needing lightning to strike multiple times just to make this respectable instead of getting run off the field\u2014there's no lineup mistakes to hide behind here, just pure personnel incompetence that's about to be on full display. Your 31% win probability isn't a path to victory, it's ESPN being generous enough to acknowledge that flukey shit happens sometimes, but the reality is that Kenneth Walker III and D'Andre Swift are about to remind you why you should've invested in actual talent instead of hoping your late-round fliers could carry you against a stacked roster.",
     "ESPNfan83795608 and 82Cole47 are locked in a dead heat\u2014ESPN's got this at 127.1 to 128.5 with both managers sitting right around 50% win probability, which is basically asking the fantasy gods to flip a coin and not blink while nine studs per side are still waiting to either bail you out or bury you. Smith-Njigba and Olave versus Gibbs and Josh Allen is the kind of firepower matchup where ESPN just throws up its hands, so whoever's roster decides to actually show up instead of phone in a Sunday performance is walking away with this. Neither one of you made any actual mistakes to roast, which is honestly refreshing after watching the dumpster fires happening elsewhere, so you're both just gonna sit there sweating until the final kicker limps off the field\u2014this entire thing comes down to whose studs remember how to play football and whose decide to take a nap.",
     "ESPN88256878's walking out with this at 56% win probability and ESPN's projecting a 128.9 final versus Eric Brotmann's 116.1\u2014that's a 12.8-point cushion that should feel comfortable, except both of you still have basically your entire roster waiting in the wings and we're about to find out if the projections actually hold. ESPN88256878's got the talent advantage across the board here: Mahomes, Kelce, and Puka Nacua are just objectively better ceiling plays than Stafford and Dalton Kincaid, and Ashton Jeanty versus Jonathan Taylor is another significant mismatch when you're already favored. Eric, you're getting out-talented at every skill position and your only realistic path is ceiling games across the board while ESPN88256878's studs land near floor\u2014that's a brutal ask when you're already an underdog, and ESPN's basically telling you there's a 56-44 chance you're spending next week hearing about this. Neither of you fucked up your lineups, so this is purely a roster construction story where one team just built better depth at the positions that actually matter, and that gap's showing up in the projections as the difference between winning and losing.",
     "Doakes22's walking out with this at 55% and ESPN's projecting a 10.5-point win (132.5 to 122.0), which means you've got the edge but kconley5's still very much alive with nine studs left to go\u2014this thing isn't locked until the Eagles defense takes their final knee. You're banking on Lamar, Saquon, and Justin Jefferson to keep pace while kconley5's countering with Bijan, Henry, and Tee Higgins, so whoever's ceiling games actually hit is going to decide this thing, and right now ESPN's barely favoring you despite having slightly better studs on paper. Neither one of you made any meaningful lineup mistakes, so this is pure projection roulette\u2014your firepower's just a tick better than theirs and that's the entire margin ESPN's building in, which means one mediocre performance from your side or one ceiling game from theirs completely flips this thing on its head.",
-    "ESPNFAN6437471416's got this locked at 61% win probability with ESPN projecting a 21.6-point cushion (121.3 to 99.7), which basically means you're coasting home assuming your studs actually show up\u2014and with Cook, Wilson, Purdy, and the 49ers D still waiting in the wings, the math is heavily in your favor. SteelerFan9828, you're somehow projected to lose by nearly 22 despite having nine starters left to play, which tells you everything about how badly your roster construction got outclassed at every skill position\u2014Amon-Ra and Breece Hall would need to go absolutely nuclear while half of ESPNFAN's receiving corps implodes just to make this competitive, and ESPN's saying that's only happening 39% of the time. Neither of you made any meaningful lineup mistakes, so this is purely a story of one team just having significantly better talent, which is the most brutal type of loss because you can't even blame yourself for leaving points on the bench. You're basically asking for ceiling games across the board to avoid getting run off the field by a guy whose biggest advantage is just having better players\u2014that's not a path to victory, that's desperation.",
-    "RGM2215's staring down a 39-point deficit with ESPN projecting a 94.0 final while espnfan7338848211's cruising to 133.0 at 69% win probability, which is basically a death sentence even with Christian McCaffrey and Dak Prescott still waiting in the wings. You need a ceiling game across the entire remaining slate while espnfan just needs their studs to show up within normal range\u2014Ja'Marr Chase, Kenneth Walker III, and D'Andre Swift have already won this thing on paper before they even step on the field. Nine starters left for you technically keeps it alive, but ESPN's essentially saying you're asking for lightning to strike multiple times just to make this respectable instead of getting run off the field by better roster construction. This is the kind of matchup where one team just built significantly better at every level and it shows in the projections\u2014there's no lineup mistakes to blame here, just pure personnel incompetence that's about to cost you the week.",
-    "This is basically a coin flip that both of you decided to participate in with zero preparation\u2014ESP projects 127.1 to 128.5 with both sitting at exactly 49-51% win probability, and both of you still have nine full starters waiting to explode or implode depending on which fantasy gods you've pissed off this week. Smith-Njigba and Olave versus Gibbs and Josh Allen is legitimately the kind of firepower matchup where ESPN just throws up its hands and says \"fuck it, we'll call it at halftime,\" so this entire thing comes down to whose studs remember how to play football and whose decide to take a Sunday nap. Neither one of you made any actual mistakes to apologize for, which is refreshing considering the dumpster fires happening elsewhere, so you're both just gonna sit there sweating until the final kicker limps off the field\u2014may the fantasy gods favor whoever actually has the balls to watch this instead of rage-quit by the second quarter.",
-    "ESPN88256878's sitting at 56% win probability with ESPN projecting a 128.9 final versus Eric Brotmann's 116.1\u2014that's a 12.8-point cushion that feels comfortable until you remember both of you have basically your entire roster still waiting in the wings. ESPN88256878's got the edge here because Mahomes, Kelce, and Puka Nacua are just objectively better ceiling plays than Stafford and Dalton Kincaid, and Ashton Jeanty versus Jonathan Taylor is another significant advantage when you're already ahead in the win probability. Eric, you're getting out-talented at the skill positions and your only path is if your guys hit ceiling while ESPN88256878's studs land closer to floor\u2014that's not a winning formula when you're already an underdog, and ESPN's basically telling you there's a 56-44 chance you're about to spend the next week hearing about this. Neither one of you fucked up your lineups, so this is purely a roster construction story where one team just built better depth at the positions that matter, and that's showing up in the projections as a steadily widening gap.",
-    "Doakes22 is walking out of this at 52% and ESPN's projecting a 3.3-point squeaker (125.5 to 122.2), which means this thing is still completely up for grabs with both rosters still loaded with studs on the bench. You've got the firepower to pull this off with Saquon, Lamar, and Brock Bowers still waiting to go, but kconley5's got an equally stacked remaining slate with Bijan, Henry, and Drake Maye ready to punch back\u2014this is a proper matchup, not a coronation. Neither of you made any meaningful lineup mistakes, so whoever's studs decide to show up and whoever's guys underperform is going to be the difference, and right now ESPN thinks it's basically a coin flip on which side that'll be.",
-    "ESPNFAN6437471416's got this locked at 61% win probability with ESPN projecting 122.8 final\u2014that's a 21.8-point cushion over SteelerFan9828's 101.0, which basically means you're coasting home assuming your studs (Cook, Wilson, Purdy, 49ers D) show up with the rest of your nine starters still waiting in the wings. SteelerFan's got nine starters left too and is somehow still projected to lose by nearly 22 despite the fact that nobody's played yet, which tells you everything about how badly you both whiffed on roster construction\u2014but at least ESPNFAN's got the better lineup by a country mile. The math is simple: Amon-Ra and Breece Hall need to go absolutely nuclear while half of your receiving corps needs to implode just to make this competitive, and ESPN's saying that's only happening 39% of the time. SteelerFan, you're basically asking for ceiling games across the board to avoid getting run off the field by a guy whose biggest advantage is just having better talent on the roster\u2014that's not a path to victory, that's desperation."
+    "ESPNFAN6437471416's got this locked at 61% win probability with ESPN projecting a 21.6-point cushion (121.3 to 99.7), which basically means you're coasting home assuming your studs actually show up\u2014and with Cook, Wilson, Purdy, and the 49ers D still waiting in the wings, the math is heavily in your favor. SteelerFan9828, you're somehow projected to lose by nearly 22 despite having nine starters left to play, which tells you everything about how badly your roster construction got outclassed at every skill position\u2014Amon-Ra and Breece Hall would need to go absolutely nuclear while half of ESPNFAN's receiving corps implodes just to make this competitive, and ESPN's saying that's only happening 39% of the time. Neither of you made any meaningful lineup mistakes, so this is purely a story of one team just having significantly better talent, which is the most brutal type of loss because you can't even blame yourself for leaving points on the bench. You're basically asking for ceiling games across the board to avoid getting run off the field by a guy whose biggest advantage is just having better players\u2014that's not a path to victory, that's desperation."
   ]
 }

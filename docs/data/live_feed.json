@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-09-29T08:20:28.793669+00:00",
+  "generatedAt": "2026-10-02T04:41:11.602489+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 4,
-  "events": []
+  "events": [
+    {
+      "type": "benched",
+      "owner": "Doakes22",
+      "player": "Denzel Boston",
+      "position": "WR",
+      "actual": 12.9,
+      "projected": 10.56418812,
+      "line": "Doakes22 really said \"nah, I don't need the free 12.9 points\" and threw Denzel Boston on the bench like he was a practice squad guy\u2014what a spectacular way to leave points on the scoring table, you absolute clown."
+    },
+    {
+      "type": "over",
+      "owner": "82Cole47",
+      "player": "Quinshon Judkins",
+      "position": "RB",
+      "actual": 21.6,
+      "projected": 12.46517956,
+      "line": "82Cole47 finally figured out how to read a depth chart and got rewarded with 21.6 points from Judkins\u2014maybe next week you'll actually trust your own roster decisions instead of panic-starting guys based on a Reddit thread at 11:55pm."
+    },
+    {
+      "type": "over",
+      "owner": "SteelerFan9828",
+      "player": "DK Metcalf",
+      "position": "WR",
+      "actual": 16.5,
+      "projected": 10.08974975,
+      "line": "DK absolutely went off and SteelerFan9828's dumbass projected him for 10 points\u2014guess that's what happens when you don't trust your own draft picks and spend all season second-guessing yourself like a nervous wreck."
+    },
+    {
+      "type": "under",
+      "owner": "SteelerFan9828",
+      "player": "Chris Boswell",
+      "position": "K",
+      "actual": 3.0,
+      "projected": 8.07485766,
+      "line": "SteelerFan9828, you started a kicker projected for 8 points who delivered a pathetic 3, and somehow that tracks perfectly with every other decision you've made all season\u2014might as well have just lit those points on fire."
+    }
+  ]
 }

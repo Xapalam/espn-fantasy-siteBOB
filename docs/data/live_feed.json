@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:41:11.602489+00:00",
+  "generatedAt": "2026-10-04T15:27:28.062389+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 4,
   "events": [
@@ -10,7 +10,7 @@
       "position": "WR",
       "actual": 12.9,
       "projected": 10.56418812,
-      "line": "Doakes22 really said \"nah, I don't need the free 12.9 points\" and threw Denzel Boston on the bench like he was a practice squad guy\u2014what a spectacular way to leave points on the scoring table, you absolute clown."
+      "line": "Doakes22 really said \"nah, I don't trust this guy\" and watched him pop off from the bench\u2014classic move from someone who'll probably start a broken-down TE next week out of pure spite."
     },
     {
       "type": "over",
@@ -19,7 +19,25 @@
       "position": "RB",
       "actual": 21.6,
       "projected": 12.46517956,
-      "line": "82Cole47 finally figured out how to read a depth chart and got rewarded with 21.6 points from Judkins\u2014maybe next week you'll actually trust your own roster decisions instead of panic-starting guys based on a Reddit thread at 11:55pm."
+      "line": "82Cole47 finally made one smart decision all season and started Judkins, who absolutely demolished his projection like a man possessed\u2014maybe there's hope for your dumpster fire of a roster yet."
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "Josh Downs",
+      "position": "WR",
+      "actual": 4.6,
+      "projected": 13.58682433,
+      "line": "RGM2215 really said \"let me start a guy projected for 13.6 who decided to put up 4.6 like he was actively trying to fuck me\" \u2014 nothing says championship roster like trusting Josh Downs to show up when it matters most."
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "Tyler Warren",
+      "position": "TE",
+      "actual": 4.1,
+      "projected": 13.03846411,
+      "line": "Tyler Warren put up a whopping 4.1 points and you still had the balls to start him over your bench? RGM2215, that's not called faith, that's called watching your season burn in real time."
     },
     {
       "type": "over",
@@ -27,8 +45,17 @@
       "player": "DK Metcalf",
       "position": "WR",
       "actual": 16.5,
-      "projected": 10.08974975,
-      "line": "DK absolutely went off and SteelerFan9828's dumbass projected him for 10 points\u2014guess that's what happens when you don't trust your own draft picks and spend all season second-guessing yourself like a nervous wreck."
+      "projected": 10.09044963,
+      "line": "DK absolutely demolished his projection and SteelerFan9828 actually had the balls to start him\u2014maybe that one good decision will carry you through the rest of this dumpster fire of a season."
+    },
+    {
+      "type": "under",
+      "owner": "Doakes22",
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "actual": 5.4,
+      "projected": 11.11281704,
+      "line": "Doakes22 really said \"let me start this guy despite the 11-point projection miss\" and acted like it was a calculated risk\u2014nah homie, that's just called being confidently wrong as fuck."
     },
     {
       "type": "under",
@@ -37,7 +64,7 @@
       "position": "K",
       "actual": 3.0,
       "projected": 8.07485766,
-      "line": "SteelerFan9828, you started a kicker projected for 8 points who delivered a pathetic 3, and somehow that tracks perfectly with every other decision you've made all season\u2014might as well have just lit those points on fire."
+      "line": "Boswell shit the bed harder than a toddler at nap time, and you had the audacity to start him anyway\u2014congrats on leaving 5 points on your bench like a fucking idiot."
     }
   ]
 }

@@ -1,70 +1,97 @@
 {
-  "generatedAt": "2026-10-04T15:27:28.062389+00:00",
+  "generatedAt": "2026-10-05T04:59:40.439274+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 4,
   "events": [
     {
+      "type": "over",
+      "owner": "espn88256878",
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "actual": 45.2,
+      "projected": 15.84819649,
+      "line": "Tetairoa just dropped 45 fucking points on your ass and you STILL probably spent all week second-guessing whether to start him\u2014espn88256878, this is what happens when you actually trust your guys instead of panic-checking waiver wire at 11:55 PM Sunday morning."
+    },
+    {
       "type": "benched",
-      "owner": "Doakes22",
-      "player": "Denzel Boston",
-      "position": "WR",
-      "actual": 12.9,
-      "projected": 10.56418812,
-      "line": "Doakes22 really said \"nah, I don't trust this guy\" and watched him pop off from the bench\u2014classic move from someone who'll probably start a broken-down TE next week out of pure spite."
+      "owner": "espnfan7338848211",
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "actual": 28.0,
+      "projected": 8.26349466,
+      "line": "espnfan7338848211 benched a guy who just put up 28 fucking points\u2014that's what happens when you panic-check the waiver wire at 11:59 PM and trust your gut over literally any data point."
+    },
+    {
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "Drake Maye",
+      "position": "QB",
+      "actual": 26.16,
+      "projected": 17.5009484,
+      "line": "kconley5 really said \"nah, I don't need 26 points from my QB this week\" and threw Drake Maye on the bench\u2014guess that's one way to throw away a winnable matchup, you absolute donkey."
     },
     {
       "type": "over",
+      "owner": "Eric Brotmann",
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "actual": 41.3,
+      "projected": 16.89511308,
+      "line": "Eric, CeeDee just put up 41 fucking points and made your projection look like a typo\u2014maybe next time trust your first-round pick instead of whatever fever dream told you to bench him last week, you absolute muppet."
+    },
+    {
+      "type": "benched",
       "owner": "82Cole47",
-      "player": "Quinshon Judkins",
-      "position": "RB",
-      "actual": 21.6,
-      "projected": 12.46517956,
-      "line": "82Cole47 finally made one smart decision all season and started Judkins, who absolutely demolished his projection like a man possessed\u2014maybe there's hope for your dumpster fire of a roster yet."
-    },
-    {
-      "type": "under",
-      "owner": "RGM2215",
-      "player": "Josh Downs",
+      "player": "Romeo Doubs",
       "position": "WR",
-      "actual": 4.6,
-      "projected": 13.58682433,
-      "line": "RGM2215 really said \"let me start a guy projected for 13.6 who decided to put up 4.6 like he was actively trying to fuck me\" \u2014 nothing says championship roster like trusting Josh Downs to show up when it matters most."
-    },
-    {
-      "type": "under",
-      "owner": "RGM2215",
-      "player": "Tyler Warren",
-      "position": "TE",
-      "actual": 4.1,
-      "projected": 13.03846411,
-      "line": "Tyler Warren put up a whopping 4.1 points and you still had the balls to start him over your bench? RGM2215, that's not called faith, that's called watching your season burn in real time."
+      "actual": 23.8,
+      "projected": 9.77203648,
+      "line": "82Cole47 really said \"nah, I don't need 14 points of free money this week\" and benched Romeo Doubs like a fucking coward\u2014dude went off for 23.8 and you're out here leaving it on the bench wondering why your season's in the toilet."
     },
     {
       "type": "over",
-      "owner": "SteelerFan9828",
-      "player": "DK Metcalf",
-      "position": "WR",
-      "actual": 16.5,
-      "projected": 10.09044963,
-      "line": "DK absolutely demolished his projection and SteelerFan9828 actually had the balls to start him\u2014maybe that one good decision will carry you through the rest of this dumpster fire of a season."
-    },
-    {
-      "type": "under",
-      "owner": "Doakes22",
-      "player": "Jacory Croskey-Merritt",
+      "owner": "Eric Brotmann",
+      "player": "Kyren Williams",
       "position": "RB",
-      "actual": 5.4,
-      "projected": 11.11281704,
-      "line": "Doakes22 really said \"let me start this guy despite the 11-point projection miss\" and acted like it was a calculated risk\u2014nah homie, that's just called being confidently wrong as fuck."
+      "actual": 36.7,
+      "projected": 13.08585926,
+      "line": "Eric, did you accidentally check \"start\" while having a stroke, or did you somehow stumble ass-backwards into the greatest fantasy decision of your entire miserable season? Kyren Williams just put up 36.7 points and made your dumbass look like a genius for once in your life."
     },
     {
-      "type": "under",
+      "type": "benched",
       "owner": "SteelerFan9828",
-      "player": "Chris Boswell",
-      "position": "K",
-      "actual": 3.0,
-      "projected": 8.07485766,
-      "line": "Boswell shit the bed harder than a toddler at nap time, and you had the audacity to start him anyway\u2014congrats on leaving 5 points on your bench like a fucking idiot."
+      "player": "Carnell Tate",
+      "position": "WR",
+      "actual": 21.5,
+      "projected": 11.90922482,
+      "line": "SteelerFan9828, you absolute coward\u2014Carnell Tate just dropped 21.5 points on your bench while you started some waiver-wire corpse instead, and that's the kind of pussy move that loses championships."
+    },
+    {
+      "type": "benched",
+      "owner": "ESPNFAN6437471416",
+      "player": "Brock Purdy",
+      "position": "QB",
+      "actual": 19.62,
+      "projected": 18.74141627,
+      "line": "Benching Brock Purdy for 19.6 points is the kind of pussy-ass decision-making that'll have you watching the playoffs from your couch, you absolute clown."
+    },
+    {
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "RJ Harvey",
+      "position": "RB",
+      "actual": 19.3,
+      "projected": 10.11618886,
+      "line": "kconley5 benched a guy who put up 19 points and you're gonna feel that decision every time you lose by less than 20 the rest of the season, you absolute coward."
+    },
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "actual": 18.4,
+      "projected": 11.58653163,
+      "line": "Eric, you absolute coward\u2014Rhamondre went off for 18 fucking points on your bench while you started whatever JAG you thought was safer, and now you get to watch him laugh at you all week."
     }
   ]
 }

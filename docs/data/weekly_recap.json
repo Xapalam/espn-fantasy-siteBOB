@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-10-05T08:20:56.913917+00:00",
+  "generatedAt": "2026-10-06T08:05:26.874537+00:00",
   "seasonId": 2026,
   "lastWeek": {
-    "matchupPeriodId": 3,
-    "matchups": [
-      {
-        "homeOwner": "SteelerFan9828",
-        "awayOwner": "Doakes22",
-        "homeScore": 104.18,
-        "awayScore": 144.04,
-        "winner": "Doakes22",
-        "loser": "SteelerFan9828",
-        "recap": "SteelerFan9828 got absolutely fucking demolished this week, losing by nearly 40 points like they showed up to the draft drunk and stayed that way all season. 104 points is what you'd score if your entire roster caught food poisoning the morning of kickoff\u2014congratulations on fielding what appears to be a team of practice squad rejects and waiver wire desperation. Doakes22 didn't even need to break a sweat; they could've started a random guy from the parking lot and still won by three touchdowns. This wasn't a matchup, this was a mercy killing."
-      },
-      {
-        "homeOwner": "espnfan7338848211",
-        "awayOwner": "kconley5",
-        "homeScore": 132.4,
-        "awayScore": 138.46,
-        "winner": "kconley5",
-        "loser": "espnfan7338848211",
-        "recap": "espnfan7338848211 got absolutely cock-blocked by 6.1 points this week\u2014close enough to taste victory but far enough to eat shit instead. You were one decent flex play away from not being a complete embarrassment, but instead you're sitting here 132.4 points deep in the loss column getting lectured by kconley5. Next time maybe don't leave points on your bench like they're yesterday's lunch special, you absolute muppet."
-      },
-      {
-        "homeOwner": "82Cole47",
-        "awayOwner": "ESPNFAN6437471416",
-        "homeScore": 131.16,
-        "awayScore": 130.28,
-        "winner": "82Cole47",
-        "loser": "ESPNFAN6437471416",
-        "recap": "ESPNFAN6437471416 got absolutely cock-blocked by 0.9 points\u2014that's narrower than a newborn's asshole and twice as painful. You had every fucking opportunity to win this thing and still managed to lose by less than a single point, which is honestly worse than a blowout because now you get to spend all week knowing you choked so hard you could've been a porn star. 82Cole47 didn't even play well; you just played worse, which is the most ESPNFAN6437471416 move possible."
-      },
-      {
-        "homeOwner": "Eric Brotmann",
-        "awayOwner": "RGM2215",
-        "homeScore": 120.4,
-        "awayScore": 102.24,
-        "winner": "Eric Brotmann",
-        "loser": "RGM2215",
-        "recap": "RGM2215 got absolutely buttfucked this week, limping across the finish line down 18.2 like a three-legged dog in a race it had no business entering. You managed to score 102 points and still lose by nearly three touchdowns' worth\u2014that's not just underperforming, that's a full-blown organizational collapse. Eric didn't even have to gameplan; he just showed up and watched you implode like a wet paper bag. Better luck next week, unless your roster decision-making gets worse, which at this point seems pretty fucking likely."
-      },
-      {
-        "homeOwner": "espn88256878",
-        "awayOwner": "ESPNfan83795608",
-        "homeScore": 82.34,
-        "awayScore": 142.2,
-        "winner": "ESPNfan83795608",
-        "loser": "espn88256878",
-        "recap": "espn88256878 got absolutely demolished by 59.9 points\u2014that's not a loss, that's a fucking public execution. Your team scored 82 points like you submitted your lineup from a coma, and ESPNfan83795608 took you behind the woodshed with a 142-point beatdown. This wasn't even close enough to be embarrassing; it was humiliating. You should be ashamed of whatever dumpster fire you're running out there."
-      }
-    ]
-  },
-  "thisWeek": {
     "matchupPeriodId": 4,
     "matchups": [
       {
         "homeOwner": "Doakes22",
         "awayOwner": "kconley5",
-        "homeRecord": "1-2",
-        "awayRecord": "2-1",
-        "preview": "Doakes22 stumbling in at 1-2 is exactly what we expected from someone who clearly panicked in the draft and reached for three RBs before getting a decent WR\u2014now you're starting waiver wire scraps and hoping for a miracle. kconley5's 2-1 record is cute, but we all know you're one bad week away from joining Doakes in the basement, so don't get too comfortable before this matchup exposes your paper-thin roster."
+        "homeScore": 92.18,
+        "awayScore": 162.78,
+        "winner": "kconley5",
+        "loser": "Doakes22",
+        "recap": "Doakes22 got absolutely obliterated this week, losing by a fucking 70.6-point margin\u2014that's not a loss, that's a public execution. Your team put up 92.2 points like you were playing with a roster half full of bye weeks and injured reserve callups. kconley5 didn't just beat you; they bent you over the fantasy equivalent of a barrel and made you watch the scoreboard climb while your players collectively decided to take a nap."
       },
       {
         "homeOwner": "ESPNFAN6437471416",
         "awayOwner": "SteelerFan9828",
-        "homeRecord": "2-1",
-        "awayRecord": "1-2",
-        "preview": "ESPNFAN6437471416 limped into 2-1 with all the grace of a three-legged dog, while SteelerFan9828 is sitting at 1-2 because apparently watching actual Steelers football all season doesn't teach you how to build a competent roster. This week one of you is finally gonna lose convincingly instead of by a field goal, and ESPNFAN's \"league taco\" energy tells me they're absolutely capable of collapsing spectacularly when it matters most."
+        "homeScore": 94.08,
+        "awayScore": 118.62,
+        "winner": "SteelerFan9828",
+        "loser": "ESPNFAN6437471416",
+        "recap": "ESPNFAN6437471416 got absolutely demolished 118.6 to 94.1, losing by nearly 25 points like they showed up to the draft hungover and kept that energy all season long. Your roster this week looked like you set your lineup while taking a shit and just hit confirm without wiping\u2014complete disaster from top to bottom. SteelerFan9828 didn't even need to break a sweat; they just sat back and watched you self-destruct harder than your team's playoff hopes. Next time maybe don't leave points on your bench while your starters collectively shit the bed, genius."
       },
       {
         "homeOwner": "RGM2215",
         "awayOwner": "espnfan7338848211",
-        "homeRecord": "0-3",
-        "awayRecord": "2-1",
-        "preview": "RGM2215 is about to make it 0-4 against a team that actually knows how to construct a roster, and honestly at this point you're just padding espnfan7338848211's playoff resume. You've had three weeks to figure it out and instead you've doubled down on whatever dumpster fire strategy got you here\u2014this week's just another victim in your personal hall of shame."
+        "homeScore": 121.2,
+        "awayScore": 143.74,
+        "winner": "espnfan7338848211",
+        "loser": "RGM2215",
+        "recap": "RGM2215 got absolutely obliterated by 22.5 points this week, which is impressive considering how bad their draft class was. Watching their roster underperform has been like watching a car crash in slow motion\u2014painful, predictable, and somehow still managing to find new ways to disappoint. They scored 121.2 points, which is what a competent manager gets on a bye week. At this rate, RGM2215's only hope is that espnfan7338848211 gets hit by a meteor before the playoffs."
       },
       {
         "homeOwner": "ESPNfan83795608",
         "awayOwner": "82Cole47",
-        "homeRecord": "2-1",
-        "awayRecord": "3-0",
-        "preview": "ESPNfan83795608 is about to learn what it feels like when your paper-thin 2-1 record meets an actual competent roster\u201482Cole47 is sitting pretty at 3-0 and ready to expose you for the fraud you are. Your wins came against the league's bottom feeders, and this week you're stepping into the deep end where your mediocre draft picks and waiver wire desperation get laid bare. Buckle up, because Cole's about to remind you why he's undefeated and you're still sweating out Monday night games."
+        "homeScore": 98.46,
+        "awayScore": 142.32,
+        "winner": "82Cole47",
+        "loser": "ESPNfan83795608",
+        "recap": "ESPNfan83795608 got absolutely fucking obliterated by 43.9 points\u2014that's not a loss, that's a crime scene. Your roster was so pathetic this week that 82Cole47 could've started a mannequin at flex and still been up by thirty at halftime. You managed to score 98.5 points like you were actively trying to tank, and somehow you still exceeded expectations because we all thought you'd hit double digits. Whatever waiver wire desperation play you started this week, I hope it was worth the most humiliating ass-kicking of the season so far."
       },
       {
         "homeOwner": "espn88256878",
         "awayOwner": "Eric Brotmann",
-        "homeRecord": "0-3",
-        "awayRecord": "2-1",
-        "preview": "espn88256878 is getting embarrassed harder than a third-string backup in garbage time, and now they're about to catch an ass-whooping from Eric's 2-1 squad\u2014which honestly might be the most competent football Eric's managed to look all season. Watch a 0-3 dumpster fire get absolutely torched by a team that's only slightly less of a disaster; this is what rock bottom looks like when it plays rock bottom and one of them has to actually lose."
+        "homeScore": 174.1,
+        "awayScore": 150.88,
+        "winner": "espn88256878",
+        "loser": "Eric Brotmann",
+        "recap": "Eric got absolutely skull-fucked this week, losing by 23.2 points like he was running a team full of practice squad guys and injured reserve list castoffs. The gap between 174 and 150 is the same distance between competent roster management and whatever dumpster fire Eric's been assembling all season. espn88256878 didn't just win\u2014they made Eric look like he was playing in a league full of actual corpses. Better luck next week, chief, but honestly, probably not."
+      }
+    ]
+  },
+  "thisWeek": {
+    "matchupPeriodId": 5,
+    "matchups": [
+      {
+        "homeOwner": "ESPNFAN6437471416",
+        "awayOwner": "Doakes22",
+        "homeRecord": "2-2",
+        "awayRecord": "1-3",
+        "preview": "ESPNFAN6437471416 is limping in at 2-2 like they've already given up, while Doakes22 is absolutely underwater at 1-3\u2014this is basically a fight between two teams that have collectively shit the bed all season. Doakes22 needs this win desperately, but let's be honest, they've proven time and time again they can't execute when it matters, so expect them to find new and creative ways to lose. ESPNFAN6437471416 will probably manage to win this turd-polishing contest by accidentally starting someone decent, but neither of you should be bragging about anything."
+      },
+      {
+        "homeOwner": "kconley5",
+        "awayOwner": "RGM2215",
+        "homeRecord": "3-1",
+        "awayRecord": "0-4",
+        "preview": "kconley5 rolled into this matchup looking semi-competent at 3-1, but let's be real\u2014you're about to get exposed by a team that's already perfected the art of losing. RGM2215, your 0-4 record is a masterpiece of dysfunction, and somehow you're still gonna find a way to make this interesting before choking it away in the final minutes. kconley5, enjoy your last week of pretending you know what you're doing before reality catches up to that paper-thin record."
+      },
+      {
+        "homeOwner": "SteelerFan9828",
+        "awayOwner": "ESPNfan83795608",
+        "homeRecord": "2-2",
+        "awayRecord": "2-2",
+        "preview": "SteelerFan9828 limped to 2-2 by pure dumb luck, and this week the fantasy gods stop feeling charitable\u2014ESPNfan83795608 is about to expose you for the waiver-wire scavenger you really are. Your \"strategy\" of panic-trading after every loss meets an ESPNfan team that's also mediocre as shit, so honestly whoever chokes less spectacularly gets the W, and we both know that's probably not you."
+      },
+      {
+        "homeOwner": "espnfan7338848211",
+        "awayOwner": "espn88256878",
+        "homeRecord": "3-1",
+        "awayRecord": "1-3",
+        "preview": "espnfan7338848211 walks in here sitting pretty at 3-1, but we all know you're one bad week away from joining the 1-3 clown car\u2014and espn88256878, you're already in that clown car with the doors locked and the windows fogged up. This matchup is basically asking which team wants to embarrass themselves less, and honestly? Neither of you has earned the right to talk shit."
+      },
+      {
+        "homeOwner": "82Cole47",
+        "awayOwner": "Eric Brotmann",
+        "homeRecord": "4-0",
+        "awayRecord": "2-2",
+        "preview": "82Cole47 rolling in at 4-0 like they just figured out fantasy football exists, but Brotmann's about to remind everyone that perfect records are built on schedule luck and the football gods are vindictive as hell. Eric's got nothing to lose at 2-2 except his dignity, which means he's playing with house money and Cole's about to get absolutely torched by a guy who's finally healthy enough to be dangerous."
       }
     ]
   }

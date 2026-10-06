@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T08:21:37.224966+00:00",
+  "generatedAt": "2026-10-06T04:42:01.127695+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 4,
   "matchups": [
@@ -9,7 +9,7 @@
       "home": {
         "score": 92.2,
         "projectedFinal": 92.2,
-        "winProbability": 0.01,
+        "winProbability": 0.0,
         "yetToPlay": [],
         "worstMistake": {
           "benched": "Ollie Gordon II",
@@ -32,12 +32,10 @@
         }
       },
       "away": {
-        "score": 135.1,
-        "projectedFinal": 156.5,
-        "winProbability": 0.99,
-        "yetToPlay": [
-          "Bijan Robinson"
-        ],
+        "score": 162.8,
+        "projectedFinal": 162.8,
+        "winProbability": 1.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Drake Maye",
           "benchedPoints": 26.2,
@@ -59,18 +57,16 @@
         }
       },
       "familyName": null,
-      "analysis": "Doakes22's staring at a 1% win probability with 92.2 points already locked in while kconley5 is cruising to 156.5 with Bijan Robinson still waiting to pad an already insurmountable lead\u2014this one's over before it started. You didn't lose this matchup, you actively sabotaged it by benching Ollie Gordon II's 18.0 points to start Saquon Barkley's catastrophic 2.0, turning a 16-point swing into a self-inflicted death sentence that no late-week waiver performance could ever recover from. Brock Bowers went nuclear for 20.6 to beat his projection by 4.7, but even that's just adding insult to injury when you're already down 43 points with nothing left to play\u2014there's no comeback math here, just pure lineup incompetence. kconley5 benched Drake Maye's 26.2 for Jared Goff's 20.5 and ate a 5.7-point mistake, but that's background noise when you're sitting on a 99% lock and still have Bijan waiting to end this thing\u2014you survived a lineup blunder while Doakes straight-up murdered his own roster construction."
+      "analysis": "Doakes22's staring at a 0% win probability with 92.2 points already locked in while kconley5's cruising to 162.8 with nothing left to play\u2014this one's been over since you made the catastrophic decision to bench Ollie Gordon II's 18.0 points in favor of Saquon Barkley's 2.0, a 16-point swing that single-handedly buried you before Sunday even kicked off. Brock Bowers going nuclear for 20.6 just added salt to the wound, but even overdelivering by 4.7 can't save you when you're already down 70.6 points with zero starters remaining. kconley5 benched Drake Maye's 26.2 for Jared Goff's 20.5 and still walked away laughing because being up nearly three touchdowns means a 5.7-point fumble doesn't even register\u2014you didn't lose this matchup, you actively sabotaged your own roster construction and got demolished for it."
     },
     {
       "homeOwner": "ESPNFAN6437471416",
       "awayOwner": "SteelerFan9828",
       "home": {
-        "score": 82.2,
-        "projectedFinal": 92.8,
-        "winProbability": 0.01,
-        "yetToPlay": [
-          "Juwan Johnson"
-        ],
+        "score": 94.1,
+        "projectedFinal": 94.1,
+        "winProbability": 0.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Cam Skattebo",
           "benchedPoints": 7.6,
@@ -94,7 +90,7 @@
       "away": {
         "score": 118.6,
         "projectedFinal": 118.6,
-        "winProbability": 0.99,
+        "winProbability": 1.0,
         "yetToPlay": [],
         "worstMistake": {
           "benched": "Carnell Tate",
@@ -117,7 +113,7 @@
         }
       },
       "familyName": null,
-      "analysis": "SteelerFan9828's walking out with this at 99% win probability with all starters locked in at 118.6\u2014you're done, the game's mathematically over, and Juwan Johnson could somehow score 50 points and it still wouldn't matter. ESPNFAN6437471416, you're projecting to 92.8, which means you're losing by 25.8 points before that last tight end even sees the field, and that's the direct result of benching Cam Skattebo's 7.6 points to start Rashee Rice's absolute zero\u2014you sabotaged yourself before kickoff. The truly fucked up part is SteelerFan also left 18.2 points rotting on the bench by starting Emeka Egbuka over Carnell Tate, which would've turned this into an actual game instead of a straight execution, but even with that catastrophic lineup mistake SteelerFan's studs still showed up hard enough that Chuba Hubbard beating projection by 9.3 sealed your coffin halfway through Sunday. You both made brutal decisions, but one team had enough built-in talent to survive their own incompetence while the other one's staring at a projected double-digit loss that Juwan Johnson literally cannot erase."
+      "analysis": "SteelerFan9828's walking out with this at 100% win probability with a locked-in 118.6 final\u2014this one's mathematically over, and ESPNFAN6437471416's staring at a projected 94.1 that won't move an inch. You benched Cam Skattebo's 7.6 points to start Rashee Rice's absolute blank check for 0.0 out of a 14.9 projection, which is the kind of lineup decision that doesn't just cost you points, it costs you any chance of pretending this was competitive. SteelerFan also torched themselves by benching Carnell Tate's 21.5 for Emeka Egbuka's 3.3-point nothing burger\u2014an 18.2-point swing that would've made this game actually interesting\u2014but here's the difference: when you're already sitting on 118.6 with that kind of roster cushion, even eating an 18-point mistake still leaves you in cruise control while ESPNFAN's down 24.5 points with nothing left to play. Both of you made catastrophic benching decisions, but one team had enough built-in talent to survive a lineup blunder while the other one got executed for it."
     },
     {
       "homeOwner": "RGM2215",
@@ -125,7 +121,7 @@
       "home": {
         "score": 121.2,
         "projectedFinal": 121.2,
-        "winProbability": 0.04,
+        "winProbability": 0.0,
         "yetToPlay": [],
         "worstMistake": {
           "benched": "Wan'Dale Robinson",
@@ -148,13 +144,10 @@
         }
       },
       "away": {
-        "score": 113.2,
-        "projectedFinal": 148.5,
-        "winProbability": 0.96,
-        "yetToPlay": [
-          "Drake London",
-          "Tyler Shough"
-        ],
+        "score": 143.7,
+        "projectedFinal": 143.7,
+        "winProbability": 1.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Kyle Monangai",
           "benchedPoints": 28.0,
@@ -176,18 +169,16 @@
         }
       },
       "familyName": null,
-      "analysis": "RGM2215's absolutely cooked at 4% win probability with a locked-in 121.2 final, but the real crime is that you benched Wan'Dale Robinson's 11.0 points to start Josh Downs for a pathetic 4.6\u2014that's a 6.4-point swing that would've at least made this embarrassing instead of completely hopeless. espnfan7338848211's walking out at 96% with Drake London and Tyler Shough still waiting in the wings, which means ESPN's basically saying you'd need a meteor strike just to sniff this, but here's where it gets worse: you benched Kyle Monangai for 28.0 damn points to start D'Andre Swift for 7.4, which is a 20.6-point bloodbath that would've actually made this competitive instead of a foregone conclusion. Both of you made catastrophic lineup decisions, but the difference is espnfan's still projecting to 148.5 even after torching a 20-point swing with studs still on the bench, while you're stuck at 121.2 after wasting 6.4 points on a roster with nothing left to play\u2014one team has enough talent to survive stupidity, the other one's drowning in it."
+      "analysis": "RGM2215's locked in at 121.2 with a 0% win probability while espnfan7338848211's cruising to 143.7 at 100%\u2014this one's mathematically over and espnfan's still sitting on a 22.5-point cushion even after both rosters finished playing. RGM2215, you absolutely torched yourself by benching Wan'Dale Robinson's 11.0 points to start Josh Downs for 4.6, a 6.4-point swing that would've at least shaved the deficit down to something that doesn't require a time machine to fix. But here's the real kicker: espnfan7338848211 benched Kyle Monangai's 28.0 points to start D'Andre Swift for a measly 7.4\u2014that's a 20.6-point bloodbath that somehow still doesn't matter because your roster is so thoroughly outmatched that even with that catastrophic decision espnfan's still blowing you out by three full touchdowns. Emanuel Wilson carried RGM with 27.0 to beat projection by 15.5, but one screaming game from a bench player doesn't fix a locked-in 121.2 final\u2014espnfan's LaPorta overdelivered by 11.2 and that's all the insurance needed when you're already running away with it. Both of you made nightmare lineup calls, but espnfan had enough built-in talent to survive burning 20 points on a stupid decision, while RGM2215's sitting here knowing that even winning the benching battle wouldn't have changed the fundamental talent gap that put them down 22.5 to begin with."
     },
     {
       "homeOwner": "ESPNfan83795608",
       "awayOwner": "82Cole47",
       "home": {
-        "score": 78.9,
-        "projectedFinal": 97.1,
-        "winProbability": 0.01,
-        "yetToPlay": [
-          "Chris Olave"
-        ],
+        "score": 98.5,
+        "projectedFinal": 98.5,
+        "winProbability": 0.0,
+        "yetToPlay": [],
         "worstMistake": {
           "benched": "Tucker Kraft",
           "benchedPoints": 16.5,
@@ -211,7 +202,7 @@
       "away": {
         "score": 142.3,
         "projectedFinal": 142.3,
-        "winProbability": 0.99,
+        "winProbability": 1.0,
         "yetToPlay": [],
         "worstMistake": {
           "benched": "Romeo Doubs",
@@ -234,7 +225,7 @@
         }
       },
       "familyName": null,
-      "analysis": "82Cole47's walking out with this at 99% with a locked 142.3 final while ESPNfan83795608 is completely cooked at 1%\u2014you're down 63.4 points with Chris Olave as your only remaining hope, which isn't hope, that's just cope. ESPNfan, you benched Tucker Kraft's 16.5 points to start Kenyon Sadiq's absolute zero, and that single decision cost you more points than your entire remaining roster is projected to score combined\u2014you didn't lose this matchup, you disassembled it yourself before the games even started. 82Cole47 also benched Romeo Doubs for 23.8 to start Tony Pollard's 13.0, but when you're already sitting on 142.3 locked in with Quinshon Judkins beating projection by 9.1, that 10.8-point swing is basically a rounding error\u2014one team absorbed a stupid lineup mistake and still cruised, the other team made one and got demolished."
+      "analysis": "82Cole47's walking out with this at 100% win probability with a locked-in 142.3 final\u2014this one's finished before it started. ESPNfan83795608, you benched Tucker Kraft's 16.5 points to start Kenyon Sadiq for a complete zero, which is a 16.5-point swing that basically explains the entire 43.8-point gap right there. Judkins overdelivering by 9.1 points got 82Cole47 rolling early while you were busy torching yourself, and even if you get every last drop from Olave's ceiling it doesn't matter because one dumb lineup decision cost you more than your entire remaining roster combined. 82Cole47 also benched Romeo Doubs for 23.8 to start Tony Pollard's 13.0, but when you're already sitting on 142.3 locked in, that 10.8-point mistake is basically a rounding error\u2014you absorbed a lineup blunder and still cruised to the finish line while the other guy's staring at zero points with one receiver left to play."
     },
     {
       "homeOwner": "espn88256878",
@@ -244,7 +235,13 @@
         "projectedFinal": 174.1,
         "winProbability": 1.0,
         "yetToPlay": [],
-        "worstMistake": null,
+        "worstMistake": {
+          "benched": "Kyle Pitts Sr.",
+          "benchedPoints": 7.7,
+          "started": "Travis Kelce",
+          "startedPoints": 3.5,
+          "margin": 4.2
+        },
         "bestStarter": {
           "name": "Tetairoa McMillan",
           "actual": 45.2,
@@ -284,21 +281,21 @@
         }
       },
       "familyName": null,
-      "analysis": "ESPN88256878's walking out with this at 100% win probability with a locked-in 174.1 final, and Eric Brotmann's projecting to lose by 23.2 points with absolutely nothing left to play\u2014that's a deficit so thorough it doesn't even need ESPN to do the math, just subtract and move on. Brotmann, you benched Isaiah Likely for 13.6 points to start Dalton Kincaid's pathetic 1.7, which means you handed the other guy nearly 12 points before Sunday even started\u2014that's the kind of self-sabotage that turns a potential game into a blowout. Tetairoa McMillan went absolutely berserk for 45.2 points to give ESPN88256878 everything they needed, and while CeeDee Lamb's 41.3-point effort shows you had the weapons to compete, watching Kincaid evaporate like he was playing from his living room while Likely was putting up double digits on your bench is the exact reason you're staring at an insurmountable loss."
+      "analysis": "ESPN88256878's walking out with this at 100% win probability with a locked-in 174.1 final, and Eric Brotmann's staring at a 23.2-point loss with absolutely nothing left to play\u2014that's a margin so comfortable ESPN didn't even bother suspending the outcome. Brotmann, you absolutely torpedoed yourself by benching Isaiah Likely's 13.6 points to start Dalton Kincaid's catastrophic 1.7, which is an 11.9-point swing that turns a potential game into a blowout before Sunday even finishes\u2014that's the kind of decision that costs you sleep in the offseason. CeeDee Lamb went off for 41.3 and you're still getting demolished because Tetairoa McMillan's 45.2-point explosion gave ESPN88256878 everything they needed to coast, and while you were busy leaving Likely rotting on your bench, the other guy was already lapping you with starters still waiting in the wings. This one's decided and done\u2014ESPN88256878 just needed their studs to show up, Brotmann needed everyone to execute perfectly, and only one of those things actually happened."
     }
   ],
   "recentLines": [
+    "Doakes22's staring at a 0% win probability with 92.2 points already locked in while kconley5's cruising to 162.8 with nothing left to play\u2014this one's been over since you made the catastrophic decision to bench Ollie Gordon II's 18.0 points in favor of Saquon Barkley's 2.0, a 16-point swing that single-handedly buried you before Sunday even kicked off. Brock Bowers going nuclear for 20.6 just added salt to the wound, but even overdelivering by 4.7 can't save you when you're already down 70.6 points with zero starters remaining. kconley5 benched Drake Maye's 26.2 for Jared Goff's 20.5 and still walked away laughing because being up nearly three touchdowns means a 5.7-point fumble doesn't even register\u2014you didn't lose this matchup, you actively sabotaged your own roster construction and got demolished for it.",
+    "SteelerFan9828's walking out with this at 100% win probability with a locked-in 118.6 final\u2014this one's mathematically over, and ESPNFAN6437471416's staring at a projected 94.1 that won't move an inch. You benched Cam Skattebo's 7.6 points to start Rashee Rice's absolute blank check for 0.0 out of a 14.9 projection, which is the kind of lineup decision that doesn't just cost you points, it costs you any chance of pretending this was competitive. SteelerFan also torched themselves by benching Carnell Tate's 21.5 for Emeka Egbuka's 3.3-point nothing burger\u2014an 18.2-point swing that would've made this game actually interesting\u2014but here's the difference: when you're already sitting on 118.6 with that kind of roster cushion, even eating an 18-point mistake still leaves you in cruise control while ESPNFAN's down 24.5 points with nothing left to play. Both of you made catastrophic benching decisions, but one team had enough built-in talent to survive a lineup blunder while the other one got executed for it.",
+    "RGM2215's locked in at 121.2 with a 0% win probability while espnfan7338848211's cruising to 143.7 at 100%\u2014this one's mathematically over and espnfan's still sitting on a 22.5-point cushion even after both rosters finished playing. RGM2215, you absolutely torched yourself by benching Wan'Dale Robinson's 11.0 points to start Josh Downs for 4.6, a 6.4-point swing that would've at least shaved the deficit down to something that doesn't require a time machine to fix. But here's the real kicker: espnfan7338848211 benched Kyle Monangai's 28.0 points to start D'Andre Swift for a measly 7.4\u2014that's a 20.6-point bloodbath that somehow still doesn't matter because your roster is so thoroughly outmatched that even with that catastrophic decision espnfan's still blowing you out by three full touchdowns. Emanuel Wilson carried RGM with 27.0 to beat projection by 15.5, but one screaming game from a bench player doesn't fix a locked-in 121.2 final\u2014espnfan's LaPorta overdelivered by 11.2 and that's all the insurance needed when you're already running away with it. Both of you made nightmare lineup calls, but espnfan had enough built-in talent to survive burning 20 points on a stupid decision, while RGM2215's sitting here knowing that even winning the benching battle wouldn't have changed the fundamental talent gap that put them down 22.5 to begin with.",
+    "82Cole47's walking out with this at 100% win probability with a locked-in 142.3 final\u2014this one's finished before it started. ESPNfan83795608, you benched Tucker Kraft's 16.5 points to start Kenyon Sadiq for a complete zero, which is a 16.5-point swing that basically explains the entire 43.8-point gap right there. Judkins overdelivering by 9.1 points got 82Cole47 rolling early while you were busy torching yourself, and even if you get every last drop from Olave's ceiling it doesn't matter because one dumb lineup decision cost you more than your entire remaining roster combined. 82Cole47 also benched Romeo Doubs for 23.8 to start Tony Pollard's 13.0, but when you're already sitting on 142.3 locked in, that 10.8-point mistake is basically a rounding error\u2014you absorbed a lineup blunder and still cruised to the finish line while the other guy's staring at zero points with one receiver left to play.",
+    "ESPN88256878's walking out with this at 100% win probability with a locked-in 174.1 final, and Eric Brotmann's staring at a 23.2-point loss with absolutely nothing left to play\u2014that's a margin so comfortable ESPN didn't even bother suspending the outcome. Brotmann, you absolutely torpedoed yourself by benching Isaiah Likely's 13.6 points to start Dalton Kincaid's catastrophic 1.7, which is an 11.9-point swing that turns a potential game into a blowout before Sunday even finishes\u2014that's the kind of decision that costs you sleep in the offseason. CeeDee Lamb went off for 41.3 and you're still getting demolished because Tetairoa McMillan's 45.2-point explosion gave ESPN88256878 everything they needed to coast, and while you were busy leaving Likely rotting on your bench, the other guy was already lapping you with starters still waiting in the wings. This one's decided and done\u2014ESPN88256878 just needed their studs to show up, Brotmann needed everyone to execute perfectly, and only one of those things actually happened.",
     "Doakes22's staring at a 1% win probability with 92.2 points already locked in while kconley5 is cruising to 156.5 with Bijan Robinson still waiting to pad an already insurmountable lead\u2014this one's over before it started. You didn't lose this matchup, you actively sabotaged it by benching Ollie Gordon II's 18.0 points to start Saquon Barkley's catastrophic 2.0, turning a 16-point swing into a self-inflicted death sentence that no late-week waiver performance could ever recover from. Brock Bowers went nuclear for 20.6 to beat his projection by 4.7, but even that's just adding insult to injury when you're already down 43 points with nothing left to play\u2014there's no comeback math here, just pure lineup incompetence. kconley5 benched Drake Maye's 26.2 for Jared Goff's 20.5 and ate a 5.7-point mistake, but that's background noise when you're sitting on a 99% lock and still have Bijan waiting to end this thing\u2014you survived a lineup blunder while Doakes straight-up murdered his own roster construction.",
     "SteelerFan9828's walking out with this at 99% win probability with all starters locked in at 118.6\u2014you're done, the game's mathematically over, and Juwan Johnson could somehow score 50 points and it still wouldn't matter. ESPNFAN6437471416, you're projecting to 92.8, which means you're losing by 25.8 points before that last tight end even sees the field, and that's the direct result of benching Cam Skattebo's 7.6 points to start Rashee Rice's absolute zero\u2014you sabotaged yourself before kickoff. The truly fucked up part is SteelerFan also left 18.2 points rotting on the bench by starting Emeka Egbuka over Carnell Tate, which would've turned this into an actual game instead of a straight execution, but even with that catastrophic lineup mistake SteelerFan's studs still showed up hard enough that Chuba Hubbard beating projection by 9.3 sealed your coffin halfway through Sunday. You both made brutal decisions, but one team had enough built-in talent to survive their own incompetence while the other one's staring at a projected double-digit loss that Juwan Johnson literally cannot erase.",
     "RGM2215's absolutely cooked at 4% win probability with a locked-in 121.2 final, but the real crime is that you benched Wan'Dale Robinson's 11.0 points to start Josh Downs for a pathetic 4.6\u2014that's a 6.4-point swing that would've at least made this embarrassing instead of completely hopeless. espnfan7338848211's walking out at 96% with Drake London and Tyler Shough still waiting in the wings, which means ESPN's basically saying you'd need a meteor strike just to sniff this, but here's where it gets worse: you benched Kyle Monangai for 28.0 damn points to start D'Andre Swift for 7.4, which is a 20.6-point bloodbath that would've actually made this competitive instead of a foregone conclusion. Both of you made catastrophic lineup decisions, but the difference is espnfan's still projecting to 148.5 even after torching a 20-point swing with studs still on the bench, while you're stuck at 121.2 after wasting 6.4 points on a roster with nothing left to play\u2014one team has enough talent to survive stupidity, the other one's drowning in it.",
     "82Cole47's walking out with this at 99% with a locked 142.3 final while ESPNfan83795608 is completely cooked at 1%\u2014you're down 63.4 points with Chris Olave as your only remaining hope, which isn't hope, that's just cope. ESPNfan, you benched Tucker Kraft's 16.5 points to start Kenyon Sadiq's absolute zero, and that single decision cost you more points than your entire remaining roster is projected to score combined\u2014you didn't lose this matchup, you disassembled it yourself before the games even started. 82Cole47 also benched Romeo Doubs for 23.8 to start Tony Pollard's 13.0, but when you're already sitting on 142.3 locked in with Quinshon Judkins beating projection by 9.1, that 10.8-point swing is basically a rounding error\u2014one team absorbed a stupid lineup mistake and still cruised, the other team made one and got demolished.",
     "ESPN88256878's walking out with this at 100% win probability with a locked-in 174.1 final, and Eric Brotmann's projecting to lose by 23.2 points with absolutely nothing left to play\u2014that's a deficit so thorough it doesn't even need ESPN to do the math, just subtract and move on. Brotmann, you benched Isaiah Likely for 13.6 points to start Dalton Kincaid's pathetic 1.7, which means you handed the other guy nearly 12 points before Sunday even started\u2014that's the kind of self-sabotage that turns a potential game into a blowout. Tetairoa McMillan went absolutely berserk for 45.2 points to give ESPN88256878 everything they needed, and while CeeDee Lamb's 41.3-point effort shows you had the weapons to compete, watching Kincaid evaporate like he was playing from his living room while Likely was putting up double digits on your bench is the exact reason you're staring at an insurmountable loss.",
     "Doakes22, you're dead and buried at 1% win probability with 92.2 points locked in while kconley5's cruising to 156.5 with Bijan Robinson still waiting to pad an insurmountable lead. You benched Ollie Gordon II for 18.0 points to start Saquon Barkley's catastrophic 2.0, and that 16-point swing is the entire game right there\u2014you didn't lose this matchup, you actively murdered it yourself before Sunday even started. Saquon projecting for 14.3 and delivering 2.0 was brutal, but Brock Bowers going nuclear for 20.6 can't save you when you're already down 43 points with nothing left to play. kconley5 also benched Drake Maye's 26.2 for Jared Goff's 20.5, but that's a 5.7-point hiccup that doesn't matter when you're sitting on a 99% lock anyway\u2014you're bringing 156.5 to the finish line while Doakes is staring at a final that won't budge.",
-    "SteelerFan9828's walking away with this at 99% win probability with ESPN projecting a 118.6 final that's already locked in\u2014you're done, the game's over, Juwan Johnson could score 50 points and it still wouldn't matter. ESPNFAN6437471416, you're projecting to finish at 92.8, which means you're losing by 25.8 points before that last tight end even sees the field, and that's what happens when you bench Cam Skattebo for 7.6 points to start Rashee Rice's absolute goose egg for 14.9 projected. The wild part is SteelerFan actually left 18.2 points on the board by benching Carnell Tate for Emeka Egbuka, which would've made this legitimately competitive instead of a straight mercy killing\u2014but even with that brutal lineup mistake, SteelerFan's studs still executed hard enough that Chuba Hubbard beating projection by 9.3 points basically sealed your coffin before halftime. This is what losing looks like: one team gets saved by variance while the other team gets destroyed by it, and ESPNFAN's left staring at a projected double-digit loss that their remaining studs literally can't erase.",
-    "RGM2215's getting absolutely demolished at 4% win probability with ESPN projecting a 121.2 final\u2014you're done, you just don't know it yet. But here's the thing that really stings: you had Wan'Dale Robinson sitting on your bench putting up 11.0 points while you started Josh Downs for a pathetic 4.6, which is a 6.4-point swing that would've at least made this embarrassing instead of completely hopeless. espnfan7338848211's walking away at 96% with Drake London and Tyler Shough still left to play, which means ESPN's basically saying you'd need a meteor strike and a rules change just to sniff this\u2014but even worse, you benched Kyle Monangai (28.0 points) to start D'Andre Swift (7.4), costing yourself 20.6 points that would've actually made this game interesting instead of a foregone conclusion. You both made catastrophic lineup decisions, but the difference is espnfan's still projecting to 148.5 even after torching a 20-point swing, while you're stuck at 121.2 after wasting 6.4 points\u2014one team has enough talent to survive stupidity, the other one's drowning in it.",
-    "82Cole47's cruising to the win at 99% with ESPN projecting a 142.3 final while ESPNfan83795608 is completely cooked at 1%\u2014you're down 63.4 points with one receiver left to play, which is the kind of deficit that doesn't get erased in fantasy football. ESPNfan, you benched Tucker Kraft for 16.5 points to start Kenyon Sadiq's absolute goose egg, and that alone cost you more than your entire remaining roster is projected to score\u2014that's not a close loss, that's a self-inflicted blowout. Judkins overdelivered by 9.1 to get 82Cole47 rolling early while you were busy torching yourself with Sadiq, and now even if Olave hits his ceiling you're still getting demolished by the guy who benched Romeo Doubs but had enough roster depth to absorb it. This one stopped being competitive the moment you made that lineup decision.",
-    "ESPN88256878's walking out with this at 100% win probability, and Eric Brotmann can already start drafting his apology speech because he's projecting to lose by 23.2 points with zero starters left to play\u2014that's the kind of deficit that makes you question every decision you made all season. Brotmann, you benched Isaiah Likely for 13.6 points to start Dalton Kincaid's 1.7-point dumpster fire, which is an 11.9-point swing that would've only made this a blowout instead of a complete embarrassment\u2014you gift-wrapped nearly 12 points to the other guy just so you could watch your starting tight end vanish like he was playing from his couch. CeeDee Lamb went off for 41.3 and you're still getting demolished because the rest of your roster decided to collectively phone it in, while ESPN88256878 got exactly what they needed from Tetairoa McMillan's 45.2-point explosion and still has Mahomes and Kelce waiting in the wings to add insult to injury. This one's already decided, the math is brutal, and you're gonna spend the offseason thinking about that Likely benching while watching ESPN88256878 celebrate a wire-to-wire victory that barely required anyone to show up.",
-    "Doakes22, you're staring at a 49% win probability that's basically pity from ESPN\u2014you benched Denzel Boston for 12.9 points to start Jacory Croskey-Merritt's dumpster fire 5.4, which is the kind of lineup miscalculation that loses close games. You're currently down 6.3 points with eight studs left to play, so this absolutely isn't over, but you're starting from a hole you dug yourself by overthinking a decision that Boston was already winning before kickoff. kconley5's got the slight edge at 51% win probability with ESPN projecting you both to land within 3 points of each other at 123.7 versus 126.5\u2014basically a coin flip where Bijan Robinson, Derrick Henry, and Tee Higgins just need to show up normally while Lamar and Saquon are carrying more weight on your side to erase that self-inflicted deficit. The fact that you made a measurable lineup mistake while kconley5 didn't is the only real separation in a matchup ESPN's saying could go either way, but that 7.5-point swing you handed away is the kind of margin that tends to haunt you in these razor-thin finishes.",
-    "ESPNFAN6437471416's walking away with this at 55% win probability with ESPN projecting a 126.0 final versus SteelerFan9828's 117.0\u2014that's a 9-point gap that holds up even with both rosters fully loaded heading into Sunday. Cook, Wilson, Rice, and Purdy are genuinely better ceiling plays than Amon-Ra, Egbuka, and Burrow, and that talent separation is why ESPN's favoring you despite SteelerFan only being 18.5 points back right now. SteelerFan, you're already projecting to lose by more than a touchdown before anyone steps on the field, and Chris Boswell's already down 5.1 from projection while DK Metcalf's doing solo carry duty\u2014you need basically a perfect Sunday from your entire remaining roster just to make this interesting. ESPNFAN can absorb a couple floor games from your eight studs and still cruise, while SteelerFan's betting on coordinated ceiling execution from a squad that's already projecting to underperform, and that's not the spot you want to be in when you're already down by nine."
+    "SteelerFan9828's walking away with this at 99% win probability with ESPN projecting a 118.6 final that's already locked in\u2014you're done, the game's over, Juwan Johnson could score 50 points and it still wouldn't matter. ESPNFAN6437471416, you're projecting to finish at 92.8, which means you're losing by 25.8 points before that last tight end even sees the field, and that's what happens when you bench Cam Skattebo for 7.6 points to start Rashee Rice's absolute goose egg for 14.9 projected. The wild part is SteelerFan actually left 18.2 points on the board by benching Carnell Tate for Emeka Egbuka, which would've made this legitimately competitive instead of a straight mercy killing\u2014but even with that brutal lineup mistake, SteelerFan's studs still executed hard enough that Chuba Hubbard beating projection by 9.3 points basically sealed your coffin before halftime. This is what losing looks like: one team gets saved by variance while the other team gets destroyed by it, and ESPNFAN's left staring at a projected double-digit loss that their remaining studs literally can't erase."
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T08:20:58.221904+00:00",
+  "generatedAt": "2026-10-09T04:42:57.212551+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 5,
   "matchups": [
@@ -9,7 +9,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 118.9,
-        "winProbability": 0.57,
+        "winProbability": 0.53,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
@@ -26,34 +26,42 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 105.2,
-        "winProbability": 0.43,
+        "score": 33.0,
+        "projectedFinal": 114.2,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
-          "George Pickens",
           "Lamar Jackson",
           "Christian Watson",
-          "Brandon Aubrey",
           "Vikings D/ST",
           "Ollie Gordon II",
           "Jeremiyah Love"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "George Pickens",
+          "actual": 28.0,
+          "projected": 13.2,
+          "delta": 14.8
+        },
+        "worstStarter": {
+          "name": "Brandon Aubrey",
+          "actual": 5.0,
+          "projected": 10.8,
+          "delta": -5.8
+        }
       },
       "familyName": null,
-      "analysis": "ESPNFAN6437471416's taking this at 57% with ESPN projecting a 118.9 to 105.2 finish\u2014that's a 13.7-point cushion that holds up as long as James Cook and Chase Brown don't completely disappear in the second half, which is the real test here since both of you still have nine starters left to play. Doakes22's got the Lamar/Jefferson/Bowers trio that could theoretically flip this entire thing if they all decide to go nuclear at the same time, but ESPN's numbers are banking on ESPNFAN's supporting cast (Garrett Wilson, Cam Skattebo, Purdy) just hitting their floors while Doakes needs George Pickens and Christian Watson to actually get targeted enough to matter. The gap's big enough that Doakes can't afford his studs underperforming\u2014if Lamar plays like a backup and Jefferson doesn't crack double digits, you're looking at a blowout, but if all three of those guys show up on schedule then this tightens fast and becomes a real game. Neither one of you sabotaged yourself in the lineup, so this comes down to pure execution: ESPNFAN wins if his depth complements his stars, Doakes only wins if his stack explodes while ESPNFAN's role players combine for less than expected."
+      "analysis": "ESPNFAN6437471416's at 53% with ESPN projecting 118.9 to Doakes22's 114.2\u2014basically a coin flip with a 4.7-point edge that completely evaporates if Lamar Jackson and that Jefferson/Bowers combo decide to go absolutely nuclear while you're sitting at zero starters played. Doakes22's got the ceiling upside here with three elite studs still waiting, but George Pickens already bailed you out for 28 points (way more than his projected 13.2), so you burned through your luck early and now you're hoping lightning strikes twice on players who are already built into ESPN's projection\u2014meanwhile Brandon Aubrey underperforming by nearly six points is the kind of papercut that mattered more when you were already thin on depth. ESPNFAN6437471416's got the safer path with Cook, Chase Brown, Wilson, and Skattebo all sitting there to just hit their floors, which is a lower bar to clear than Doakes needing all three of his studs to simultaneously exceed expectation after Pickens already did the heavy lifting. With nine starters left on both sides this stays close, but Doakes is running out of ways to win this without relying on the exact same guys who are already factored into why you're trailing by five in the first place."
     },
     {
       "homeOwner": "kconley5",
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 133.4,
-        "winProbability": 0.63,
+        "projectedFinal": 119.1,
+        "winProbability": 0.6,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -70,43 +78,52 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 107.2,
-        "winProbability": 0.37,
+        "score": 12.6,
+        "projectedFinal": 102.1,
+        "winProbability": 0.4,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
           "Tyler Warren",
           "Jameson Williams",
-          "Dak Prescott",
           "Jason Myers",
           "Chiefs D/ST",
           "Josh Downs",
           "Emanuel Wilson"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Dak Prescott",
+          "actual": 12.6,
+          "projected": 17.8,
+          "delta": -5.1
+        },
+        "worstStarter": {
+          "name": "Dak Prescott",
+          "actual": 12.6,
+          "projected": 17.8,
+          "delta": -5.1
+        }
       },
       "familyName": null,
-      "analysis": "kconley5's running away with this at 63% with ESPN projecting 133.4 to RGM2215's 107.2\u2014that's a 26.2-point gap that doesn't shrink when kconley5's still got Bijan Robinson, Derrick Henry, and Tee Higgins sitting there while RGM2215's entire gameplan is banking on Christian McCaffrey somehow deciding to put the team on his back and Dak Prescott remembering how to throw downfield. Neither of you made a lineup mistake to blame, so this is purely about who drafted better and built a deeper roster\u2014kconley5 just stacked the deck with talent that actually produces on projection while RGM2215's got too much riding on too few studs to realistically close a 26-point hole. RGM2215 needed this to be a heavyweight fight and instead it's shaping up to be a mercy rule situation where the gap probably gets bigger before it gets smaller."
+      "analysis": "kconley5's walking out with this at 60% with ESPN projecting 119.1 to RGM2215's 102.1\u2014that's a 17-point gap that holds up even with both sides still having starters left to play, which means RGM2215 needs basically everyone on the field to simultaneously exceed their floor just to make this close. Dak Prescott already left 5 points on the board by underperforming his projection, so RGM2215's not exactly in a position to waste production anywhere when you're trying to close a 17-point hole. kconley5's got the luxury of Henry and Bijan sitting there as insurance while RGM2215's counting on McCaffrey to turn into a one-man army, which is a bet you don't want to make when you're already behind by more than most teams score in a half. This is kconley5's to lose at this point\u2014the roster depth just doesn't exist on the other side to make this interesting."
     },
     {
       "homeOwner": "SteelerFan9828",
       "awayOwner": "ESPNfan83795608",
       "home": {
         "score": 0.0,
-        "projectedFinal": 102.4,
-        "winProbability": 0.38,
+        "projectedFinal": 116.9,
+        "winProbability": 0.35,
         "yetToPlay": [
           "Amon-Ra St. Brown",
-          "Breece Hall",
           "Carnell Tate",
           "Joe Burrow",
           "Rico Dowdle",
           "George Kittle",
           "Steelers D/ST",
           "Chris Boswell",
+          "Braelon Allen",
           "DK Metcalf"
         ],
         "worstMistake": null,
@@ -114,12 +131,11 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 125.7,
-        "winProbability": 0.62,
+        "score": 31.5,
+        "projectedFinal": 145.6,
+        "winProbability": 0.65,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
-          "Omarion Hampton",
           "Chris Olave",
           "Davante Adams",
           "Jayden Daniels",
@@ -129,11 +145,21 @@
           "Will Reichard"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Bucky Irving",
+          "actual": 31.5,
+          "projected": 15.2,
+          "delta": 16.3
+        },
+        "worstStarter": {
+          "name": "Bucky Irving",
+          "actual": 31.5,
+          "projected": 15.2,
+          "delta": 16.3
+        }
       },
       "familyName": null,
-      "analysis": "ESPNfan83795608's running away with this at 62% win probability with ESPN projecting a 125.7 final while SteelerFan9828's staring down 102.4\u2014that's a 23.3-point gap that doesn't shrink when both sides still have nine starters left to play, but SteelerFan would need basically everyone to simultaneously exceed their floor just to make this competitive. SteelerFan's got the talent on paper with Amon-Ra, Breece Hall, Burrow, and DK Metcalf waiting, but ESPN's not seeing a path to closing a 23-point hole, and that's the cold reality of the projection math. ESPNfan's got Jayden Daniels, Davante Adams, and Chris Olave all built into that edge\u2014if those guys hit their floors this is done, and there's no lineup disaster either team can point to as the reason one side got dunked on. This is purely about which roster was built better from draft day, and ESPNfan just constructed the superior team."
+      "analysis": "ESPNfan83795608's sitting pretty at 65% win probability with ESPN projecting a 145.6 finish against SteelerFan9828's 116.9\u2014that's a 28.7-point gap that doesn't close when ESPNfan's still got Jayson Smith-Njigba, Chris Olave, Davante Adams, and Jayden Daniels all queued up while SteelerFan's banking on basically everyone exceeding projection just to stay competitive. SteelerFan's got nine starters left to play so it technically isn't over, but ESPN's already got this penciled in as a blowout, and when you're spotting 29 points against a roster that deep there's really no realistic comeback math here. The only thing keeping this from being completely over right now is that Burrow and Amon-Ra could theoretically go nuclear, but ESPNfan's got the kind of balanced lineup where you don't need anyone to exceed their floor\u2014you just need everyone to hit it, and that's the blueprint that wins football games."
     },
     {
       "homeOwner": "espnfan7338848211",
@@ -141,7 +167,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 120.8,
-        "winProbability": 0.49,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Drake London",
@@ -158,13 +184,12 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 123.5,
-        "winProbability": 0.51,
+        "score": 14.2,
+        "projectedFinal": 120.2,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
-          "Javonte Williams",
           "Jaylen Waddle",
           "Jalen Hurts",
           "Kyle Pitts Sr.",
@@ -173,19 +198,29 @@
           "Evan McPherson"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Javonte Williams",
+          "actual": 14.2,
+          "projected": 17.5,
+          "delta": -3.3
+        },
+        "worstStarter": {
+          "name": "Javonte Williams",
+          "actual": 14.2,
+          "projected": 17.5,
+          "delta": -3.3
+        }
       },
       "familyName": null,
-      "analysis": "ESPN's got this at basically a coin flip\u201451-49 with a 2.7-point projection gap that favors espn88256878 at 123.5 to espnfan7338848211's 120.8\u2014which means both of you are sitting in zeros right now and neither side gets to act like this is decided before nine starters each take the field. espn88256878's got the razor-thin edge courtesy of Jalen Hurts and Ashton Jeanty, while espnfan7338848211's leaning hard on Ja'Marr Chase and D'Andre Swift to carry the load, and honestly at this level of talent it's completely interchangeable depending on whether your mid-tier depth actually complements your stars or completely abandons them. The real knife's edge here is that neither one of you made a meaningful lineup mistake, so whoever loses this gets to sit with the pure fact that you just got outperformed by the other guy's roster construction, not beaten by your own stupidity\u2014and with this many starters still left to play and rosters this evenly matched, you're genuinely betting on which QB's receivers actually get targeted and which defense decides to not completely embarrass itself more than which team outsmarted the other one at draft."
+      "analysis": "This is a complete toss-up at 50-50 with ESPN projecting espnfan7338848211 to 120.8 and espn88256878 to 120.2\u2014basically a dead heat before nine starters per side even step on the field, so neither one of you gets to pretend this is decided. espnfan7338848211's got the margin-of-error edge thanks to Ja'Marr Chase and D'Andre Swift, while espn88256878's banking on Jalen Hurts and Ashton Jeanty to carry the load, which is genuinely interchangeable firepower when you're talking about this tier of talent. The real problem for espn88256878 is that Javonte Williams shit the bed by 3.3 points (14.2 actual vs. 17.5 projected), which means you're already running a small deficit before your remaining studs even touch the field\u2014not enough to tank you outright, but enough that you need a flawless execution from Hurts, Jeanty, and the rest of your depth while espnfan7338848211 just needs their guys to hit their floors. Both rosters are loaded enough to win this straight up if the pieces click, but espn88256878 just gave away a couple points that might end up mattering in a matchup this close."
     },
     {
       "homeOwner": "82Cole47",
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 132.9,
-        "winProbability": 0.52,
+        "projectedFinal": 123.5,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -194,20 +229,28 @@
           "Tony Pollard",
           "Romeo Doubs",
           "Ka'imi Fairbairn",
-          "Deebo Samuel Sr.",
-          "Cowboys D/ST"
+          "Deebo Samuel Sr."
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Cowboys D/ST",
+          "actual": -2.0,
+          "projected": 7.4,
+          "delta": -9.4
+        },
+        "worstStarter": {
+          "name": "Cowboys D/ST",
+          "actual": -2.0,
+          "projected": 7.4,
+          "delta": -9.4
+        }
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 129.6,
-        "winProbability": 0.48,
+        "score": 2.9,
+        "projectedFinal": 113.4,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Jonathan Taylor",
-          "CeeDee Lamb",
           "Kyren Williams",
           "Bhayshul Tuten",
           "Isaiah Likely",
@@ -217,25 +260,35 @@
           "Jaguars D/ST"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "CeeDee Lamb",
+          "actual": 2.9,
+          "projected": 19.1,
+          "delta": -16.2
+        },
+        "worstStarter": {
+          "name": "CeeDee Lamb",
+          "actual": 2.9,
+          "projected": 19.1,
+          "delta": -16.2
+        }
       },
       "familyName": null,
-      "analysis": "82Cole47's got this one at 52% win probability with ESPN projecting 132.9 to Eric Brotmann's 129.6\u2014basically a 3.3-point edge that means nothing when both of you are sitting at zeros with nine starters each still left to play, so neither one of you gets to act like this is settled. Cole's banking on Jahmyr Gibbs, Josh Allen, and Tony Pollard to do the heavy lifting while Brotmann's countering with Jonathan Taylor, CeeDee Lamb, and Matthew Stafford, which is legitimately interchangeable talent when you're talking about this level of production up against defenses that can't stop anyone. The difference between winning and losing here is just whether one guy's studs randomly decide to exceed their floor by a couple points while the other guy's hit exactly at projection\u2014you're both loaded enough that this comes down to pure execution instead of who made smarter roster decisions. With this many starters still in play and the rosters this evenly matched, the winner's just gonna be the guy whose best players decided to show up, and the loser's gonna have to sit with the fact that they got outperformed by basically the same level of talent instead of beaten by a stupid draft decision."
+      "analysis": "82Cole47's sitting at 55% with ESPN projecting a 123.5 to 113.4 finish\u2014that's a 10.1-point cushion that holds up as long as Josh Allen and Jahmyr Gibbs actually do what they're supposed to instead of getting completely game-scripted out of relevance, which is the real concern when you've still got eight starters waiting. Eric Brotmann's got the Jonathan Taylor/Matthew Stafford stack that could theoretically make this interesting if both guys decide to exceed their floor simultaneously, but ESPN's banking on Cole's depth (Trey McBride, Tony Pollard, Deebo Samuel) just hitting projection while Brotmann needs CeeDee Lamb to finally show up after dropping a goose egg on projection. The edge is Cole's to lose, but neither one of you sabotaged yourselves in the lineup, so this comes down to pure execution: Cole wins if his studs complement his role players, Brotmann only wins if Stafford decides to sling it downfield while Taylor actually gets volume instead of just hoping Lamb remembers how to catch footballs."
     }
   ],
   "recentLines": [
+    "ESPNFAN6437471416's at 53% with ESPN projecting 118.9 to Doakes22's 114.2\u2014basically a coin flip with a 4.7-point edge that completely evaporates if Lamar Jackson and that Jefferson/Bowers combo decide to go absolutely nuclear while you're sitting at zero starters played. Doakes22's got the ceiling upside here with three elite studs still waiting, but George Pickens already bailed you out for 28 points (way more than his projected 13.2), so you burned through your luck early and now you're hoping lightning strikes twice on players who are already built into ESPN's projection\u2014meanwhile Brandon Aubrey underperforming by nearly six points is the kind of papercut that mattered more when you were already thin on depth. ESPNFAN6437471416's got the safer path with Cook, Chase Brown, Wilson, and Skattebo all sitting there to just hit their floors, which is a lower bar to clear than Doakes needing all three of his studs to simultaneously exceed expectation after Pickens already did the heavy lifting. With nine starters left on both sides this stays close, but Doakes is running out of ways to win this without relying on the exact same guys who are already factored into why you're trailing by five in the first place.",
+    "kconley5's walking out with this at 60% with ESPN projecting 119.1 to RGM2215's 102.1\u2014that's a 17-point gap that holds up even with both sides still having starters left to play, which means RGM2215 needs basically everyone on the field to simultaneously exceed their floor just to make this close. Dak Prescott already left 5 points on the board by underperforming his projection, so RGM2215's not exactly in a position to waste production anywhere when you're trying to close a 17-point hole. kconley5's got the luxury of Henry and Bijan sitting there as insurance while RGM2215's counting on McCaffrey to turn into a one-man army, which is a bet you don't want to make when you're already behind by more than most teams score in a half. This is kconley5's to lose at this point\u2014the roster depth just doesn't exist on the other side to make this interesting.",
+    "ESPNfan83795608's sitting pretty at 65% win probability with ESPN projecting a 145.6 finish against SteelerFan9828's 116.9\u2014that's a 28.7-point gap that doesn't close when ESPNfan's still got Jayson Smith-Njigba, Chris Olave, Davante Adams, and Jayden Daniels all queued up while SteelerFan's banking on basically everyone exceeding projection just to stay competitive. SteelerFan's got nine starters left to play so it technically isn't over, but ESPN's already got this penciled in as a blowout, and when you're spotting 29 points against a roster that deep there's really no realistic comeback math here. The only thing keeping this from being completely over right now is that Burrow and Amon-Ra could theoretically go nuclear, but ESPNfan's got the kind of balanced lineup where you don't need anyone to exceed their floor\u2014you just need everyone to hit it, and that's the blueprint that wins football games.",
+    "This is a complete toss-up at 50-50 with ESPN projecting espnfan7338848211 to 120.8 and espn88256878 to 120.2\u2014basically a dead heat before nine starters per side even step on the field, so neither one of you gets to pretend this is decided. espnfan7338848211's got the margin-of-error edge thanks to Ja'Marr Chase and D'Andre Swift, while espn88256878's banking on Jalen Hurts and Ashton Jeanty to carry the load, which is genuinely interchangeable firepower when you're talking about this tier of talent. The real problem for espn88256878 is that Javonte Williams shit the bed by 3.3 points (14.2 actual vs. 17.5 projected), which means you're already running a small deficit before your remaining studs even touch the field\u2014not enough to tank you outright, but enough that you need a flawless execution from Hurts, Jeanty, and the rest of your depth while espnfan7338848211 just needs their guys to hit their floors. Both rosters are loaded enough to win this straight up if the pieces click, but espn88256878 just gave away a couple points that might end up mattering in a matchup this close.",
+    "82Cole47's sitting at 55% with ESPN projecting a 123.5 to 113.4 finish\u2014that's a 10.1-point cushion that holds up as long as Josh Allen and Jahmyr Gibbs actually do what they're supposed to instead of getting completely game-scripted out of relevance, which is the real concern when you've still got eight starters waiting. Eric Brotmann's got the Jonathan Taylor/Matthew Stafford stack that could theoretically make this interesting if both guys decide to exceed their floor simultaneously, but ESPN's banking on Cole's depth (Trey McBride, Tony Pollard, Deebo Samuel) just hitting projection while Brotmann needs CeeDee Lamb to finally show up after dropping a goose egg on projection. The edge is Cole's to lose, but neither one of you sabotaged yourselves in the lineup, so this comes down to pure execution: Cole wins if his studs complement his role players, Brotmann only wins if Stafford decides to sling it downfield while Taylor actually gets volume instead of just hoping Lamb remembers how to catch footballs.",
     "ESPNFAN6437471416's taking this at 57% with ESPN projecting a 118.9 to 105.2 finish\u2014that's a 13.7-point cushion that holds up as long as James Cook and Chase Brown don't completely disappear in the second half, which is the real test here since both of you still have nine starters left to play. Doakes22's got the Lamar/Jefferson/Bowers trio that could theoretically flip this entire thing if they all decide to go nuclear at the same time, but ESPN's numbers are banking on ESPNFAN's supporting cast (Garrett Wilson, Cam Skattebo, Purdy) just hitting their floors while Doakes needs George Pickens and Christian Watson to actually get targeted enough to matter. The gap's big enough that Doakes can't afford his studs underperforming\u2014if Lamar plays like a backup and Jefferson doesn't crack double digits, you're looking at a blowout, but if all three of those guys show up on schedule then this tightens fast and becomes a real game. Neither one of you sabotaged yourself in the lineup, so this comes down to pure execution: ESPNFAN wins if his depth complements his stars, Doakes only wins if his stack explodes while ESPNFAN's role players combine for less than expected.",
     "kconley5's running away with this at 63% with ESPN projecting 133.4 to RGM2215's 107.2\u2014that's a 26.2-point gap that doesn't shrink when kconley5's still got Bijan Robinson, Derrick Henry, and Tee Higgins sitting there while RGM2215's entire gameplan is banking on Christian McCaffrey somehow deciding to put the team on his back and Dak Prescott remembering how to throw downfield. Neither of you made a lineup mistake to blame, so this is purely about who drafted better and built a deeper roster\u2014kconley5 just stacked the deck with talent that actually produces on projection while RGM2215's got too much riding on too few studs to realistically close a 26-point hole. RGM2215 needed this to be a heavyweight fight and instead it's shaping up to be a mercy rule situation where the gap probably gets bigger before it gets smaller.",
     "ESPNfan83795608's running away with this at 62% win probability with ESPN projecting a 125.7 final while SteelerFan9828's staring down 102.4\u2014that's a 23.3-point gap that doesn't shrink when both sides still have nine starters left to play, but SteelerFan would need basically everyone to simultaneously exceed their floor just to make this competitive. SteelerFan's got the talent on paper with Amon-Ra, Breece Hall, Burrow, and DK Metcalf waiting, but ESPN's not seeing a path to closing a 23-point hole, and that's the cold reality of the projection math. ESPNfan's got Jayden Daniels, Davante Adams, and Chris Olave all built into that edge\u2014if those guys hit their floors this is done, and there's no lineup disaster either team can point to as the reason one side got dunked on. This is purely about which roster was built better from draft day, and ESPNfan just constructed the superior team.",
     "ESPN's got this at basically a coin flip\u201451-49 with a 2.7-point projection gap that favors espn88256878 at 123.5 to espnfan7338848211's 120.8\u2014which means both of you are sitting in zeros right now and neither side gets to act like this is decided before nine starters each take the field. espn88256878's got the razor-thin edge courtesy of Jalen Hurts and Ashton Jeanty, while espnfan7338848211's leaning hard on Ja'Marr Chase and D'Andre Swift to carry the load, and honestly at this level of talent it's completely interchangeable depending on whether your mid-tier depth actually complements your stars or completely abandons them. The real knife's edge here is that neither one of you made a meaningful lineup mistake, so whoever loses this gets to sit with the pure fact that you just got outperformed by the other guy's roster construction, not beaten by your own stupidity\u2014and with this many starters still left to play and rosters this evenly matched, you're genuinely betting on which QB's receivers actually get targeted and which defense decides to not completely embarrass itself more than which team outsmarted the other one at draft.",
     "82Cole47's got this one at 52% win probability with ESPN projecting 132.9 to Eric Brotmann's 129.6\u2014basically a 3.3-point edge that means nothing when both of you are sitting at zeros with nine starters each still left to play, so neither one of you gets to act like this is settled. Cole's banking on Jahmyr Gibbs, Josh Allen, and Tony Pollard to do the heavy lifting while Brotmann's countering with Jonathan Taylor, CeeDee Lamb, and Matthew Stafford, which is legitimately interchangeable talent when you're talking about this level of production up against defenses that can't stop anyone. The difference between winning and losing here is just whether one guy's studs randomly decide to exceed their floor by a couple points while the other guy's hit exactly at projection\u2014you're both loaded enough that this comes down to pure execution instead of who made smarter roster decisions. With this many starters still in play and the rosters this evenly matched, the winner's just gonna be the guy whose best players decided to show up, and the loser's gonna have to sit with the fact that they got outperformed by basically the same level of talent instead of beaten by a stupid draft decision.",
     "ESPNFAN6437471416's sitting at 57% with a 13.7-point projection advantage (118.9 to 105.2), which is a real lead but not the kind you can sleep on when both sides have nine starters left waiting to explode or completely tank. Doakes22's got the Lamar/Jefferson/Bowers stack that can absolutely flip this if they all decide to go nuclear in the same game, but ESPN's numbers say ESPNFAN's more likely to just win this on the strength of Cook and Chase Brown actually producing what they're supposed to instead of getting game-scripted into irrelevance. ESPNFAN's got the edge here, but Doakes isn't dead\u2014just behind, and needing your studs to actually show up instead of your lineup choices to save you, which is the harder road when you're already spotting 14 points.",
-    "kconley5's running away with this at 63% with ESPN projecting 133.4 to RGM2215's 107.2\u2014that's a 26.2-point gap that doesn't shrink when kconley5's still got Bijan Robinson, Derrick Henry, and Tee Higgins sitting in reserve while RGM2215's entire gameplan is banking on Christian McCaffrey somehow deciding to put the team on his back and Dak Prescott remembering how to throw downfield. Neither of you made a lineup mistake to blame, so this is purely about who drafted better and built a deeper roster\u2014kconley5 just stacked the deck with talent that actually produces on projection while RGM2215's got too much riding on too few studs to realistically close a 26-point hole. RGM2215 needed this to be a heavyweight fight and instead it's shaping up to be a mercy rule situation where the gap probably gets bigger before it gets smaller.",
-    "ESPNfan83795608's running away with this at 62% win probability with ESPN projecting a 125.7 final while SteelerFan9828's staring down 102.4\u2014that's a 23.3-point gap that doesn't shrink when both sides still have nine starters left to play, but SteelerFan would need basically everyone to simultaneously exceed their floor just to make this competitive. SteelerFan's got the talent on paper with Amon-Ra, Breece Hall, Burrow, and DK Metcalf waiting, but ESPN's not seeing a path to closing a 23-point hole, and that's the cold reality of the projection math. ESPNfan's got Jayden Daniels, Davante Adams, and Chris Olave all built into that edge\u2014if those guys hit their floors this is done, and there's no lineup disaster either team can point to as the reason one side got dunked on. This is purely about which roster was built better from draft day, and ESPNfan just constructed the superior team.",
-    "ESPN's got this as a coin flip at 51-49 with a 2.7-point projection gap (123.5 to 120.8), which means both of you are essentially tied before nine starters per side even take the field\u2014so neither one of you gets to act like this is decided. espn88256878's got the slimmest of edges courtesy of Jalen Hurts and Ashton Jeanty, while espnfan7338848211's banking on Ja'Marr Chase and D'Andre Swift to carry the load, which is genuinely interchangeable talent when you're talking about this caliber of studs going up against defenses that can't stop anyone. The whole thing hinges on whether Puka Nacua or Drake London decides to actually get fed, whether Aaron Jones or Alvin Kamara punches in a couple TDs, and whether either defense manages to not completely embarrass itself\u2014basically you're betting on which side's depth complements their stars better, not which team outsmarted the other one at draft. Both rosters are loaded enough to win this if the pieces click, but loaded enough to lose it just as easily if your mid-tier guys decide to lay an egg, so you're genuinely looking at a complete toss-up that'll come down to game script and which QB's receivers actually get targeted when it matters.",
-    "82Cole47's sitting at 52% with ESPN projecting 132.9 to Eric Brotmann's 48% and 129.6\u2014basically a coin flip that tilts 3.3 points toward Cole, which is nothing when both of you are still staring at complete zeros with nine starters each left to play. Cole's got the edge with Jahmyr Gibbs and Josh Allen carrying the load while Brotmann's banking on Jonathan Taylor and CeeDee Lamb to keep pace, but neither one of you made a lineup mistake to hang yourselves with, so this is purely coming down to which side's studs actually execute instead of which team outsmarted themselves. The difference between winning by 10 and losing by 10 here is just whether Gibbs stays healthy and Allen's arm stays fresh or if Taylor breaks off a couple of runs while CeeDee finally gets fed in the red zone\u2014with this many starters still left to play and rosters this evenly matched, you're basically betting on whose best players decide to show up instead of whose roster was smarter.",
-    "ESPNFAN6437471416's sitting at 55% with ESPN projecting 115.7 final while Doakes22's at 45% with 105.2\u2014this is your matchup to lose, but with nine starters still left on each side neither one of you should be celebrating until the final whistle because Lamar Jackson and that Jefferson/Bowers stack can absolutely flip the script if they decide to go nuclear. The 10.5-point projection gap is real but not insurmountable when you're talking about a Lamar/Jefferson/Bowers stack that can realistically all exceed their floor in the same week, and ESPNFAN's got James Cook and Chase Brown as their own ceiling plays that could run away with it if the Packers and Eagles actually use their running backs the way they should. Both rosters are loaded enough that this comes down to execution and whether your studs show up or completely disappear\u2014neither one of you made a lineup mistake to hang yourself with, so whoever loses this is gonna have to sit with the fact that they just got outperformed by the other guy's depth, not beaten by their own stupidity.",
-    "kconley5's walking out with this at 61% win probability with ESPN projecting 129.9 to RGM2215's 107.2\u2014that's a 22.7-point gap that doesn't magically close when you've still got Bijan Robinson, Derrick Henry, and Tee Higgins waiting to pile on while RGM2215's banking on Christian McCaffrey and Dak Prescott to somehow mount a comeback from a projected 23-point hole. Neither of you made any meaningful lineup mistakes, so this one's purely about roster construction\u2014kconley5 just built a team that actually delivers on projection while RGM2215's hoping for ceiling games from your studs just to avoid getting run off the field. The math is clean: kconley5 needed competent starters and got them, RGM2215 needed everyone to explode and that's a losing strategy when you're already spotting the other guy nearly a full game's worth of points before the final whistle."
+    "kconley5's running away with this at 63% with ESPN projecting 133.4 to RGM2215's 107.2\u2014that's a 26.2-point gap that doesn't shrink when kconley5's still got Bijan Robinson, Derrick Henry, and Tee Higgins sitting in reserve while RGM2215's entire gameplan is banking on Christian McCaffrey somehow deciding to put the team on his back and Dak Prescott remembering how to throw downfield. Neither of you made a lineup mistake to blame, so this is purely about who drafted better and built a deeper roster\u2014kconley5 just stacked the deck with talent that actually produces on projection while RGM2215's got too much riding on too few studs to realistically close a 26-point hole. RGM2215 needed this to be a heavyweight fight and instead it's shaping up to be a mercy rule situation where the gap probably gets bigger before it gets smaller."
   ]
 }

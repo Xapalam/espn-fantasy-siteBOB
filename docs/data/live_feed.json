@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-10-06T08:19:36.555228+00:00",
+  "generatedAt": "2026-10-09T04:42:38.171146+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 5,
-  "events": []
+  "events": [
+    {
+      "type": "benched",
+      "owner": "SteelerFan9828",
+      "player": "Emeka Egbuka",
+      "position": "WR",
+      "actual": 17.2,
+      "projected": 9.76169897,
+      "line": "SteelerFan9828 really said \"nah, I don't trust this guy\" and watched 17 points hit the bench like a fucking idiot\u2014that's what happens when you panic-bench your breakout receiver before game time."
+    },
+    {
+      "type": "over",
+      "owner": "ESPNfan83795608",
+      "player": "Bucky Irving",
+      "position": "RB",
+      "actual": 31.5,
+      "projected": 15.22039044,
+      "line": "ESPNfan83795608 finally figured out what a waiver wire pickup looks like, and now Bucky Irving's gonna carry this whole goddamn team on his back\u2014shame you wasted the first 10 weeks before realizing you had gold sitting there waiting to be grabbed."
+    },
+    {
+      "type": "under",
+      "owner": "Eric Brotmann",
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "actual": 2.9,
+      "projected": 19.1491447,
+      "line": "Eric, I get that you probably needed CeeDee to save your season after the dumpster fire that's been your draft class, but starting him when he was projected for 19 and watching him limp to 2.9 points might be the most Eric move possible this week."
+    },
+    {
+      "type": "over",
+      "owner": "Doakes22",
+      "player": "George Pickens",
+      "position": "WR",
+      "actual": 28.0,
+      "projected": 13.22072799,
+      "line": "Doakes22 finally figured out how to read a lineup card and actually started Pickens, and the man goes absolutely nuclear for 28 points\u2014guess even a broken clock is right twice a day, you beautiful accident."
+    },
+    {
+      "type": "under",
+      "owner": "82Cole47",
+      "player": "Cowboys D/ST",
+      "position": "D/ST",
+      "actual": -2.0,
+      "projected": 7.41871094,
+      "line": "Dallas D got absolutely shithoused this week and somehow you thought that was the move, 82Cole47\u2014down 9.4 points before kickoff even mattered, that's the kind of start that loses you weeks."
+    },
+    {
+      "type": "under",
+      "owner": "Doakes22",
+      "player": "Brandon Aubrey",
+      "position": "K",
+      "actual": 5.0,
+      "projected": 10.80340786,
+      "line": "Doakes22 really trusted the process with Aubrey this week and got absolutely punted in the face\u20145 points when you needed 11, what the fuck were you thinking starting a kicker off a bye week with that projection?"
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "Dak Prescott",
+      "position": "QB",
+      "actual": 12.64,
+      "projected": 17.75122865,
+      "line": "RGM2215, Dak shit the bed harder than your draft strategy, and you had the audacity to start him anyway\u2014that's a -5.2 point swing that's gonna haunt your playoff hopes."
+    }
+  ]
 }

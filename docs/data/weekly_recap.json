@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:07:58.406248+00:00",
+  "generatedAt": "2026-10-16T08:22:22.754893+00:00",
   "seasonId": 2026,
   "lastWeek": {
     "matchupPeriodId": 5,
@@ -11,7 +11,7 @@
         "awayScore": 152.38,
         "winner": "Doakes22",
         "loser": "ESPNFAN6437471416",
-        "recap": "ESPNFAN6437471416 got absolutely skull-fucked by a 9.9-point margin this week\u2014not enough to blame on a single bad play, just pure, distilled incompetence across the board. You had a whole fucking roster and still managed to leave 10 points on the bench like some kind of fantasy sadist. Doakes22 didn't even need to get cute; you just shit the bed hard enough that he could coast to the W. Better luck next week, though let's be honest\u2014you won't get it."
+        "recap": "Doakes22 beat ESPNFAN6437471416 152.4-142.5."
       },
       {
         "homeOwner": "kconley5",
@@ -20,7 +20,7 @@
         "awayScore": 161.04,
         "winner": "RGM2215",
         "loser": "kconley5",
-        "recap": "kconley5 got absolutely skull-fucked this week by 58.9 points\u2014that's not a loss, that's a goddamn public execution. 102 points is what you'd expect from a team that treated the waiver wire like it was on fire and you weren't allowed to touch it, and apparently kconley5 got the memo. RGM2215 showed up ready to play fantasy football while kconley5 showed up ready to lose their house\u2014and they did, spectacularly."
+        "recap": "RGM2215 beat kconley5 161.0-102.1."
       },
       {
         "homeOwner": "SteelerFan9828",
@@ -29,7 +29,7 @@
         "awayScore": 196.66,
         "winner": "ESPNfan83795608",
         "loser": "SteelerFan9828",
-        "recap": "SteelerFan9828 got absolutely eviscerated this week\u2014we're talking a 95-point beatdown that makes most mercy rules look generous. You didn't just lose, you got taken out back and shot; this wasn't a football game, it was a fucking crime scene. ESPNfan83795608 put up nearly 200 while you couldn't even crack triple digits\u2014your team played like it had a collective concussion. Maybe spend less time in the Steelers subreddit complaining about refs and more time actually setting your lineup, because this is the kind of ass-kicking that gets remembered for years."
+        "recap": "ESPNfan83795608 beat SteelerFan9828 196.7-101.1."
       },
       {
         "homeOwner": "espnfan7338848211",
@@ -38,7 +38,7 @@
         "awayScore": 119.3,
         "winner": "espn88256878",
         "loser": "espnfan7338848211",
-        "recap": "espnfan7338848211 got absolutely skull-fucked this week, limping across the finish line with a pathetic 100.6 points while watching espn88256878 lap them by nearly 19. That's the kind of performance that makes you question every single decision you made from August to now\u2014which, let's be honest, you should, because this team is held together with fucking duct tape and prayers. Better luck next week, I guess, but based on your season so far, I wouldn't hold my breath."
+        "recap": "espn88256878 beat espnfan7338848211 119.3-100.6."
       },
       {
         "homeOwner": "82Cole47",
@@ -47,7 +47,7 @@
         "awayScore": 135.32,
         "winner": "Eric Brotmann",
         "loser": "82Cole47",
-        "recap": "Eric Brotmann walked into this matchup like he had something to prove, and 82Cole47 decided to make it easy by fielding what looked like a roster assembled by someone playing drunk on their phone at 2 AM. Down 12.2 points with a team that managed to choke harder than a rookie QB in the playoffs, Cole watched his season slip away like sand through a sieve while Eric's squad actually showed up to work. Better luck next week\u2014though honestly, that bar's so low right now you'd need a shovel to find it."
+        "recap": "Eric Brotmann beat 82Cole47 135.3-123.1."
       }
     ]
   },
@@ -59,35 +59,35 @@
         "awayOwner": "RGM2215",
         "homeRecord": "2-3",
         "awayRecord": "1-4",
-        "preview": "Doakes22 rolls in at 2-3 thinking they've got momentum, but let's be real\u2014you're barely treading water and about to get dragged under by RGM2215's dumpster fire. Sure, RGM's 1-4, but at least they have the excuse of being catastrophically bad from day one; you've had five weeks to prove you belong and you're still hovering around .500 like a goddamn rookie. This is where Doakes22 gets exposed trying to punch up\u2014prepare to lose to the worst team in the league and have to explain how that happened all season long."
+        "preview": "Doakes22 (2-3) vs RGM2215 (1-4)."
       },
       {
         "homeOwner": "ESPNfan83795608",
         "awayOwner": "ESPNFAN6437471416",
         "homeRecord": "3-2",
         "awayRecord": "2-3",
-        "preview": "ESPNfan83795608 is sitting pretty at 3-2, but we all know you've been riding the coattails of a couple lucky weeks\u2014your studs are due for a collective meltdown, and ESPNFAN6437471416 is hungry enough at 2-3 to absolutely feast on your overconfidence this week. ESPNFAN6437471416, don't get too excited though; you're still one of the league's favorite punching bags, so even if you pull off the upset, nobody's letting you forget that you got here by making questionable roster decisions all season. This is a \"both teams suck, but one of you has to lose worse\" type of matchup, and frankly, we're just here for the inevitable excuses that follow."
+        "preview": "ESPNfan83795608 (3-2) vs ESPNFAN6437471416 (2-3)."
       },
       {
         "homeOwner": "espn88256878",
         "awayOwner": "kconley5",
         "homeRecord": "2-3",
         "awayRecord": "3-2",
-        "preview": "espn88256878 limping in at 2-3 with all the momentum of a three-legged dog, while kconley5 sits pretty at 3-2 ready to put you out of your misery\u2014this is the matchup where you finally accept that your draft strategy of \"just vibes\" isn't a sustainable long-term plan. Your waiver wire heroics can't save you when your core is this cooked, and kconley5's about to remind you exactly why they're above .500 and you're praying for a miracle. Time to accept the tank, brother."
+        "preview": "espn88256878 (2-3) vs kconley5 (3-2)."
       },
       {
         "homeOwner": "Eric Brotmann",
         "awayOwner": "SteelerFan9828",
         "homeRecord": "3-2",
         "awayRecord": "2-3",
-        "preview": "Eric's sitting pretty at 3-2 with what I'm sure is pure luck and favorable scheduling, but SteelerFan's about to remind him what it feels like when actual competence shows up. Watch Eric panic-trade away his best player for a backup tight end he saw have one good game, because that's apparently his whole strategy at this point. SteelerFan might be 2-3, but at least they have an excuse\u2014Eric's just winging it and somehow hasn't face-planted into the dirt yet."
+        "preview": "Eric Brotmann (3-2) vs SteelerFan9828 (2-3)."
       },
       {
         "homeOwner": "82Cole47",
         "awayOwner": "espnfan7338848211",
         "homeRecord": "4-1",
         "awayRecord": "3-2",
-        "preview": "82Cole47 rolls into this week riding high at 4-1, but let's be honest\u2014you've been getting carried by waiver-wire desperation and lucky bye-week timing, and this is the week your house of cards collapses against a team that actually knows what they're doing. espnfan7338848211 may be sitting at 3-2, but they're about to remind you why winning close games matters, and you're about to get exposed for the fraud you've been all season."
+        "preview": "82Cole47 (4-1) vs espnfan7338848211 (3-2)."
       }
     ]
   }

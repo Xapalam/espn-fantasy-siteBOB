@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T08:32:37.385075+00:00",
+  "generatedAt": "2026-10-16T04:58:44.169729+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 6,
   "matchups": [
@@ -8,54 +8,61 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 112.3,
-        "winProbability": 0.52,
+        "projectedFinal": 121.3,
+        "winProbability": 0.64,
         "yetToPlay": [
-          "Saquon Barkley",
           "Brock Bowers",
           "George Pickens",
           "Lamar Jackson",
+          "Luther Burden III",
           "Christian Watson",
           "Brandon Aubrey",
-          "Denzel Boston",
-          "Vikings D/ST",
-          "Jacory Croskey-Merritt"
+          "Jeremiyah Love",
+          "Dameon Pierce",
+          "Buccaneers D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 107.8,
-        "winProbability": 0.48,
+        "score": 12.2,
+        "projectedFinal": 95.9,
+        "winProbability": 0.36,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
           "Tyler Warren",
           "Jameson Williams",
           "Dak Prescott",
-          "Jason Myers",
           "Josh Downs",
-          "Emanuel Wilson",
           "Jets D/ST"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Jason Myers",
+          "actual": 7.0,
+          "projected": 8.6,
+          "delta": -1.6
+        },
+        "worstStarter": {
+          "name": "Emanuel Wilson",
+          "actual": 5.2,
+          "projected": 14.8,
+          "delta": -9.6
+        }
       },
       "familyName": null,
-      "analysis": "Doakes22's sitting at 52% with a 4.5-point projection edge, but don't pop the champagne yet\u2014both of you are rolling out full rosters and ESPN's basically saying this stays competitive through Sunday night. Doakes22's got the better remaining firepower with Lamar Jackson, Saquon Barkley, and Brock Bowers queued up, while RGM2215's leaning hard on Christian McCaffrey and Malik Nabers to somehow drag you across the finish line against a deeper stack\u2014that's the kind of imbalance that matters when you're projecting within five points. RGM2215, your bench is legitimately thin; Emanuel Wilson and Josh Downs aren't exactly gonna scare anybody when Doakes22's sitting back watching Pickens, Watson, and Boston still waiting to contribute. Neither of you botched your lineups, so this comes down to pure execution\u2014Doakes22 just has more ways to win if the chalk hits, and ESPN's confidence level reflects that with the slight edge in win probability and projection."
+      "analysis": "RGM2215 leads Doakes22 by 12.2."
     },
     {
       "homeOwner": "ESPNfan83795608",
       "awayOwner": "ESPNFAN6437471416",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 127.1,
-        "winProbability": 0.5,
+        "score": 25.4,
+        "projectedFinal": 135.5,
+        "winProbability": 0.56,
         "yetToPlay": [
-          "Jaxon Smith-Njigba",
           "Chris Olave",
           "Bucky Irving",
           "Mike Evans",
@@ -63,41 +70,51 @@
           "Tucker Kraft",
           "Texans D/ST",
           "Bryce Young",
-          "Cairo Santos"
+          "Dominic Zvada"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Jaxon Smith-Njigba",
+          "actual": 25.4,
+          "projected": 19.0,
+          "delta": 6.4
+        },
+        "worstStarter": {
+          "name": "Jaxon Smith-Njigba",
+          "actual": 25.4,
+          "projected": 19.0,
+          "delta": 6.4
+        }
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 126.5,
-        "winProbability": 0.5,
+        "projectedFinal": 123.1,
+        "winProbability": 0.44,
         "yetToPlay": [
           "James Cook III",
           "Garrett Wilson",
-          "Rashee Rice",
           "Cam Skattebo",
           "Parker Washington",
           "Brock Purdy",
           "Spencer Shrader",
           "Juwan Johnson",
-          "Chiefs D/ST"
+          "Chiefs D/ST",
+          "Xavier Worthy"
         ],
         "worstMistake": null,
         "bestStarter": null,
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "ESPNfan83795608 and ESPNFAN6437471416 are sitting at a genuine dead heat with ESPN projecting 127.1 and 126.5 respectively\u2014we're talking a 0.6-point gap that could flip on literally one player going boom or bust, and both of you still have nine starters left to play so this isn't decided yet. ESPNfan83795608 gets the microscopic edge because Chris Olave and Mike Evans give you better receiver insurance than Garrett Wilson and Rashee Rice, but Jaylen Warren and Bucky Irving as your RB depth is where this matchup actually tips: ESPNFAN6437471416's betting the entire game on James Cook and Cam Skattebo to carry the load while Brock Purdy doesn't completely implode, which is a lot thinner margin for error than what the other side's holding. Neither of you made any lineup decisions worth roasting, so ESPN's essentially saying \"whoever's studs actually perform to projection instead of going boom or bust takes this by a field goal\"\u2014this one's going Sunday night regardless, and the slight edge goes to the team that doesn't need both its RBs to have career days just to stay competitive."
+      "analysis": "ESPNfan83795608 leads ESPNFAN6437471416 by 25.4."
     },
     {
       "homeOwner": "espn88256878",
       "awayOwner": "kconley5",
       "home": {
         "score": 0.0,
-        "projectedFinal": 134.0,
-        "winProbability": 0.51,
+        "projectedFinal": 134.7,
+        "winProbability": 0.52,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -115,8 +132,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 131.0,
-        "winProbability": 0.49,
+        "projectedFinal": 131.1,
+        "winProbability": 0.48,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -133,14 +150,14 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "espn88256878's sitting at 51% with ESPN projecting 134.0 to kconley5's 131.0\u2014basically a dead heat, and both of you still have nine starters left to play so this isn't decided yet. The projection gap is only three points, which means this comes down to pure execution: espn88256878's got Mahomes, Kelce, and Jeanty waiting to explode, while kconley5's countering with Derrick Henry and Bijan Robinson\u2014both rosters have legitimate ceiling to win this. Neither of you made any lineup decisions worth roasting, so ESPN's essentially saying \"flip a coin and see who's studs actually perform at projection instead of going boom or bust\" when you're this close. This one's going the distance through Sunday night regardless, and whoever doesn't get bit by a floor game from their stars walks out with the W."
+      "analysis": "espn88256878 leads kconley5 by 0.0."
     },
     {
       "homeOwner": "Eric Brotmann",
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 0.0,
-        "projectedFinal": 137.8,
+        "projectedFinal": 136.9,
         "winProbability": 0.65,
         "yetToPlay": [
           "Jonathan Taylor",
@@ -159,7 +176,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 107.1,
+        "projectedFinal": 106.3,
         "winProbability": 0.35,
         "yetToPlay": [
           "Emeka Egbuka",
@@ -177,34 +194,43 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "Eric Brotmann's running away with this at 65%\u2014ESPN's got him cruising to 137.8 while SteelerFan9828 is staring down 107.1, a 30-point gap that's basically insurmountable even with both rosters still fully intact. SteelerFan9828, you're genuinely banking on Emeka Egbuka, DK Metcalf, and Caleb Williams to conjure something that the projection math says isn't happening, while Eric's just sitting there waiting for Jonathan Taylor, CeeDee Lamb, and Kyren Williams to pile on before the week's halfway done. Neither of you fucked up your lineups, so this is pure roster depth\u2014ESPN trusts Eric's remaining stack by 30 full points, and that kind of gap doesn't reverse itself no matter how many studs you've got queued up. This one's already decided, you're just watching the formality of the scoreboard catching up."
+      "analysis": "Eric Brotmann leads SteelerFan9828 by 0.0."
     },
     {
       "homeOwner": "82Cole47",
       "awayOwner": "espnfan7338848211",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 94.8,
-        "winProbability": 0.34,
+        "score": 6.0,
+        "projectedFinal": 122.4,
+        "winProbability": 0.48,
         "yetToPlay": [
-          "Jahmyr Gibbs",
           "Trey McBride",
           "Josh Allen",
           "Quinshon Judkins",
+          "Rome Odunze",
           "Tony Pollard",
           "Romeo Doubs",
           "Ka'imi Fairbairn",
-          "Deebo Samuel Sr.",
-          "Cowboys D/ST"
+          "Braelon Allen"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Seahawks D/ST",
+          "actual": 6.0,
+          "projected": 6.0,
+          "delta": -0.0
+        },
+        "worstStarter": {
+          "name": "Seahawks D/ST",
+          "actual": 6.0,
+          "projected": 6.0,
+          "delta": -0.0
+        }
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 124.7,
-        "winProbability": 0.66,
+        "projectedFinal": 127.0,
+        "winProbability": 0.52,
         "yetToPlay": [
           "Kenneth Walker III",
           "Drake London",
@@ -221,7 +247,7 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "Cole47's staring down a 30-point deficit with a 34% win probability\u2014ESPN's got espnfan7338848211 cruising to 124.7 while you're projecting just 94.8, and that gap doesn't close no matter how many studs you've got still waiting to play. You've got Josh Allen, Deebo, and Gibbs left on the field, which is solid upside, but espnfan's countering with Kenneth Walker, D'Andre Swift, Terry McLaurin, and Zay Flowers\u2014that's not just better depth, that's a completely different tier of remaining firepower that ESPN trusts by 30 full points. Neither of you made obvious lineup disasters, so this is pure roster construction, and espnfan7338848211 just got dealt a significantly better hand with what's still on the board; you're not mathematically dead until the final gun, but the projection spread here tells you everything about how this one's trending."
+      "analysis": "82Cole47 leads espnfan7338848211 by 6.0."
     }
   ],
   "recentLines": [

@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-10-13T08:22:17.685115+00:00",
+  "generatedAt": "2026-10-16T04:58:42.273716+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 6,
-  "events": []
+  "events": [
+    {
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "RJ Harvey",
+      "position": "RB",
+      "actual": 14.6,
+      "projected": 9.48378536,
+      "line": "kconley5 benched RJ Harvey, who scored 14.6 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "espnfan7338848211",
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "actual": 13.6,
+      "projected": 10.06463456,
+      "line": "espnfan7338848211 benched J.K. Dobbins, who scored 13.6 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "Emanuel Wilson",
+      "position": "RB",
+      "actual": 5.2,
+      "projected": 14.84315976,
+      "line": "Emanuel Wilson bombed his projection: 5.2 actual vs 14.8 projected, playing for RGM2215."
+    },
+    {
+      "type": "over",
+      "owner": "ESPNfan83795608",
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "actual": 25.4,
+      "projected": 19.04334294,
+      "line": "Jaxon Smith-Njigba crushed his projection: 25.4 actual vs 19.0 projected, playing for ESPNfan83795608."
+    }
+  ]
 }

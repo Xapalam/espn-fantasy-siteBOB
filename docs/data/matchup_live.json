@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:31:02.511463+00:00",
+  "generatedAt": "2026-10-17T08:42:17.196369+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 6,
   "matchups": [
@@ -8,18 +8,18 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 121.3,
-        "winProbability": 0.64,
+        "projectedFinal": 123.6,
+        "winProbability": 0.66,
         "yetToPlay": [
           "Brock Bowers",
           "George Pickens",
-          "Lamar Jackson",
           "Luther Burden III",
           "Christian Watson",
           "Brandon Aubrey",
-          "Jeremiyah Love",
           "Dameon Pierce",
-          "Buccaneers D/ST"
+          "Buccaneers D/ST",
+          "Jordan Love",
+          "Tyler Allgeier"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -27,8 +27,8 @@
       },
       "away": {
         "score": 12.2,
-        "projectedFinal": 95.9,
-        "winProbability": 0.36,
+        "projectedFinal": 95.1,
+        "winProbability": 0.34,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -60,7 +60,7 @@
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 25.4,
-        "projectedFinal": 135.5,
+        "projectedFinal": 134.0,
         "winProbability": 0.56,
         "yetToPlay": [
           "Chris Olave",
@@ -69,8 +69,8 @@
           "Jaylen Warren",
           "Tucker Kraft",
           "Texans D/ST",
-          "Bryce Young",
-          "Dominic Zvada"
+          "Dominic Zvada",
+          "Caleb Williams"
         ],
         "worstMistake": null,
         "bestStarter": {
@@ -88,7 +88,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 123.1,
+        "projectedFinal": 122.7,
         "winProbability": 0.44,
         "yetToPlay": [
           "James Cook III",
@@ -113,8 +113,8 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 0.0,
-        "projectedFinal": 134.7,
-        "winProbability": 0.52,
+        "projectedFinal": 134.6,
+        "winProbability": 0.53,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -132,8 +132,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 131.1,
-        "winProbability": 0.48,
+        "projectedFinal": 127.9,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -157,8 +157,8 @@
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 0.0,
-        "projectedFinal": 136.9,
-        "winProbability": 0.65,
+        "projectedFinal": 134.2,
+        "winProbability": 0.63,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -176,8 +176,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 106.3,
-        "winProbability": 0.35,
+        "projectedFinal": 107.9,
+        "winProbability": 0.37,
         "yetToPlay": [
           "Emeka Egbuka",
           "Carnell Tate",
@@ -187,7 +187,7 @@
           "DK Metcalf",
           "Chuba Hubbard",
           "MarShawn Lloyd",
-          "Caleb Williams"
+          "Bryce Young"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -201,7 +201,7 @@
       "awayOwner": "espnfan7338848211",
       "home": {
         "score": 6.0,
-        "projectedFinal": 122.4,
+        "projectedFinal": 120.6,
         "winProbability": 0.48,
         "yetToPlay": [
           "Trey McBride",
@@ -217,19 +217,19 @@
         "bestStarter": {
           "name": "Seahawks D/ST",
           "actual": 6.0,
-          "projected": 6.0,
-          "delta": -0.0
+          "projected": 6.1,
+          "delta": -0.1
         },
         "worstStarter": {
           "name": "Seahawks D/ST",
           "actual": 6.0,
-          "projected": 6.0,
-          "delta": -0.0
+          "projected": 6.1,
+          "delta": -0.1
         }
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 127.0,
+        "projectedFinal": 125.1,
         "winProbability": 0.52,
         "yetToPlay": [
           "Kenneth Walker III",

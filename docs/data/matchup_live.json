@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:05:51.477253+00:00",
+  "generatedAt": "2026-10-18T08:58:25.446963+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 6,
   "matchups": [
@@ -8,14 +8,14 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 123.6,
-        "winProbability": 0.66,
+        "projectedFinal": 124.6,
+        "winProbability": 0.67,
         "yetToPlay": [
           "Brock Bowers",
           "George Pickens",
-          "Luther Burden III",
           "Christian Watson",
           "Brandon Aubrey",
+          "Denzel Boston",
           "Dameon Pierce",
           "Buccaneers D/ST",
           "Jordan Love",
@@ -28,7 +28,7 @@
       "away": {
         "score": 12.2,
         "projectedFinal": 95.1,
-        "winProbability": 0.34,
+        "winProbability": 0.33,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -60,8 +60,8 @@
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 25.4,
-        "projectedFinal": 134.0,
-        "winProbability": 0.56,
+        "projectedFinal": 132.6,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Chris Olave",
           "Bucky Irving",
@@ -88,8 +88,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 122.7,
-        "winProbability": 0.44,
+        "projectedFinal": 122.8,
+        "winProbability": 0.45,
         "yetToPlay": [
           "James Cook III",
           "Garrett Wilson",
@@ -157,7 +157,7 @@
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 0.0,
-        "projectedFinal": 134.2,
+        "projectedFinal": 134.1,
         "winProbability": 0.63,
         "yetToPlay": [
           "Jonathan Taylor",

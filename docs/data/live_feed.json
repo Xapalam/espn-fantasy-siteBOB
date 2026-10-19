@@ -1,43 +1,97 @@
 {
-  "generatedAt": "2026-10-16T04:58:42.273716+00:00",
+  "generatedAt": "2026-10-19T10:07:01.071563+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 6,
   "events": [
     {
       "type": "benched",
-      "owner": "kconley5",
-      "player": "RJ Harvey",
+      "owner": "ESPNFAN6437471416",
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "actual": 27.34,
+      "projected": 17.66293539,
+      "line": "ESPNFAN6437471416 benched Trevor Lawrence, who scored 27.3 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "82Cole47",
+      "player": "Tre Tucker",
+      "position": "WR",
+      "actual": 26.7,
+      "projected": 10.28584569,
+      "line": "82Cole47 benched Tre Tucker, who scored 26.7 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "Bhayshul Tuten",
       "position": "RB",
-      "actual": 14.6,
-      "projected": 9.48378536,
-      "line": "kconley5 benched RJ Harvey, who scored 14.6 anyway."
+      "actual": 24.7,
+      "projected": 12.64378146,
+      "line": "Eric Brotmann benched Bhayshul Tuten, who scored 24.7 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "espn88256878",
+      "player": "Kyle Pitts Sr.",
+      "position": "TE",
+      "actual": 23.0,
+      "projected": 8.69104064,
+      "line": "espn88256878 benched Kyle Pitts Sr., who scored 23.0 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "actual": 20.5,
+      "projected": 13.50071917,
+      "line": "Eric Brotmann benched DeVonta Smith, who scored 20.5 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "SteelerFan9828",
+      "player": "Colston Loveland",
+      "position": "TE",
+      "actual": 18.5,
+      "projected": 8.61840909,
+      "line": "SteelerFan9828 benched Colston Loveland, who scored 18.5 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "Doakes22",
+      "player": "Luther Burden III",
+      "position": "WR",
+      "actual": 17.5,
+      "projected": 12.46475292,
+      "line": "Doakes22 benched Luther Burden III, who scored 17.5 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "espn88256878",
+      "player": "Keenan Allen",
+      "position": "WR",
+      "actual": 16.2,
+      "projected": 9.4158042,
+      "line": "espn88256878 benched Keenan Allen, who scored 16.2 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "kconley5",
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "actual": 7.3,
+      "projected": 22.98994043,
+      "line": "Bijan Robinson bombed his projection: 7.3 actual vs 23.0 projected, playing for kconley5."
     },
     {
       "type": "benched",
       "owner": "espnfan7338848211",
-      "player": "J.K. Dobbins",
+      "player": "Alvin Kamara",
       "position": "RB",
-      "actual": 13.6,
-      "projected": 10.06463456,
-      "line": "espnfan7338848211 benched J.K. Dobbins, who scored 13.6 anyway."
-    },
-    {
-      "type": "under",
-      "owner": "RGM2215",
-      "player": "Emanuel Wilson",
-      "position": "RB",
-      "actual": 5.2,
-      "projected": 14.84315976,
-      "line": "Emanuel Wilson bombed his projection: 5.2 actual vs 14.8 projected, playing for RGM2215."
-    },
-    {
-      "type": "over",
-      "owner": "ESPNfan83795608",
-      "player": "Jaxon Smith-Njigba",
-      "position": "WR",
-      "actual": 25.4,
-      "projected": 19.04334294,
-      "line": "Jaxon Smith-Njigba crushed his projection: 25.4 actual vs 19.0 projected, playing for ESPNfan83795608."
+      "actual": 14.9,
+      "projected": 10.07634239,
+      "line": "espnfan7338848211 benched Alvin Kamara, who scored 14.9 anyway."
     }
   ]
 }

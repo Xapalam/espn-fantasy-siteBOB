@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:32:54.277473+00:00",
+  "generatedAt": "2026-10-20T13:29:57.458383+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -96,16 +96,15 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 74.6,
-        "winProbability": 0.24,
+        "projectedFinal": 99.6,
+        "winProbability": 0.39,
         "yetToPlay": [
-          "James Cook III",
+          "Chase Brown",
           "Garrett Wilson",
-          "Cam Skattebo",
-          "Parker Washington",
+          "Josh Jacobs",
+          "Dallas Goedert",
           "Brock Purdy",
           "Spencer Shrader",
-          "Juwan Johnson",
           "Chiefs D/ST",
           "Xavier Worthy"
         ],
@@ -116,7 +115,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 118.6,
-        "winProbability": 0.76,
+        "winProbability": 0.61,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",

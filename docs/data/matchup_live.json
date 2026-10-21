@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:28:51.959178+00:00",
+  "generatedAt": "2026-10-21T13:39:51.522246+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -53,7 +53,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 105.8,
-        "winProbability": 0.39,
+        "winProbability": 0.38,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -71,8 +71,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 128.7,
-        "winProbability": 0.61,
+        "projectedFinal": 131.0,
+        "winProbability": 0.62,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -81,8 +81,8 @@
           "Patrick Mahomes",
           "Travis Kelce",
           "Jalen Coker",
-          "Patriots D/ST",
-          "Matt Gay"
+          "Matt Gay",
+          "Browns D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -184,7 +184,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 131.9,
-        "winProbability": 0.54,
+        "winProbability": 0.48,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -202,8 +202,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 123.2,
-        "winProbability": 0.46,
+        "projectedFinal": 137.0,
+        "winProbability": 0.52,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
@@ -211,9 +211,9 @@
           "D'Andre Swift",
           "Zay Flowers",
           "Sam LaPorta",
-          "Rams D/ST",
-          "Cam Little",
-          "Tyler Shough"
+          "Tyler Shough",
+          "Vikings D/ST",
+          "Harrison Butker"
         ],
         "worstMistake": null,
         "bestStarter": null,

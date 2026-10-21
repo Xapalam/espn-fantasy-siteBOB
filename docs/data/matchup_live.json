@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:29:57.458383+00:00",
+  "generatedAt": "2026-10-21T09:28:51.959178+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -8,17 +8,17 @@
       "awayOwner": "Doakes22",
       "home": {
         "score": 0.0,
-        "projectedFinal": 115.5,
-        "winProbability": 0.55,
+        "projectedFinal": 121.5,
+        "winProbability": 0.48,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
           "Bucky Irving",
-          "Davante Adams",
           "Jaylen Warren",
           "Tucker Kraft",
           "Texans D/ST",
-          "Dominic Zvada",
+          "Kalif Raymond",
+          "Will Reichard",
           "Caleb Williams"
         ],
         "worstMistake": null,
@@ -27,18 +27,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 106.7,
-        "winProbability": 0.45,
+        "projectedFinal": 125.8,
+        "winProbability": 0.52,
         "yetToPlay": [
+          "Justin Jefferson",
+          "Saquon Barkley",
           "Brock Bowers",
           "George Pickens",
           "Christian Watson",
           "Brandon Aubrey",
-          "Denzel Boston",
-          "Dameon Pierce",
+          "Ollie Gordon II",
           "Buccaneers D/ST",
-          "Jordan Love",
-          "Tyler Allgeier"
+          "Jordan Love"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -52,8 +52,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 93.6,
-        "winProbability": 0.36,
+        "projectedFinal": 105.8,
+        "winProbability": 0.39,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -71,8 +71,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 118.9,
-        "winProbability": 0.64,
+        "projectedFinal": 128.7,
+        "winProbability": 0.61,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -82,7 +82,7 @@
           "Travis Kelce",
           "Jalen Coker",
           "Patriots D/ST",
-          "Tyler Bass"
+          "Matt Gay"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -114,7 +114,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 118.6,
+        "projectedFinal": 118.7,
         "winProbability": 0.61,
         "yetToPlay": [
           "Jonathan Taylor",
@@ -139,17 +139,17 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 111.8,
-        "winProbability": 0.78,
+        "projectedFinal": 127.5,
+        "winProbability": 0.76,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
           "Nico Collins",
+          "Tee Higgins",
           "Drake Maye",
           "Michael Wilson",
           "Harold Fannin Jr.",
-          "Jakobi Meyers",
-          "Ravens D/ST",
+          "Broncos D/ST",
           "Tyler Loop"
         ],
         "worstMistake": null,
@@ -158,8 +158,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 63.3,
-        "winProbability": 0.22,
+        "projectedFinal": 77.1,
+        "winProbability": 0.24,
         "yetToPlay": [
           "Trey McBride",
           "Josh Allen",
@@ -183,18 +183,18 @@
       "awayOwner": "espnfan7338848211",
       "home": {
         "score": 0.0,
-        "projectedFinal": 107.5,
-        "winProbability": 0.55,
+        "projectedFinal": 131.9,
+        "winProbability": 0.54,
         "yetToPlay": [
+          "Amon-Ra St. Brown",
+          "Breece Hall",
           "Emeka Egbuka",
-          "Carnell Tate",
+          "Joe Burrow",
           "George Kittle",
           "Steelers D/ST",
           "Chris Boswell",
           "DK Metcalf",
-          "Chuba Hubbard",
-          "MarShawn Lloyd",
-          "Bryce Young"
+          "Chuba Hubbard"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -202,18 +202,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 98.5,
-        "winProbability": 0.45,
+        "projectedFinal": 123.2,
+        "winProbability": 0.46,
         "yetToPlay": [
+          "Ja'Marr Chase",
           "Kenneth Walker III",
           "Drake London",
           "D'Andre Swift",
           "Zay Flowers",
-          "Terry McLaurin",
+          "Sam LaPorta",
           "Rams D/ST",
           "Cam Little",
-          "Tyler Shough",
-          "Pat Freiermuth"
+          "Tyler Shough"
         ],
         "worstMistake": null,
         "bestStarter": null,

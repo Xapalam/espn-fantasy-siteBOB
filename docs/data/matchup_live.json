@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:39:51.522246+00:00",
+  "generatedAt": "2026-10-22T09:31:52.713358+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -8,8 +8,8 @@
       "awayOwner": "Doakes22",
       "home": {
         "score": 0.0,
-        "projectedFinal": 121.5,
-        "winProbability": 0.48,
+        "projectedFinal": 126.0,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
@@ -17,9 +17,9 @@
           "Jaylen Warren",
           "Tucker Kraft",
           "Texans D/ST",
-          "Kalif Raymond",
           "Will Reichard",
-          "Caleb Williams"
+          "Caleb Williams",
+          "Blake Corum"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -27,8 +27,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 125.8,
-        "winProbability": 0.52,
+        "projectedFinal": 125.7,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Justin Jefferson",
           "Saquon Barkley",
@@ -52,8 +52,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 105.8,
-        "winProbability": 0.38,
+        "projectedFinal": 95.3,
+        "winProbability": 0.32,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -71,8 +71,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 131.0,
-        "winProbability": 0.62,
+        "projectedFinal": 131.2,
+        "winProbability": 0.68,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -96,8 +96,8 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 99.6,
-        "winProbability": 0.39,
+        "projectedFinal": 102.8,
+        "winProbability": 0.35,
         "yetToPlay": [
           "Chase Brown",
           "Garrett Wilson",
@@ -114,18 +114,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 118.7,
-        "winProbability": 0.61,
+        "projectedFinal": 132.5,
+        "winProbability": 0.65,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
+          "DeVonta Smith",
           "Kyren Williams",
           "Isaiah Likely",
-          "Rhamondre Stevenson",
           "Matthew Golden",
-          "Cameron Dicker",
           "Matthew Stafford",
-          "49ers D/ST"
+          "49ers D/ST",
+          "Chase McLaughlin"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -139,8 +139,8 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 127.5,
-        "winProbability": 0.76,
+        "projectedFinal": 124.1,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -158,18 +158,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 77.1,
-        "winProbability": 0.24,
+        "projectedFinal": 132.6,
+        "winProbability": 0.54,
         "yetToPlay": [
+          "Jahmyr Gibbs",
           "Trey McBride",
-          "Josh Allen",
+          "A.J. Brown",
           "Quinshon Judkins",
           "Rome Odunze",
           "Tony Pollard",
-          "Romeo Doubs",
           "Ka'imi Fairbairn",
-          "Seahawks D/ST",
-          "Braelon Allen"
+          "Aaron Rodgers",
+          "Titans D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -183,8 +183,8 @@
       "awayOwner": "espnfan7338848211",
       "home": {
         "score": 0.0,
-        "projectedFinal": 131.9,
-        "winProbability": 0.48,
+        "projectedFinal": 130.4,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -202,8 +202,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 137.0,
-        "winProbability": 0.52,
+        "projectedFinal": 136.3,
+        "winProbability": 0.53,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:31:52.713358+00:00",
+  "generatedAt": "2026-10-22T13:41:42.891179+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -9,7 +9,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 126.0,
-        "winProbability": 0.5,
+        "winProbability": 0.54,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
@@ -27,16 +27,16 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 125.7,
-        "winProbability": 0.5,
+        "projectedFinal": 117.4,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Justin Jefferson",
-          "Saquon Barkley",
           "Brock Bowers",
           "George Pickens",
           "Christian Watson",
           "Brandon Aubrey",
           "Ollie Gordon II",
+          "Dameon Pierce",
           "Buccaneers D/ST",
           "Jordan Love"
         ],
@@ -53,7 +53,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 95.3,
-        "winProbability": 0.32,
+        "winProbability": 0.3,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -71,18 +71,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 131.2,
-        "winProbability": 0.68,
+        "projectedFinal": 135.0,
+        "winProbability": 0.7,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
           "Javonte Williams",
           "Tetairoa McMillan",
-          "Patrick Mahomes",
           "Travis Kelce",
           "Jalen Coker",
           "Matt Gay",
-          "Browns D/ST"
+          "Browns D/ST",
+          "C.J. Stroud"
         ],
         "worstMistake": null,
         "bestStarter": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:41:42.891179+00:00",
+  "generatedAt": "2026-10-23T09:27:45.237678+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -7,9 +7,9 @@
       "homeOwner": "ESPNfan83795608",
       "awayOwner": "Doakes22",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 126.0,
-        "winProbability": 0.54,
+        "score": 22.1,
+        "projectedFinal": 130.6,
+        "winProbability": 0.52,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
@@ -18,41 +18,50 @@
           "Tucker Kraft",
           "Texans D/ST",
           "Will Reichard",
-          "Caleb Williams",
           "Blake Corum"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Caleb Williams",
+          "actual": 22.1,
+          "projected": 17.6,
+          "delta": 4.5
+        },
+        "worstStarter": {
+          "name": "Caleb Williams",
+          "actual": 22.1,
+          "projected": 17.6,
+          "delta": 4.5
+        }
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 117.4,
-        "winProbability": 0.46,
+        "projectedFinal": 126.2,
+        "winProbability": 0.48,
         "yetToPlay": [
           "Justin Jefferson",
+          "Saquon Barkley",
           "Brock Bowers",
           "George Pickens",
+          "Lamar Jackson",
           "Christian Watson",
           "Brandon Aubrey",
           "Ollie Gordon II",
-          "Dameon Pierce",
-          "Buccaneers D/ST",
-          "Jordan Love"
+          "Buccaneers D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "ESPNfan83795608 leads Doakes22 by 0.0."
+      "analysis": "ESPNfan83795608 leads Doakes22 by 22.1."
     },
     {
       "homeOwner": "RGM2215",
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 95.3,
+        "projectedFinal": 95.2,
         "winProbability": 0.3,
         "yetToPlay": [
           "Christian McCaffrey",
@@ -96,8 +105,8 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 102.8,
-        "winProbability": 0.35,
+        "projectedFinal": 102.7,
+        "winProbability": 0.34,
         "yetToPlay": [
           "Chase Brown",
           "Garrett Wilson",
@@ -114,8 +123,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 132.5,
-        "winProbability": 0.65,
+        "projectedFinal": 132.7,
+        "winProbability": 0.66,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -138,53 +147,70 @@
       "homeOwner": "kconley5",
       "awayOwner": "82Cole47",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 124.1,
-        "winProbability": 0.46,
+        "score": 27.4,
+        "projectedFinal": 133.8,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
           "Nico Collins",
           "Tee Higgins",
-          "Drake Maye",
           "Michael Wilson",
           "Harold Fannin Jr.",
           "Broncos D/ST",
           "Tyler Loop"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Drake Maye",
+          "actual": 27.4,
+          "projected": 20.6,
+          "delta": 6.9
+        },
+        "worstStarter": {
+          "name": "Drake Maye",
+          "actual": 27.4,
+          "projected": 20.6,
+          "delta": 6.9
+        }
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 132.6,
-        "winProbability": 0.54,
+        "score": 18.7,
+        "projectedFinal": 125.2,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
-          "A.J. Brown",
           "Quinshon Judkins",
-          "Rome Odunze",
           "Tony Pollard",
           "Ka'imi Fairbairn",
           "Aaron Rodgers",
           "Titans D/ST"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Rome Odunze",
+          "actual": 10.9,
+          "projected": 10.2,
+          "delta": 0.7
+        },
+        "worstStarter": {
+          "name": "A.J. Brown",
+          "actual": 7.8,
+          "projected": 15.9,
+          "delta": -8.1
+        }
       },
       "familyName": null,
-      "analysis": "kconley5 leads 82Cole47 by 0.0."
+      "analysis": "kconley5 leads 82Cole47 by 8.7."
     },
     {
       "homeOwner": "SteelerFan9828",
       "awayOwner": "espnfan7338848211",
       "home": {
         "score": 0.0,
-        "projectedFinal": 130.4,
-        "winProbability": 0.47,
+        "projectedFinal": 130.5,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -201,14 +227,13 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 136.3,
-        "winProbability": 0.53,
+        "score": 19.0,
+        "projectedFinal": 140.0,
+        "winProbability": 0.54,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
           "Drake London",
-          "D'Andre Swift",
           "Zay Flowers",
           "Sam LaPorta",
           "Tyler Shough",
@@ -216,11 +241,21 @@
           "Harrison Butker"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "D'Andre Swift",
+          "actual": 19.0,
+          "projected": 16.3,
+          "delta": 2.7
+        },
+        "worstStarter": {
+          "name": "D'Andre Swift",
+          "actual": 19.0,
+          "projected": 16.3,
+          "delta": 2.7
+        }
       },
       "familyName": null,
-      "analysis": "SteelerFan9828 leads espnfan7338848211 by 0.0."
+      "analysis": "espnfan7338848211 leads SteelerFan9828 by 19.0."
     }
   ],
   "recentLines": [

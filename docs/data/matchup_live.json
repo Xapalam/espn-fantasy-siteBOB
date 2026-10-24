@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:17:49.537664+00:00",
+  "generatedAt": "2026-10-24T08:59:26.146426+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -8,7 +8,7 @@
       "awayOwner": "Doakes22",
       "home": {
         "score": 22.1,
-        "projectedFinal": 130.6,
+        "projectedFinal": 131.1,
         "winProbability": 0.52,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
@@ -36,7 +36,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 126.2,
+        "projectedFinal": 126.6,
         "winProbability": 0.48,
         "yetToPlay": [
           "Justin Jefferson",
@@ -61,8 +61,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 95.2,
-        "winProbability": 0.3,
+        "projectedFinal": 98.0,
+        "winProbability": 0.43,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -80,8 +80,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 135.0,
-        "winProbability": 0.7,
+        "projectedFinal": 110.3,
+        "winProbability": 0.57,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -105,8 +105,8 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 102.7,
-        "winProbability": 0.34,
+        "projectedFinal": 114.1,
+        "winProbability": 0.49,
         "yetToPlay": [
           "Chase Brown",
           "Garrett Wilson",
@@ -115,7 +115,8 @@
           "Brock Purdy",
           "Spencer Shrader",
           "Chiefs D/ST",
-          "Xavier Worthy"
+          "Xavier Worthy",
+          "Chris Godwin Jr."
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -123,8 +124,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 132.7,
-        "winProbability": 0.66,
+        "projectedFinal": 116.6,
+        "winProbability": 0.51,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -148,8 +149,8 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 27.4,
-        "projectedFinal": 133.8,
-        "winProbability": 0.55,
+        "projectedFinal": 135.7,
+        "winProbability": 0.56,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -177,7 +178,7 @@
       "away": {
         "score": 18.7,
         "projectedFinal": 125.2,
-        "winProbability": 0.45,
+        "winProbability": 0.44,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -209,8 +210,8 @@
       "awayOwner": "espnfan7338848211",
       "home": {
         "score": 0.0,
-        "projectedFinal": 130.5,
-        "winProbability": 0.46,
+        "projectedFinal": 116.8,
+        "winProbability": 0.39,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -228,8 +229,8 @@
       },
       "away": {
         "score": 19.0,
-        "projectedFinal": 140.0,
-        "winProbability": 0.54,
+        "projectedFinal": 140.1,
+        "winProbability": 0.61,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",

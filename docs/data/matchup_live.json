@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:16:23.564204+00:00",
+  "generatedAt": "2026-10-25T13:07:53.062532+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 7,
   "matchups": [
@@ -36,7 +36,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 127.8,
+        "projectedFinal": 127.7,
         "winProbability": 0.48,
         "yetToPlay": [
           "Justin Jefferson",
@@ -61,8 +61,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 114.4,
-        "winProbability": 0.52,
+        "projectedFinal": 114.5,
+        "winProbability": 0.41,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -80,8 +80,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 110.6,
-        "winProbability": 0.48,
+        "projectedFinal": 133.1,
+        "winProbability": 0.59,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -106,7 +106,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 114.2,
-        "winProbability": 0.44,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Chase Brown",
           "Garrett Wilson",
@@ -124,8 +124,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 125.5,
-        "winProbability": 0.56,
+        "projectedFinal": 124.8,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -210,8 +210,8 @@
       "awayOwner": "espnfan7338848211",
       "home": {
         "score": 0.0,
-        "projectedFinal": 116.7,
-        "winProbability": 0.39,
+        "projectedFinal": 102.6,
+        "winProbability": 0.32,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -229,8 +229,8 @@
       },
       "away": {
         "score": 19.0,
-        "projectedFinal": 138.7,
-        "winProbability": 0.61,
+        "projectedFinal": 138.6,
+        "winProbability": 0.68,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",

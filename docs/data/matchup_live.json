@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T09:56:02.787130+00:00",
+  "generatedAt": "2026-10-27T14:18:44.872031+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 8,
   "matchups": [
@@ -8,8 +8,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 89.4,
-        "winProbability": 0.36,
+        "projectedFinal": 124.9,
+        "winProbability": 0.48,
         "yetToPlay": [
           "Justin Jefferson",
           "Saquon Barkley",
@@ -18,7 +18,7 @@
           "Luther Burden III",
           "Christian Watson",
           "Brandon Aubrey",
-          "Jeremiyah Love",
+          "Ollie Gordon II",
           "Panthers D/ST"
         ],
         "worstMistake": null,
@@ -27,18 +27,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 114.4,
-        "winProbability": 0.64,
+        "projectedFinal": 128.1,
+        "winProbability": 0.52,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
           "Javonte Williams",
           "Tetairoa McMillan",
-          "Travis Kelce",
-          "Jalen Coker",
+          "Kyle Pitts Sr.",
+          "Stefon Diggs",
+          "Patrick Mahomes",
           "Matt Gay",
-          "Browns D/ST",
-          "C.J. Stroud"
+          "Browns D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -52,15 +52,15 @@
       "awayOwner": "ESPNfan83795608",
       "home": {
         "score": 0.0,
-        "projectedFinal": 103.5,
-        "winProbability": 0.52,
+        "projectedFinal": 118.9,
+        "winProbability": 0.6,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
           "Kyren Williams",
-          "Isaiah Likely",
-          "Courtland Sutton",
+          "Bhayshul Tuten",
           "Matthew Golden",
+          "Dalton Kincaid",
           "Matthew Stafford",
           "49ers D/ST",
           "Chase McLaughlin"
@@ -71,8 +71,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 100.1,
-        "winProbability": 0.48,
+        "projectedFinal": 100.8,
+        "winProbability": 0.4,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
@@ -96,18 +96,18 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 110.6,
-        "winProbability": 0.77,
+        "projectedFinal": 123.7,
+        "winProbability": 0.81,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
           "A.J. Brown",
+          "Josh Allen",
           "Quinshon Judkins",
-          "Rome Odunze",
           "Tony Pollard",
           "Ka'imi Fairbairn",
-          "Aaron Rodgers",
-          "Titans D/ST"
+          "Seahawks D/ST",
+          "Tre Tucker"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -115,8 +115,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 65.2,
-        "winProbability": 0.23,
+        "projectedFinal": 65.4,
+        "winProbability": 0.19,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -140,8 +140,8 @@
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 0.0,
-        "projectedFinal": 116.8,
-        "winProbability": 0.65,
+        "projectedFinal": 117.0,
+        "winProbability": 0.66,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
@@ -159,8 +159,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 89.2,
-        "winProbability": 0.35,
+        "projectedFinal": 88.4,
+        "winProbability": 0.34,
         "yetToPlay": [
           "Chase Brown",
           "Garrett Wilson",
@@ -184,8 +184,8 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 0.0,
-        "projectedFinal": 109.5,
-        "winProbability": 0.48,
+        "projectedFinal": 124.9,
+        "winProbability": 0.56,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -203,8 +203,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 112.3,
-        "winProbability": 0.52,
+        "projectedFinal": 112.4,
+        "winProbability": 0.44,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",

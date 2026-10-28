@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:18:44.872031+00:00",
+  "generatedAt": "2026-10-28T10:42:42.994132+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 8,
   "matchups": [
@@ -27,7 +27,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 128.1,
+        "projectedFinal": 128.4,
         "winProbability": 0.52,
         "yetToPlay": [
           "Puka Nacua",
@@ -37,8 +37,8 @@
           "Kyle Pitts Sr.",
           "Stefon Diggs",
           "Patrick Mahomes",
-          "Matt Gay",
-          "Browns D/ST"
+          "Browns D/ST",
+          "Tyler Bass"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -52,8 +52,8 @@
       "awayOwner": "ESPNfan83795608",
       "home": {
         "score": 0.0,
-        "projectedFinal": 118.9,
-        "winProbability": 0.6,
+        "projectedFinal": 124.8,
+        "winProbability": 0.53,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -62,8 +62,8 @@
           "Matthew Golden",
           "Dalton Kincaid",
           "Matthew Stafford",
-          "49ers D/ST",
-          "Chase McLaughlin"
+          "Chase McLaughlin",
+          "Bengals D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -71,18 +71,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 100.8,
-        "winProbability": 0.4,
+        "projectedFinal": 119.0,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
           "Bucky Irving",
+          "Jayden Daniels",
           "Jaylen Warren",
           "Tucker Kraft",
-          "Texans D/ST",
           "Will Reichard",
-          "Caleb Williams",
-          "Tyler Allgeier"
+          "Blake Corum",
+          "Jaguars D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -141,7 +141,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 117.0,
-        "winProbability": 0.66,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
@@ -159,18 +159,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 88.4,
-        "winProbability": 0.34,
+        "projectedFinal": 127.1,
+        "winProbability": 0.55,
         "yetToPlay": [
+          "James Cook III",
           "Chase Brown",
           "Garrett Wilson",
+          "Parker Washington",
           "Josh Jacobs",
           "Dallas Goedert",
-          "Brock Purdy",
+          "Trevor Lawrence",
           "Spencer Shrader",
-          "Chiefs D/ST",
-          "Xavier Worthy",
-          "Chris Godwin Jr."
+          "Chiefs D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,

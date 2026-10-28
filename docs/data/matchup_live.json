@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:42:42.994132+00:00",
+  "generatedAt": "2026-10-28T15:00:37.090317+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 8,
   "matchups": [
@@ -9,7 +9,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 124.9,
-        "winProbability": 0.48,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Justin Jefferson",
           "Saquon Barkley",
@@ -27,16 +27,16 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 128.4,
-        "winProbability": 0.52,
+        "projectedFinal": 130.4,
+        "winProbability": 0.53,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
           "Javonte Williams",
           "Tetairoa McMillan",
           "Kyle Pitts Sr.",
-          "Stefon Diggs",
           "Patrick Mahomes",
+          "Jalen Coker",
           "Browns D/ST",
           "Tyler Bass"
         ],

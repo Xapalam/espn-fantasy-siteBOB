@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-10-27T09:56:01.038269+00:00",
+  "generatedAt": "2026-10-30T10:57:36.828051+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 8,
-  "events": []
+  "events": [
+    {
+      "type": "over",
+      "owner": "SteelerFan9828",
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "actual": 24.9,
+      "projected": 15.32051679,
+      "line": "Chuba Hubbard crushed his projection: 24.9 actual vs 15.3 projected, playing for SteelerFan9828."
+    },
+    {
+      "type": "over",
+      "owner": "ESPNFAN6437471416",
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "actual": 23.2,
+      "projected": 15.09721823,
+      "line": "Josh Jacobs crushed his projection: 23.2 actual vs 15.1 projected, playing for ESPNFAN6437471416."
+    },
+    {
+      "type": "over",
+      "owner": "ESPNfan83795608",
+      "player": "Tucker Kraft",
+      "position": "TE",
+      "actual": 17.3,
+      "projected": 10.77915186,
+      "line": "Tucker Kraft crushed his projection: 17.3 actual vs 10.8 projected, playing for ESPNfan83795608."
+    },
+    {
+      "type": "over",
+      "owner": "Eric Brotmann",
+      "player": "Matthew Golden",
+      "position": "WR",
+      "actual": 20.9,
+      "projected": 15.07093809,
+      "line": "Matthew Golden crushed his projection: 20.9 actual vs 15.1 projected, playing for Eric Brotmann."
+    }
+  ]
 }

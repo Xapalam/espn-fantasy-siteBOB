@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:58:47.540080+00:00",
+  "generatedAt": "2026-10-31T10:29:57.862159+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 8,
   "matchups": [
@@ -8,23 +8,23 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 22.3,
-        "projectedFinal": 127.8,
+        "projectedFinal": 127.4,
         "winProbability": 0.5,
         "yetToPlay": [
           "Justin Jefferson",
+          "Saquon Barkley",
           "Brock Bowers",
           "Lamar Jackson",
           "Luther Burden III",
           "Brandon Aubrey",
-          "Ollie Gordon II",
           "Jeremiyah Love"
         ],
         "worstMistake": null,
         "bestStarter": {
           "name": "Christian Watson",
           "actual": 17.3,
-          "projected": 14.5,
-          "delta": 2.8
+          "projected": 14.6,
+          "delta": 2.7
         },
         "worstStarter": {
           "name": "Panthers D/ST",
@@ -35,7 +35,7 @@
       },
       "away": {
         "score": 42.9,
-        "projectedFinal": 127.9,
+        "projectedFinal": 128.2,
         "winProbability": 0.5,
         "yetToPlay": [
           "Puka Nacua",
@@ -67,7 +67,7 @@
       "awayOwner": "ESPNfan83795608",
       "home": {
         "score": 20.9,
-        "projectedFinal": 130.7,
+        "projectedFinal": 130.8,
         "winProbability": 0.47,
         "yetToPlay": [
           "Jonathan Taylor",
@@ -95,7 +95,7 @@
       },
       "away": {
         "score": 17.3,
-        "projectedFinal": 135.8,
+        "projectedFinal": 135.7,
         "winProbability": 0.53,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
@@ -129,14 +129,14 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 133.3,
-        "winProbability": 0.83,
+        "projectedFinal": 127.8,
+        "winProbability": 0.82,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
-          "A.J. Brown",
           "Josh Allen",
           "Quinshon Judkins",
+          "Rome Odunze",
           "Tony Pollard",
           "Seahawks D/ST",
           "Tre Tucker",
@@ -148,8 +148,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 65.0,
-        "winProbability": 0.17,
+        "projectedFinal": 64.6,
+        "winProbability": 0.18,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -173,7 +173,7 @@
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 0.0,
-        "projectedFinal": 137.8,
+        "projectedFinal": 139.4,
         "winProbability": 0.51,
         "yetToPlay": [
           "Ja'Marr Chase",
@@ -192,7 +192,7 @@
       },
       "away": {
         "score": 23.2,
-        "projectedFinal": 135.5,
+        "projectedFinal": 136.5,
         "winProbability": 0.49,
         "yetToPlay": [
           "James Cook III",
@@ -226,14 +226,14 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 24.9,
-        "projectedFinal": 136.3,
-        "winProbability": 0.56,
+        "projectedFinal": 131.8,
+        "winProbability": 0.54,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
           "Colston Loveland",
-          "Emeka Egbuka",
           "Joe Burrow",
+          "Rico Dowdle",
           "Steelers D/ST",
           "Chris Boswell",
           "DK Metcalf"
@@ -254,8 +254,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 125.0,
-        "winProbability": 0.44,
+        "projectedFinal": 124.4,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",

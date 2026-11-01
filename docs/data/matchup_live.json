@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:24:50.551481+00:00",
+  "generatedAt": "2026-11-01T14:55:45.082499+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 8,
   "matchups": [
@@ -130,7 +130,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 127.8,
-        "winProbability": 0.83,
+        "winProbability": 0.68,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -148,18 +148,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 63.1,
-        "winProbability": 0.17,
+        "projectedFinal": 92.7,
+        "winProbability": 0.32,
         "yetToPlay": [
-          "Christian McCaffrey",
-          "Malik Nabers",
+          "Tyler Warren",
           "Jameson Williams",
           "Dak Prescott",
-          "Woody Marks",
+          "Makai Lemon",
           "Jason Myers",
           "Emanuel Wilson",
           "Jets D/ST",
-          "T.J. Hockenson"
+          "T.J. Hockenson",
+          "Kimani Vidal"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -192,7 +192,7 @@
       },
       "away": {
         "score": 23.2,
-        "projectedFinal": 135.8,
+        "projectedFinal": 135.9,
         "winProbability": 0.48,
         "yetToPlay": [
           "James Cook III",
@@ -226,8 +226,8 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 24.9,
-        "projectedFinal": 131.8,
-        "winProbability": 0.54,
+        "projectedFinal": 117.3,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -255,7 +255,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 124.3,
-        "winProbability": 0.46,
+        "winProbability": 0.54,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",

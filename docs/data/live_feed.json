@@ -1,43 +1,97 @@
 {
-  "generatedAt": "2026-10-30T10:57:36.828051+00:00",
+  "generatedAt": "2026-11-02T12:43:22.425676+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 8,
   "events": [
     {
+      "type": "benched",
+      "owner": "ESPNfan83795608",
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "actual": 36.1,
+      "projected": 7.98951237,
+      "line": "ESPNfan83795608 benched Tyler Allgeier, who scored 36.1 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "espn88256878",
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "actual": 25.44,
+      "projected": 14.22782698,
+      "line": "espn88256878 benched Patrick Mahomes, who scored 25.4 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "82Cole47",
+      "player": "Braelon Allen",
+      "position": "RB",
+      "actual": 23.3,
+      "projected": 17.39351968,
+      "line": "82Cole47 benched Braelon Allen, who scored 23.3 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "Doakes22",
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "actual": 0.0,
+      "projected": 22.16872419,
+      "line": "Lamar Jackson bombed his projection: 0.0 actual vs 22.2 projected, playing for Doakes22."
+    },
+    {
+      "type": "over",
+      "owner": "kconley5",
+      "player": "Tee Higgins",
+      "position": "WR",
+      "actual": 37.5,
+      "projected": 15.4928968,
+      "line": "Tee Higgins crushed his projection: 37.5 actual vs 15.5 projected, playing for kconley5."
+    },
+    {
+      "type": "benched",
+      "owner": "Doakes22",
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "actual": 20.4,
+      "projected": 9.34083731,
+      "line": "Doakes22 benched Jonah Coleman, who scored 20.4 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "espnfan7338848211",
+      "player": "Zay Flowers",
+      "position": "WR",
+      "actual": 0.0,
+      "projected": 20.14370802,
+      "line": "Zay Flowers bombed his projection: 0.0 actual vs 20.1 projected, playing for espnfan7338848211."
+    },
+    {
+      "type": "benched",
+      "owner": "ESPNFAN6437471416",
+      "player": "Rashee Rice",
+      "position": "WR",
+      "actual": 18.3,
+      "projected": 12.64806861,
+      "line": "ESPNFAN6437471416 benched Rashee Rice, who scored 18.3 anyway."
+    },
+    {
       "type": "over",
       "owner": "SteelerFan9828",
-      "player": "Chuba Hubbard",
-      "position": "RB",
-      "actual": 24.9,
-      "projected": 15.32051679,
-      "line": "Chuba Hubbard crushed his projection: 24.9 actual vs 15.3 projected, playing for SteelerFan9828."
+      "player": "Joe Burrow",
+      "position": "QB",
+      "actual": 39.48,
+      "projected": 22.87730856,
+      "line": "Joe Burrow crushed his projection: 39.5 actual vs 22.9 projected, playing for SteelerFan9828."
     },
     {
-      "type": "over",
+      "type": "benched",
       "owner": "ESPNFAN6437471416",
-      "player": "Josh Jacobs",
-      "position": "RB",
-      "actual": 23.2,
-      "projected": 15.09721823,
-      "line": "Josh Jacobs crushed his projection: 23.2 actual vs 15.1 projected, playing for ESPNFAN6437471416."
-    },
-    {
-      "type": "over",
-      "owner": "ESPNfan83795608",
-      "player": "Tucker Kraft",
-      "position": "TE",
-      "actual": 17.3,
-      "projected": 10.77915186,
-      "line": "Tucker Kraft crushed his projection: 17.3 actual vs 10.8 projected, playing for ESPNfan83795608."
-    },
-    {
-      "type": "over",
-      "owner": "Eric Brotmann",
-      "player": "Matthew Golden",
+      "player": "DJ Moore",
       "position": "WR",
-      "actual": 20.9,
-      "projected": 15.07093809,
-      "line": "Matthew Golden crushed his projection: 20.9 actual vs 15.1 projected, playing for Eric Brotmann."
+      "actual": 16.6,
+      "projected": 13.61414827,
+      "line": "ESPNFAN6437471416 benched DJ Moore, who scored 16.6 anyway."
     }
   ]
 }

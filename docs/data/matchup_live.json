@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:09:34.493252+00:00",
+  "generatedAt": "2026-11-03T16:02:49.178824+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 9,
   "matchups": [
@@ -52,18 +52,18 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 125.9,
-        "winProbability": 0.58,
+        "projectedFinal": 127.3,
+        "winProbability": 0.52,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
           "Javonte Williams",
           "Tetairoa McMillan",
+          "Stefon Diggs",
+          "Patrick Mahomes",
           "Travis Kelce",
-          "Jalen Coker",
           "Browns D/ST",
-          "Tyler Bass",
-          "Jordan Love"
+          "Tyler Bass"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -71,18 +71,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 110.7,
-        "winProbability": 0.42,
+        "projectedFinal": 124.0,
+        "winProbability": 0.48,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
+          "A.J. Brown",
           "Josh Allen",
           "Quinshon Judkins",
           "Rome Odunze",
-          "Tony Pollard",
+          "Ka'imi Fairbairn",
           "Seahawks D/ST",
-          "Tre Tucker",
-          "Chad Ryland"
+          "Braelon Allen"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -185,7 +185,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 124.0,
-        "winProbability": 0.54,
+        "winProbability": 0.53,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
@@ -203,8 +203,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 116.2,
-        "winProbability": 0.46,
+        "projectedFinal": 117.7,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -212,9 +212,9 @@
           "Drake Maye",
           "Michael Wilson",
           "Harold Fannin Jr.",
+          "Broncos D/ST",
           "Tyler Loop",
-          "DeMario Douglas",
-          "Patriots D/ST"
+          "DeMario Douglas"
         ],
         "worstMistake": null,
         "bestStarter": null,

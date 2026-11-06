@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-03T12:09:32.505734+00:00",
+  "generatedAt": "2026-11-06T12:19:09.485333+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 9,
-  "events": []
+  "events": [
+    {
+      "type": "benched",
+      "owner": "ESPNFAN6437471416",
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "actual": 13.58,
+      "projected": 20.33936614,
+      "line": "ESPNFAN6437471416 benched Trevor Lawrence, who scored 13.6 anyway."
+    },
+    {
+      "type": "over",
+      "owner": "espnfan7338848211",
+      "player": "Cam Little",
+      "position": "K",
+      "actual": 17.0,
+      "projected": 8.22171116,
+      "line": "Cam Little crushed his projection: 17.0 actual vs 8.2 projected, playing for espnfan7338848211."
+    },
+    {
+      "type": "under",
+      "owner": "kconley5",
+      "player": "Derrick Henry",
+      "position": "RB",
+      "actual": 5.58,
+      "projected": 14.05224472,
+      "line": "Derrick Henry bombed his projection: 5.6 actual vs 14.1 projected, playing for kconley5."
+    },
+    {
+      "type": "under",
+      "owner": "espnfan7338848211",
+      "player": "Zay Flowers",
+      "position": "WR",
+      "actual": 5.3,
+      "projected": 13.28165148,
+      "line": "Zay Flowers bombed his projection: 5.3 actual vs 13.3 projected, playing for espnfan7338848211."
+    },
+    {
+      "type": "under",
+      "owner": "Eric Brotmann",
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "actual": 8.9,
+      "projected": 15.29710986,
+      "line": "Bhayshul Tuten bombed his projection: 8.9 actual vs 15.3 projected, playing for Eric Brotmann."
+    }
+  ]
 }

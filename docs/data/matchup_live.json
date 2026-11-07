@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T15:50:45.295194+00:00",
+  "generatedAt": "2026-11-07T11:13:30.039749+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 9,
   "matchups": [
@@ -8,7 +8,7 @@
       "awayOwner": "Doakes22",
       "home": {
         "score": 8.9,
-        "projectedFinal": 125.9,
+        "projectedFinal": 126.0,
         "winProbability": 0.47,
         "yetToPlay": [
           "Jonathan Taylor",
@@ -36,7 +36,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 132.1,
+        "projectedFinal": 132.2,
         "winProbability": 0.53,
         "yetToPlay": [
           "Justin Jefferson",
@@ -61,7 +61,7 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 127.7,
+        "projectedFinal": 128.2,
         "winProbability": 0.53,
         "yetToPlay": [
           "Puka Nacua",
@@ -106,7 +106,7 @@
       "home": {
         "score": 12.0,
         "projectedFinal": 124.3,
-        "winProbability": 0.44,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
@@ -133,8 +133,8 @@
       },
       "away": {
         "score": 22.3,
-        "projectedFinal": 134.7,
-        "winProbability": 0.56,
+        "projectedFinal": 133.0,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
@@ -166,7 +166,7 @@
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 0.0,
-        "projectedFinal": 127.1,
+        "projectedFinal": 127.0,
         "winProbability": 0.49,
         "yetToPlay": [
           "Christian McCaffrey",
@@ -210,8 +210,8 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 14.1,
-        "projectedFinal": 127.5,
-        "winProbability": 0.57,
+        "projectedFinal": 127.4,
+        "winProbability": 0.56,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
@@ -238,8 +238,8 @@
       },
       "away": {
         "score": 5.6,
-        "projectedFinal": 114.6,
-        "winProbability": 0.43,
+        "projectedFinal": 115.7,
+        "winProbability": 0.44,
         "yetToPlay": [
           "Bijan Robinson",
           "Nico Collins",

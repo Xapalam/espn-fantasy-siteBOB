@@ -1,16 +1,70 @@
 {
-  "generatedAt": "2026-11-06T12:19:09.485333+00:00",
+  "generatedAt": "2026-11-08T14:57:43.639830+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 9,
   "events": [
+    {
+      "type": "under",
+      "owner": "kconley5",
+      "player": "Tee Higgins",
+      "position": "WR",
+      "actual": 0.0,
+      "projected": 16.85401066,
+      "line": "Tee Higgins bombed his projection: 0.0 actual vs 16.9 projected, playing for kconley5."
+    },
+    {
+      "type": "under",
+      "owner": "ESPNFAN6437471416",
+      "player": "Chase Brown",
+      "position": "RB",
+      "actual": 0.0,
+      "projected": 16.55701962,
+      "line": "Chase Brown bombed his projection: 0.0 actual vs 16.6 projected, playing for ESPNFAN6437471416."
+    },
+    {
+      "type": "under",
+      "owner": "SteelerFan9828",
+      "player": "Joe Burrow",
+      "position": "QB",
+      "actual": 6.36,
+      "projected": 21.36425114,
+      "line": "Joe Burrow bombed his projection: 6.4 actual vs 21.4 projected, playing for SteelerFan9828."
+    },
+    {
+      "type": "under",
+      "owner": "espnfan7338848211",
+      "player": "Drake London",
+      "position": "WR",
+      "actual": 2.5,
+      "projected": 16.44423386,
+      "line": "Drake London bombed his projection: 2.5 actual vs 16.4 projected, playing for espnfan7338848211."
+    },
+    {
+      "type": "under",
+      "owner": "kconley5",
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "actual": 5.9,
+      "projected": 19.72533693,
+      "line": "Bijan Robinson bombed his projection: 5.9 actual vs 19.7 projected, playing for kconley5."
+    },
     {
       "type": "benched",
       "owner": "ESPNFAN6437471416",
       "player": "Trevor Lawrence",
       "position": "QB",
       "actual": 13.58,
-      "projected": 20.33936614,
+      "projected": 20.32042423,
       "line": "ESPNFAN6437471416 benched Trevor Lawrence, who scored 13.6 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "espnfan7338848211",
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "actual": 11.7,
+      "projected": 22.87617665,
+      "line": "Ja'Marr Chase bombed his projection: 11.7 actual vs 22.9 projected, playing for espnfan7338848211."
     },
     {
       "type": "over",
@@ -38,15 +92,6 @@
       "actual": 5.3,
       "projected": 13.28165148,
       "line": "Zay Flowers bombed his projection: 5.3 actual vs 13.3 projected, playing for espnfan7338848211."
-    },
-    {
-      "type": "under",
-      "owner": "Eric Brotmann",
-      "player": "Bhayshul Tuten",
-      "position": "RB",
-      "actual": 8.9,
-      "projected": 15.29710986,
-      "line": "Bhayshul Tuten bombed his projection: 8.9 actual vs 15.3 projected, playing for Eric Brotmann."
     }
   ]
 }

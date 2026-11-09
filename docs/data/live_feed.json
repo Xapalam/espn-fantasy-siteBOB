@@ -1,97 +1,97 @@
 {
-  "generatedAt": "2026-11-08T14:57:43.639830+00:00",
+  "generatedAt": "2026-11-09T13:10:12.407363+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 9,
   "events": [
     {
-      "type": "under",
-      "owner": "kconley5",
-      "player": "Tee Higgins",
-      "position": "WR",
-      "actual": 0.0,
-      "projected": 16.85401066,
-      "line": "Tee Higgins bombed his projection: 0.0 actual vs 16.9 projected, playing for kconley5."
-    },
-    {
-      "type": "under",
-      "owner": "ESPNFAN6437471416",
-      "player": "Chase Brown",
-      "position": "RB",
-      "actual": 0.0,
-      "projected": 16.55701962,
-      "line": "Chase Brown bombed his projection: 0.0 actual vs 16.6 projected, playing for ESPNFAN6437471416."
-    },
-    {
-      "type": "under",
-      "owner": "SteelerFan9828",
-      "player": "Joe Burrow",
+      "type": "benched",
+      "owner": "espn88256878",
+      "player": "Jordan Love",
       "position": "QB",
-      "actual": 6.36,
-      "projected": 21.36425114,
-      "line": "Joe Burrow bombed his projection: 6.4 actual vs 21.4 projected, playing for SteelerFan9828."
-    },
-    {
-      "type": "under",
-      "owner": "espnfan7338848211",
-      "player": "Drake London",
-      "position": "WR",
-      "actual": 2.5,
-      "projected": 16.44423386,
-      "line": "Drake London bombed his projection: 2.5 actual vs 16.4 projected, playing for espnfan7338848211."
-    },
-    {
-      "type": "under",
-      "owner": "kconley5",
-      "player": "Bijan Robinson",
-      "position": "RB",
-      "actual": 5.9,
-      "projected": 19.72533693,
-      "line": "Bijan Robinson bombed his projection: 5.9 actual vs 19.7 projected, playing for kconley5."
+      "actual": 36.18,
+      "projected": 17.03053422,
+      "line": "espn88256878 benched Jordan Love, who scored 36.2 anyway."
     },
     {
       "type": "benched",
-      "owner": "ESPNFAN6437471416",
-      "player": "Trevor Lawrence",
+      "owner": "Eric Brotmann",
+      "player": "Tank Dell",
+      "position": "WR",
+      "actual": 20.5,
+      "projected": 4.99593479,
+      "line": "Eric Brotmann benched Tank Dell, who scored 20.5 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "SteelerFan9828",
+      "player": "Bryce Young",
       "position": "QB",
-      "actual": 13.58,
-      "projected": 20.32042423,
-      "line": "ESPNFAN6437471416 benched Trevor Lawrence, who scored 13.6 anyway."
+      "actual": 20.34,
+      "projected": 15.77917093,
+      "line": "SteelerFan9828 benched Bryce Young, who scored 20.3 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "KC Concepcion",
+      "position": "WR",
+      "actual": 18.8,
+      "projected": 11.14887614,
+      "line": "Eric Brotmann benched KC Concepcion, who scored 18.8 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "ESPNFAN6437471416",
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "actual": 0.5,
+      "projected": 16.61403172,
+      "line": "Josh Jacobs bombed his projection: 0.5 actual vs 16.6 projected, playing for ESPNFAN6437471416."
+    },
+    {
+      "type": "benched",
+      "owner": "Doakes22",
+      "player": "Denzel Boston",
+      "position": "WR",
+      "actual": 15.8,
+      "projected": 12.50393639,
+      "line": "Doakes22 benched Denzel Boston, who scored 15.8 anyway."
     },
     {
       "type": "under",
       "owner": "espnfan7338848211",
-      "player": "Ja'Marr Chase",
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual": 3.1,
+      "projected": 18.61382362,
+      "line": "D'Andre Swift bombed his projection: 3.1 actual vs 18.6 projected, playing for espnfan7338848211."
+    },
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "Courtland Sutton",
       "position": "WR",
-      "actual": 11.7,
-      "projected": 22.87617665,
-      "line": "Ja'Marr Chase bombed his projection: 11.7 actual vs 22.9 projected, playing for espnfan7338848211."
+      "actual": 15.5,
+      "projected": 9.07350894,
+      "line": "Eric Brotmann benched Courtland Sutton, who scored 15.5 anyway."
     },
     {
       "type": "over",
-      "owner": "espnfan7338848211",
-      "player": "Cam Little",
-      "position": "K",
-      "actual": 17.0,
-      "projected": 8.22171116,
-      "line": "Cam Little crushed his projection: 17.0 actual vs 8.2 projected, playing for espnfan7338848211."
-    },
-    {
-      "type": "under",
-      "owner": "kconley5",
-      "player": "Derrick Henry",
-      "position": "RB",
-      "actual": 5.58,
-      "projected": 14.05224472,
-      "line": "Derrick Henry bombed his projection: 5.6 actual vs 14.1 projected, playing for kconley5."
-    },
-    {
-      "type": "under",
-      "owner": "espnfan7338848211",
-      "player": "Zay Flowers",
+      "owner": "Eric Brotmann",
+      "player": "Matthew Golden",
       "position": "WR",
-      "actual": 5.3,
-      "projected": 13.28165148,
-      "line": "Zay Flowers bombed his projection: 5.3 actual vs 13.3 projected, playing for espnfan7338848211."
+      "actual": 32.4,
+      "projected": 17.2701541,
+      "line": "Matthew Golden crushed his projection: 32.4 actual vs 17.3 projected, playing for Eric Brotmann."
+    },
+    {
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "actual": 14.8,
+      "projected": 14.87581421,
+      "line": "Eric Brotmann benched Rhamondre Stevenson, who scored 14.8 anyway."
     }
   ]
 }

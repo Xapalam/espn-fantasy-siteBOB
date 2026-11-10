@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:50:52.928482+00:00",
+  "generatedAt": "2026-11-10T16:20:50.408583+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 10,
   "matchups": [
@@ -8,14 +8,14 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 94.3,
-        "winProbability": 0.41,
+        "projectedFinal": 106.9,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
-          "Luther Burden III",
           "Christian Watson",
           "Brandon Aubrey",
+          "Denzel Boston",
           "Ollie Gordon II",
           "Jonah Coleman",
           "Malik Willis",
@@ -27,8 +27,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 109.1,
-        "winProbability": 0.59,
+        "projectedFinal": 107.4,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -52,7 +52,7 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 135.4,
+        "projectedFinal": 135.5,
         "winProbability": 0.54,
         "yetToPlay": [
           "Ja'Marr Chase",
@@ -71,7 +71,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 126.2,
+        "projectedFinal": 126.5,
         "winProbability": 0.46,
         "yetToPlay": [
           "Jonathan Taylor",
@@ -96,8 +96,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 104.1,
-        "winProbability": 0.55,
+        "projectedFinal": 103.7,
+        "winProbability": 0.54,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -115,8 +115,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 96.5,
-        "winProbability": 0.45,
+        "projectedFinal": 96.7,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
@@ -140,8 +140,8 @@
       "awayOwner": "ESPNfan83795608",
       "home": {
         "score": 0.0,
-        "projectedFinal": 119.3,
-        "winProbability": 0.6,
+        "projectedFinal": 119.5,
+        "winProbability": 0.61,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -159,8 +159,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 100.7,
-        "winProbability": 0.4,
+        "projectedFinal": 100.4,
+        "winProbability": 0.39,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
@@ -184,18 +184,18 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 99.0,
-        "winProbability": 0.41,
+        "projectedFinal": 120.8,
+        "winProbability": 0.53,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
           "Rashee Rice",
+          "DJ Moore",
           "Parker Washington",
-          "Josh Jacobs",
-          "Dallas Goedert",
           "Brock Purdy",
           "Spencer Shrader",
-          "Chiefs D/ST"
+          "Chiefs D/ST",
+          "Hunter Henry"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -203,8 +203,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 115.3,
-        "winProbability": 0.59,
+        "projectedFinal": 115.4,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",

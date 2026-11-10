@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-11-09T18:36:02.431201+00:00",
+  "generatedAt": "2026-11-10T15:52:38.381447+00:00",
   "seasonId": 2026,
   "lastWeek": {
-    "matchupPeriodId": 8,
-    "matchups": [
-      {
-        "homeOwner": "Doakes22",
-        "awayOwner": "espn88256878",
-        "homeScore": 110.1,
-        "awayScore": 114.62,
-        "winner": "espn88256878",
-        "loser": "Doakes22",
-        "recap": "espn88256878 beat Doakes22 114.6-110.1."
-      },
-      {
-        "homeOwner": "Eric Brotmann",
-        "awayOwner": "ESPNfan83795608",
-        "homeScore": 124.08,
-        "awayScore": 132.68,
-        "winner": "ESPNfan83795608",
-        "loser": "Eric Brotmann",
-        "recap": "ESPNfan83795608 beat Eric Brotmann 132.7-124.1."
-      },
-      {
-        "homeOwner": "82Cole47",
-        "awayOwner": "RGM2215",
-        "homeScore": 130.86,
-        "awayScore": 75.1,
-        "winner": "82Cole47",
-        "loser": "RGM2215",
-        "recap": "82Cole47 beat RGM2215 130.9-75.1."
-      },
-      {
-        "homeOwner": "espnfan7338848211",
-        "awayOwner": "ESPNFAN6437471416",
-        "homeScore": 116.6,
-        "awayScore": 103.7,
-        "winner": "espnfan7338848211",
-        "loser": "ESPNFAN6437471416",
-        "recap": "espnfan7338848211 beat ESPNFAN6437471416 116.6-103.7."
-      },
-      {
-        "homeOwner": "SteelerFan9828",
-        "awayOwner": "kconley5",
-        "homeScore": 125.48,
-        "awayScore": 160.36,
-        "winner": "kconley5",
-        "loser": "SteelerFan9828",
-        "recap": "kconley5 beat SteelerFan9828 160.4-125.5."
-      }
-    ]
-  },
-  "thisWeek": {
     "matchupPeriodId": 9,
     "matchups": [
       {
         "homeOwner": "Eric Brotmann",
         "awayOwner": "Doakes22",
-        "homeRecord": "4-4",
-        "awayRecord": "2-6",
-        "preview": "Eric Brotmann (4-4) vs Doakes22 (2-6)."
+        "homeScore": 133.82,
+        "awayScore": 135.92,
+        "winner": "Doakes22",
+        "loser": "Eric Brotmann",
+        "recap": "Doakes22 beat Eric Brotmann 135.9-133.8."
       },
       {
         "homeOwner": "espn88256878",
         "awayOwner": "82Cole47",
-        "homeRecord": "4-4",
-        "awayRecord": "6-2",
-        "preview": "espn88256878 (4-4) vs 82Cole47 (6-2)."
+        "homeScore": 147.88,
+        "awayScore": 102.06,
+        "winner": "espn88256878",
+        "loser": "82Cole47",
+        "recap": "espn88256878 beat 82Cole47 147.9-102.1."
       },
       {
         "homeOwner": "ESPNfan83795608",
         "awayOwner": "espnfan7338848211",
-        "homeRecord": "5-3",
-        "awayRecord": "5-3",
-        "preview": "ESPNfan83795608 (5-3) vs espnfan7338848211 (5-3)."
+        "homeScore": 112.26,
+        "awayScore": 142.9,
+        "winner": "espnfan7338848211",
+        "loser": "ESPNfan83795608",
+        "recap": "espnfan7338848211 beat ESPNfan83795608 142.9-112.3."
       },
       {
         "homeOwner": "RGM2215",
         "awayOwner": "SteelerFan9828",
-        "homeRecord": "3-5",
-        "awayRecord": "4-4",
-        "preview": "RGM2215 (3-5) vs SteelerFan9828 (4-4)."
+        "homeScore": 97.2,
+        "awayScore": 128.54,
+        "winner": "SteelerFan9828",
+        "loser": "RGM2215",
+        "recap": "SteelerFan9828 beat RGM2215 128.5-97.2."
       },
       {
         "homeOwner": "ESPNFAN6437471416",
         "awayOwner": "kconley5",
-        "homeRecord": "3-5",
-        "awayRecord": "4-4",
-        "preview": "ESPNFAN6437471416 (3-5) vs kconley5 (4-4)."
+        "homeScore": 114.98,
+        "awayScore": 134.64,
+        "winner": "kconley5",
+        "loser": "ESPNFAN6437471416",
+        "recap": "kconley5 beat ESPNFAN6437471416 134.6-115.0."
+      }
+    ]
+  },
+  "thisWeek": {
+    "matchupPeriodId": 10,
+    "matchups": [
+      {
+        "homeOwner": "Doakes22",
+        "awayOwner": "82Cole47",
+        "homeRecord": "3-6",
+        "awayRecord": "6-3",
+        "preview": "Doakes22 (3-6) vs 82Cole47 (6-3)."
+      },
+      {
+        "homeOwner": "espnfan7338848211",
+        "awayOwner": "Eric Brotmann",
+        "homeRecord": "6-3",
+        "awayRecord": "4-5",
+        "preview": "espnfan7338848211 (6-3) vs Eric Brotmann (4-5)."
+      },
+      {
+        "homeOwner": "SteelerFan9828",
+        "awayOwner": "espn88256878",
+        "homeRecord": "5-4",
+        "awayRecord": "5-4",
+        "preview": "SteelerFan9828 (5-4) vs espn88256878 (5-4)."
+      },
+      {
+        "homeOwner": "kconley5",
+        "awayOwner": "ESPNfan83795608",
+        "homeRecord": "5-4",
+        "awayRecord": "5-4",
+        "preview": "kconley5 (5-4) vs ESPNfan83795608 (5-4)."
+      },
+      {
+        "homeOwner": "ESPNFAN6437471416",
+        "awayOwner": "RGM2215",
+        "homeRecord": "3-6",
+        "awayRecord": "3-6",
+        "preview": "ESPNFAN6437471416 (3-6) vs RGM2215 (3-6)."
       }
     ]
   }

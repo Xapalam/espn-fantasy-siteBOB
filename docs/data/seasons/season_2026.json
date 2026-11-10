@@ -15,24 +15,24 @@
         "away": {
           "gamesBack": 0.0,
           "losses": 2,
-          "percentage": 0.5,
+          "percentage": 0.6,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "LOSS",
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 2
+          "wins": 3
         },
         "division": {
-          "gamesBack": 4.0,
+          "gamesBack": 3.0,
           "losses": 6,
-          "percentage": 0.25,
+          "percentage": 0.3333333333333333,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 3,
-          "streakType": "LOSS",
+          "streakLength": 1,
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 2
+          "wins": 3
         },
         "home": {
           "gamesBack": 0.0,
@@ -46,21 +46,21 @@
           "wins": 0
         },
         "overall": {
-          "gamesBack": 4.0,
+          "gamesBack": 3.0,
           "losses": 6,
-          "percentage": 0.25,
-          "pointsAgainst": 1018.64,
-          "pointsFor": 909.0600000000001,
-          "streakLength": 3,
-          "streakType": "LOSS",
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 1152.46,
+          "pointsFor": 1044.98,
+          "streakLength": 1,
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 2
+          "wins": 3
         }
       },
-      "playoffSeed": 10,
-      "points_for": 909.0600000000001,
-      "points_against": 1018.64,
-      "wins": 2,
+      "playoffSeed": 8,
+      "points_for": 1044.98,
+      "points_against": 1152.46,
+      "wins": 3,
       "losses": 6,
       "ties": 0,
       "roster": [
@@ -72,13 +72,13 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "After finishing in the top 10 among receivers in fantasy PPG during each of his first five seasons, Jefferson plummeted to 30th in 2025. The fall was, of course, unrelated to Jefferson's ability, as the team's quarterback woes limited the star receiver to career-low showings in yardage (1,048), touchdowns (two), catch rate (60%) and yards per target (7.4). Jefferson's fall came despite him seeing a career-high 30.1% target share and ranking in the top six at the position in targets (141) and end zone targets (15). The 27-year-old remains an elite player, but the quarterback concerns aren't fully solved, with dual-threat Kyler Murray (one receiver managed a top-25 fantasy campaign during his time as a starter in Arizona) set to work as the starter. Perhaps Murray can ignite Jefferson similar to how he did DeAndre Hopkins at times, but there's certainly some risk. Jefferson is best considered as a mid-range WR1.",
           "currentSeason": {
-            "points": 86.4,
-            "pointsPerGame": 14.4,
+            "points": 95.2,
+            "pointsPerGame": 13.6,
             "stats": {
               "rushAtt": 1.0,
               "rushYds": -11.0,
-              "rec": 28.0,
-              "recYds": 335.0,
+              "rec": 31.0,
+              "recYds": 393.0,
               "recTD": 4.0
             }
           },
@@ -162,7 +162,7 @@
           "name": "George Pickens",
           "position": "WR",
           "proTeam": "DAL",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Pickens drew the franchise tag from Dallas after a career year in which he ranked near the top of the wide receiver position in most categories, including catches, yards, TDs, end zone targets (second with 18) and air yards (fourth with 1,576). Fantasy's No. 5-scoring receiver in 2025 certainly benefited from CeeDee Lamb missing time (24% target share, or 8.8 per game, and 24.2 fantasy PPG in four games Lamb was injured), but his \"with Lamb\" splits were also strong. Consider: In 12 full games with Lamb, Pickens handled a 23% target share (8.3 per game) and averaged 16.1 fantasy PPG, which would've ranked eighth at the position over the full season. The 25-year-old will play the same role in Dallas' high-scoring offense in 2026 and has the look of a strong fantasy WR2.",
           "currentSeason": {
             "points": 104.3,
@@ -286,7 +286,7 @@
           "name": "TreVeyon Henderson",
           "position": "RB",
           "proTeam": "NE",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Henderson enters Year 2 after a roller-coaster rookie campaign in which he delivered three huge fantasy performances (28-plus points in all three) but otherwise played second fiddle to Rhamondre Stevenson (8.3 points per game in his other 14 games). Though his role was limited, Henderson was effective, averaging 5.1 yards per carry (eighth best) and catching 83% of his targets while scoring 10 touchdowns. The 2025 second-round pick is a candidate for a similar role in 2026, but it's unlikely that Stevenson will completely disappear after he also had a strong 2025. Henderson is safest as a bench option, but there's upside for a lot more if the 23-year-old is promoted to a lead role.",
           "currentSeason": {
             "points": 33.8,
@@ -470,8 +470,8 @@
           "injuryStatus": null,
           "seasonOutlook": "Run defense was the Bills' undoing last season, as they allowed a league-worst 24 rushing scores and snapped a seven-year streak of placing among the position's top 10 in fantasy points scored. Jim Leonhard was brought in as defensive coordinator, switching from a 4-3 to 3-4 scheme, though the team's personnel remains light up front. Regard the Bills a D/ST streaming candidate, and one better to leave undrafted due to their rough early schedule (@HOU, DET, LAC, NE, @LAR).",
           "currentSeason": {
-            "points": 26.0,
-            "pointsPerGame": 3.7142857142857144,
+            "points": 41.0,
+            "pointsPerGame": 5.125,
             "stats": {}
           },
           "priorSeason": {
@@ -512,23 +512,23 @@
       "record": {
         "away": {
           "gamesBack": 0.0,
-          "losses": 0,
-          "percentage": 1.0,
+          "losses": 1,
+          "percentage": 0.75,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 3,
-          "streakType": "WIN",
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 3
         },
         "division": {
           "gamesBack": 0.0,
-          "losses": 2,
-          "percentage": 0.75,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 2,
-          "streakType": "WIN",
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 6
         },
@@ -545,21 +545,21 @@
         },
         "overall": {
           "gamesBack": 0.0,
-          "losses": 2,
-          "percentage": 0.75,
-          "pointsAgainst": 893.8399999999999,
-          "pointsFor": 1036.5,
-          "streakLength": 2,
-          "streakType": "WIN",
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 1041.7199999999998,
+          "pointsFor": 1138.56,
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 6
         }
       },
-      "playoffSeed": 1,
-      "points_for": 1036.5,
-      "points_against": 893.8399999999999,
+      "playoffSeed": 2,
+      "points_for": 1138.56,
+      "points_against": 1041.7199999999998,
       "wins": 6,
-      "losses": 2,
+      "losses": 3,
       "ties": 0,
       "roster": [
         {
@@ -627,7 +627,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "proTeam": "NE",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Brown was traded to the Patriots in June. The veteran receiver enters 2026 looking to continue his streak of finishing in the top 15 in fantasy points per game during each of the four seasons he was with the Eagles. That includes an 11th-place finish in 2025 in which Brown reached the 1,000-yard mark for the sixth time in his seven NFL seasons while finding the end zone exactly seven times for the third year in a row. Brown continues to benefit from elite usage (he has finished no lower than seventh among WRs in target share each of the past seven seasons) and elite efficiency (he has finished 80th percentile or better in yards per route run all seven years). He could use more end zone targets in New England (he had a career-low four last season), but Brown, 29, is set to work as Drake Maye's top target in a good Patriots' offense. He is a fringe fantasy WR1.",
           "currentSeason": {
             "points": 19.1,
@@ -655,16 +655,16 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Allen enters his age-30 campaign having finished each of the past six seasons no worse than second among quarterbacks in fantasy points. Despite seeing less passing volume the past two seasons (14th or lower in pass attempts both years), the 2024 NFL MVP has finished in the top 10 in passing TDs six seasons in a row and remains a major threat with his legs (top five in carries and rushing TDs among quarterbacks all eight seasons of his career). Allen's 21.4 fantasy points per game in 2025 was actually his lowest since 2019, but it was still enough to lead the position. With Joe Brady returning as playcaller and the Bills adding a No. 1 receiver in DJ Moore, Allen remains an elite fantasy quarterback.",
           "currentSeason": {
-            "points": 187.82,
-            "pointsPerGame": 26.83142857142857,
+            "points": 200.68,
+            "pointsPerGame": 25.085,
             "stats": {
-              "passAtt": 205.0,
-              "passCmp": 135.0,
-              "passYds": 1793.0,
-              "passTD": 11.0,
-              "int": 5.0,
-              "rushAtt": 55.0,
-              "rushYds": 270.0,
+              "passAtt": 236.0,
+              "passCmp": 156.0,
+              "passYds": 2027.0,
+              "passTD": 12.0,
+              "int": 6.0,
+              "rushAtt": 61.0,
+              "rushYds": 285.0,
               "rushTD": 9.0,
               "rec": 1.0,
               "recYds": 1.0,
@@ -868,7 +868,7 @@
           "name": "Deebo Samuel Sr.",
           "position": "WR",
           "proTeam": "SF",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Samuel reunited with the 49ers in July after solid yet unspectacular lone season in Washington. The former second-round pick cleared 85 touches and 800 scrimmage yards for the fifth consecutive season and finished 25th among receivers in fantasy points -- his third-career top-30 fantasy campaign. Samuel's role as a short-area target and occasional rusher gets the ball in his hands plenty (he's ranked in the top 15 among WRs in touches and RAC five years in a row), but it doesn't allow him much scoring upside (10 TDs over the last two years, and he's never cleared five end zone targets in one season). Now 30 years old, Samuel figures to resume his role as a short-area playmaker in Kyle Shanahan's highly-efficient offense. He's a fine late-round flier with WR3/flex upside.",
           "currentSeason": {
             "points": 60.4,
@@ -1038,43 +1038,43 @@
           "wins": 2
         },
         "division": {
-          "gamesBack": 2.0,
+          "gamesBack": 1.0,
           "losses": 4,
-          "percentage": 0.5,
-          "pointsAgainst": 0.0,
-          "pointsFor": 0.0,
-          "streakLength": 1,
-          "streakType": "WIN",
-          "ties": 0,
-          "wins": 4
-        },
-        "home": {
-          "gamesBack": 0.0,
-          "losses": 2,
-          "percentage": 0.5,
+          "percentage": 0.5555555555555556,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 2
+          "wins": 5
         },
-        "overall": {
-          "gamesBack": 2.0,
-          "losses": 4,
-          "percentage": 0.5,
-          "pointsAgainst": 958.74,
-          "pointsFor": 934.84,
-          "streakLength": 1,
+        "home": {
+          "gamesBack": 0.0,
+          "losses": 2,
+          "percentage": 0.6,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 3,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 4
+          "wins": 3
+        },
+        "overall": {
+          "gamesBack": 1.0,
+          "losses": 4,
+          "percentage": 0.5555555555555556,
+          "pointsAgainst": 1060.8,
+          "pointsFor": 1082.72,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 5
         }
       },
-      "playoffSeed": 6,
-      "points_for": 934.84,
-      "points_against": 958.74,
-      "wins": 4,
+      "playoffSeed": 5,
+      "points_for": 1082.72,
+      "points_against": 1060.8,
+      "wins": 5,
       "losses": 4,
       "ties": 0,
       "roster": [
@@ -1083,7 +1083,7 @@
           "name": "Puka Nacua",
           "position": "WR",
           "proTeam": "LAR",
-          "injuryStatus": "QUESTIONABLE",
+          "injuryStatus": "DOUBTFUL",
           "seasonOutlook": "Nacua has defied the odds, emerging from fifth-round flier in 2023 to one of the most relied upon and productive offensive players in the league. Nacua has finished each of his three pro seasons sixth or better among receivers in fantasy PPG and peaked with a first-place finish last season. Matthew Stafford's top target led the league with 129 receptions and finished no lower than third among receivers in targets, yardage and touchdowns, while also adding 105 yards and one score as a rusher. More goal-line work would be nice (he has 11 end zone targets over the past two seasons), but Nacua's heavy usage in an elite offense locks in the 25-year-old as arguably the top receiver in fantasy.",
           "currentSeason": {
             "points": 173.6,
@@ -1299,14 +1299,14 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Jones is back for a third season in Minnesota after an injury-plagued 2025 campaign limited him to 747 yards (his fewest since his rookie season in 2017) and three touchdowns in 12 games. Jones remained fairly busy (11.0 carries and 3.4 targets per game) but didn't perform well, ranking dead last among 65 backs with 50-plus carries in forced missed tackle rate and elusive rating, per PFF. Jones failed to record a single top-10 fantasy outing. Now 31 years old, Jones remains a starter and will get some run, but he's well past his prime and unlikely to return to consistent fantasy output. Jones is best valued as a bench player with occasional flex appeal.",
           "currentSeason": {
-            "points": 79.8,
-            "pointsPerGame": 11.400000000000002,
+            "points": 82.9,
+            "pointsPerGame": 10.3625,
             "stats": {
-              "rushAtt": 110.0,
-              "rushYds": 458.0,
+              "rushAtt": 115.0,
+              "rushYds": 474.0,
               "rushTD": 2.0,
-              "rec": 15.0,
-              "recYds": 90.0,
+              "rec": 16.0,
+              "recYds": 95.0,
               "fumblesLost": 1.0
             }
           },
@@ -1461,8 +1461,8 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": null,
           "currentSeason": {
-            "points": 78.0,
-            "pointsPerGame": 11.142857142857142,
+            "points": 91.0,
+            "pointsPerGame": 11.375,
             "stats": {}
           },
           "priorSeason": {
@@ -1541,24 +1541,24 @@
         "away": {
           "gamesBack": 0.0,
           "losses": 1,
-          "percentage": 0.8,
-          "pointsAgainst": 0.0,
-          "pointsFor": 0.0,
-          "streakLength": 1,
-          "streakType": "LOSS",
-          "ties": 0,
-          "wins": 4
-        },
-        "division": {
-          "gamesBack": 1.0,
-          "losses": 3,
-          "percentage": 0.625,
+          "percentage": 0.8333333333333334,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
           "streakType": "WIN",
           "ties": 0,
           "wins": 5
+        },
+        "division": {
+          "gamesBack": 0.0,
+          "losses": 3,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 0.0,
+          "pointsFor": 0.0,
+          "streakLength": 2,
+          "streakType": "WIN",
+          "ties": 0,
+          "wins": 6
         },
         "home": {
           "gamesBack": 0.0,
@@ -1572,21 +1572,21 @@
           "wins": 1
         },
         "overall": {
-          "gamesBack": 1.0,
+          "gamesBack": 0.0,
           "losses": 3,
-          "percentage": 0.625,
-          "pointsAgainst": 909.3000000000002,
-          "pointsFor": 1005.2599999999999,
-          "streakLength": 1,
+          "percentage": 0.6666666666666666,
+          "pointsAgainst": 1021.5600000000002,
+          "pointsFor": 1148.1599999999999,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 5
+          "wins": 6
         }
       },
-      "playoffSeed": 3,
-      "points_for": 1005.2599999999999,
-      "points_against": 909.3000000000002,
-      "wins": 5,
+      "playoffSeed": 1,
+      "points_for": 1148.1599999999999,
+      "points_against": 1021.5600000000002,
+      "wins": 6,
       "losses": 3,
       "ties": 0,
       "roster": [
@@ -1810,12 +1810,14 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Mason is back for his second season in Minnesota and will battle 31-year-old Aaron Jones Sr. for backfield opportunities. Mason's role was almost exactly as expected last season, as he was utilized often as a rusher (9.9 carries per game), but a nonfactor as a receiver (1.0 targets per game). Mason reached 13 fantasy points just once in his 16 games and it was a 23.6-point effort in Week 3, one of five games Jones missed. Mason, 27, is an effective rusher -- his 5.10 YPC ranks third and his 2.42 YAC second among 54 RBs with 350-plus carries since he entered the league -- but adding so little as a receiver (34 career targets) severely limits his fantasy output. Even if Jones were to miss time, Mason would max out as a flex.",
           "currentSeason": {
-            "points": 20.7,
-            "pointsPerGame": 6.900000000000001,
+            "points": 26.9,
+            "pointsPerGame": 6.725,
             "stats": {
-              "rushAtt": 38.0,
-              "rushYds": 147.0,
-              "rushTD": 1.0
+              "rushAtt": 44.0,
+              "rushYds": 182.0,
+              "rushTD": 1.0,
+              "rec": 2.0,
+              "recYds": 7.0
             }
           },
           "priorSeason": {
@@ -1975,8 +1977,8 @@
           "injuryStatus": null,
           "seasonOutlook": "Brian Flores' blitz-happy defense has managed exactly 49 sacks, fourth-most in the league, in each of the past two seasons, playing a big part in the team finishing among the position's top seven in fantasy scoring in each of those years. Though Jonathan Allen and Jonathan Greenard are no longer with the team, the Vikings' draft selections of DTs Caleb Banks and Domonique Orange should at least keep them competitive up front. That said, the Vikings face a brutal opening schedule (GB, Week 1; @CHI, Week 2) and have one of the toughest second-half schedules in the league. Be prepared to pivot if this D/ST starts slowly.",
           "currentSeason": {
-            "points": 79.0,
-            "pointsPerGame": 11.285714285714286,
+            "points": 85.0,
+            "pointsPerGame": 10.625,
             "stats": {}
           },
           "priorSeason": {
@@ -2030,43 +2032,43 @@
         },
         "division": {
           "gamesBack": 3.0,
-          "losses": 5,
-          "percentage": 0.375,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 3
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 3,
-          "percentage": 0.25,
+          "losses": 4,
+          "percentage": 0.2,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "WIN",
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         },
         "overall": {
           "gamesBack": 3.0,
-          "losses": 5,
-          "percentage": 0.375,
-          "pointsAgainst": 965.72,
-          "pointsFor": 895.04,
-          "streakLength": 1,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 1094.26,
+          "pointsFor": 992.24,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 3
         }
       },
-      "playoffSeed": 8,
-      "points_for": 895.04,
-      "points_against": 965.72,
+      "playoffSeed": 10,
+      "points_for": 992.24,
+      "points_against": 1094.26,
       "wins": 3,
-      "losses": 5,
+      "losses": 6,
       "ties": 0,
       "roster": [
         {
@@ -2429,11 +2431,11 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "It's been a rough go for Hockenson since he peaked with a 95-960-5 receiving line in 2023. He tore an ACL in Week 16 that season and was limited to a 41-455-0 receiving line upon his return in 10 games in 2024. A bounce-back was expected in 2025, but Hockenson handled a weak 16% target share (his lowest since he was a rookie in 2019) and couldn't overcome the team's QB woes en route to a 51-438-3 showing. Hockenson has now followed four straight top-seven fantasy PPG seasons with finishes of 17th and 26th. The 29-year-old could very well get back on track in 2026, but he'll need solid play from Kyler Murray. Hockenson is a fringe TE1.",
           "currentSeason": {
-            "points": 78.5,
-            "pointsPerGame": 11.214285714285714,
+            "points": 85.8,
+            "pointsPerGame": 10.725000000000001,
             "stats": {
-              "rec": 31.0,
-              "recYds": 295.0,
+              "rec": 35.0,
+              "recYds": 328.0,
               "recTD": 3.0
             }
           },
@@ -2554,43 +2556,43 @@
         },
         "division": {
           "gamesBack": 2.0,
-          "losses": 4,
-          "percentage": 0.5,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 4
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 3,
-          "percentage": 0.25,
+          "losses": 4,
+          "percentage": 0.2,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 2,
+          "streakLength": 3,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         },
         "overall": {
           "gamesBack": 2.0,
-          "losses": 4,
-          "percentage": 0.5,
-          "pointsAgainst": 970.3,
-          "pointsFor": 1026.7,
-          "streakLength": 1,
+          "losses": 5,
+          "percentage": 0.4444444444444444,
+          "pointsAgainst": 1106.22,
+          "pointsFor": 1160.52,
+          "streakLength": 2,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 4
         }
       },
-      "playoffSeed": 4,
-      "points_for": 1026.7,
-      "points_against": 970.3,
+      "playoffSeed": 7,
+      "points_for": 1160.52,
+      "points_against": 1106.22,
       "wins": 4,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
       "roster": [
         {
@@ -2874,11 +2876,11 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Kincaid is perhaps fantasy's biggest wild card among tight ends. The 2023 first-round pick has occasionally flashed a high ceiling (he actually led qualified tight ends in YPT and YPRR last season), but he also has missed substantial action (nine games the past two years) and has disappeared way too often (he failed to clear 13.1 fantasy points in any game in 2024, and never cleared six targets in a game in 2025). Kincaid was limited to a 37% snap share when active last season, and he has yet to finish a season better than 14th in fantasy PPG. The 26-year-old has TE1 upside, but he's tough to trust and has added target competition (WR DJ Moore) in 2026. Consider Kincaid only in the mid-to-late rounds.",
           "currentSeason": {
-            "points": 79.1,
-            "pointsPerGame": 11.299999999999999,
+            "points": 84.9,
+            "pointsPerGame": 10.6125,
             "stats": {
-              "rec": 27.0,
-              "recYds": 401.0,
+              "rec": 30.0,
+              "recYds": 429.0,
               "recTD": 2.0,
               "fumblesLost": 1.0
             }
@@ -3024,24 +3026,24 @@
         "away": {
           "gamesBack": 0.0,
           "losses": 1,
-          "percentage": 0.8,
+          "percentage": 0.8333333333333334,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 4
+          "wins": 5
         },
         "division": {
-          "gamesBack": 2.0,
+          "gamesBack": 1.0,
           "losses": 4,
-          "percentage": 0.5,
+          "percentage": 0.5555555555555556,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 1,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 4
+          "wins": 5
         },
         "home": {
           "gamesBack": 0.0,
@@ -3055,21 +3057,21 @@
           "wins": 0
         },
         "overall": {
-          "gamesBack": 2.0,
+          "gamesBack": 1.0,
           "losses": 4,
-          "percentage": 0.5,
-          "pointsAgainst": 1030.5,
-          "pointsFor": 971.0999999999999,
-          "streakLength": 1,
+          "percentage": 0.5555555555555556,
+          "pointsAgainst": 1145.48,
+          "pointsFor": 1105.7399999999998,
+          "streakLength": 2,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 4
+          "wins": 5
         }
       },
-      "playoffSeed": 5,
-      "points_for": 971.0999999999999,
-      "points_against": 1030.5,
-      "wins": 4,
+      "playoffSeed": 4,
+      "points_for": 1105.7399999999998,
+      "points_against": 1145.48,
+      "wins": 5,
       "losses": 4,
       "ties": 0,
       "roster": [
@@ -3232,7 +3234,7 @@
           "name": "David Montgomery",
           "position": "RB",
           "proTeam": "HOU",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Montgomery was traded to Houston after spending his first seven NFL seasons with Chicago and Detroit. The veteran back is coming off a down year in 2025, when he posted career lows in touches (182), yardage (908, his first season under 1,000) and fantasy points per game (9.8). Montgomery was still effective as a rusher (4.53 yards per carry, 2.28 yards after contact) but lost work to Jahmyr Gibbs and wasn't involved much as receiver. The latter doesn't figure to change much in Houston, and while Montgomery is a decent bet to pace the team in carries, second-year back Woody Marks figures to sustain a substantial offensive role. Montgomery enters his age-29 season as a touchdown-dependent flex with limited upside.",
           "currentSeason": {
             "points": 45.5,
@@ -3308,7 +3310,7 @@
           "name": "Michael Wilson",
           "position": "WR",
           "proTeam": "ARI",
-          "injuryStatus": "ACTIVE",
+          "injuryStatus": "OUT",
           "seasonOutlook": "After averaging 4.3 targets and 7.6 fantasy points per game during his first 38 NFL games, Wilson broke out with Jacoby Brissett under center during the final eight games of 2025, averaging 11.0 targets and 21.2 fantasy PPG. The stretch also coincided with Marvin Harrison Jr. dealing with health issues, and it's worth noting that Wilson's receiving lines in the four games Harrison was active weren't quite as good (3-40-0, 3-61-0, 4-34-0, 3-36-0). A healthy Harrison (along with TE Trey McBride) figures to lead to a return to earth for Wilson, but the 26-year-old did enough late last season to warrant WR4/flex consideration in drafts.",
           "currentSeason": {
             "points": 120.68,
@@ -3577,43 +3579,43 @@
         },
         "division": {
           "gamesBack": 3.0,
-          "losses": 5,
-          "percentage": 0.375,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 2,
+          "streakLength": 3,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 3
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 3,
-          "percentage": 0.25,
+          "losses": 4,
+          "percentage": 0.2,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 3,
+          "streakLength": 4,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         },
         "overall": {
           "gamesBack": 3.0,
-          "losses": 5,
-          "percentage": 0.375,
-          "pointsAgainst": 924.32,
-          "pointsFor": 890.6800000000001,
-          "streakLength": 2,
+          "losses": 6,
+          "percentage": 0.3333333333333333,
+          "pointsAgainst": 1058.96,
+          "pointsFor": 1005.6600000000001,
+          "streakLength": 3,
           "streakType": "LOSS",
           "ties": 0,
           "wins": 3
         }
       },
       "playoffSeed": 9,
-      "points_for": 890.6800000000001,
-      "points_against": 924.32,
+      "points_for": 1005.6600000000001,
+      "points_against": 1058.96,
       "wins": 3,
-      "losses": 5,
+      "losses": 6,
       "ties": 0,
       "roster": [
         {
@@ -3624,12 +3626,12 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Cook signed a contract extension last offseason and was immediately vaulted into the biggest role of his career. The 2022 second-round NFL draft pick finished in the top five among backs in carries, rushing yards (league-high 1,621), touchdowns and yards per carry (5.25). The one limiting factor in Cook's fantasy output was a minimal receiving role (his 40 targets ranked 26th among RBs), but he still came through with a sixth-place finish in fantasy points. The 26-year-old is set to play the same role in Joe Brady's scheme and will be a candidate for his third straight double-digit touchdown campaign as long as Josh Allen is under center. Consider Cook a midrange RB1.",
           "currentSeason": {
-            "points": 131.7,
-            "pointsPerGame": 18.814285714285713,
+            "points": 148.4,
+            "pointsPerGame": 18.55,
             "stats": {
-              "rushAtt": 138.0,
-              "rushYds": 707.0,
-              "rushTD": 7.0,
+              "rushAtt": 169.0,
+              "rushYds": 814.0,
+              "rushTD": 8.0,
               "rec": 12.0,
               "recYds": 110.0,
               "fumblesLost": 2.0
@@ -3686,7 +3688,7 @@
           "name": "Garrett Wilson",
           "position": "WR",
           "proTeam": "NYJ",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Wilson is eyeing a bounce-back following an injury-shortened 2025 that limited him to seven games. It was the first time Wilson had missed time, having appeared in all 51 games during his first three seasons. The 2022 first-round pick ranked no lower than sixth among receivers in targets in each of those years, but he failed to produce a fantasy campaign better than 20th (PPG) due to New York's quarterback woes. Wilson was off to a hot start last season (four TDs, 14.2 fantasy PPG) thanks to a massive 33% target share (second highest). New York's signal-caller problems still aren't completely solved, but veteran Geno Smith should provide an upgrade over last year's Justin Fields/Tyrod Taylor duo. Wilson, 26, is one of the best raw talents at the position and should be valued as a good WR2.",
           "currentSeason": {
             "points": 113.7,
@@ -3741,7 +3743,7 @@
           "name": "Cam Skattebo",
           "position": "RB",
           "proTeam": "NYG",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Skattebo is a Year 2 breakout candidate following an impressive but injury-shortened rookie season. The fourth-round pick first played a significant offensive role in Week 2 and went on to average 16.0 carries, 4.7 targets and 96.3 yards while scoring six TDs during his six full games. His 19.1 fantasy points per game during the span would've ranked sixth over the full season. The 24-year-old enters 2026 with a new coach (John Harbaugh) and playcaller (Matt Nagy), but his competition for touches are Najee Harris and the same guys he beat out for work in 2025 (Tyrone Tracy Jr., Devin Singletary). Assuming his ankle heals up as expected, Skattebo will be on the RB2 radar with upside for more.",
           "currentSeason": {
             "points": 70.4,
@@ -3777,13 +3779,13 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": "Moore was traded to Buffalo after spending his first eight NFL seasons with Carolina and Chicago. A featured target throughout most of his career, Moore was reduced to a 16% target share in 2025 -- his lowest since his rookie year in 2018. The result was a 35th-place finish in fantasy points, which ended a streak of six consecutive top 25s. Moore now heads to Buffalo with Khalil Shakir as his only roadblock to emerging as Josh Allen's No. 1 target in Buffalo's high-scoring offense. Still in his prime at age 29, Moore has the look of a fantasy WR3 with upside for more.",
           "currentSeason": {
-            "points": 52.9,
-            "pointsPerGame": 10.58,
+            "points": 59.5,
+            "pointsPerGame": 9.916666666666666,
             "stats": {
-              "rushAtt": 3.0,
-              "rushYds": 9.0,
-              "rec": 16.0,
-              "recYds": 260.0,
+              "rushAtt": 4.0,
+              "rushYds": 20.0,
+              "rec": 19.0,
+              "recYds": 285.0,
               "recTD": 2.0,
               "fumblesLost": 1.0
             }
@@ -3841,7 +3843,7 @@
           "name": "Josh Jacobs",
           "position": "RB",
           "proTeam": "GB",
-          "injuryStatus": "QUESTIONABLE",
+          "injuryStatus": "OUT",
           "seasonOutlook": "Jacobs' 2025 season can be split in two parts: pre-injury and post-injury. While healthy during his first nine games, Jacobs picked up where he left off from a terrific 2024 debut season with Green Bay, averaging 21.1 touches and 19.6 fantasy points while scoring 11 TDs. After missing all but 11 snaps during Weeks 11 and 12, Jacobs returned and wasn't quite the same, averaging 14.6 touches and 11.3 points while totaling three touchdowns in his final five games. But Jacobs, 28, was still effective overall (PFF's fourth-highest-graded back) and has a clear grasp on lead-back duties in a good Green Bay offense that has afforded him 30 touchdowns (fifth most in the NFL) in 32 games. He's a fine back-end RB1 when active, but a likely suspension makes him less valuable on draft day.He's worth a mid-round flier until the dust settles.",
           "currentSeason": {
             "points": 43.8,
@@ -4109,21 +4111,21 @@
           "percentage": 1.0,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 3,
+          "streakLength": 4,
           "streakType": "WIN",
           "ties": 0,
-          "wins": 3
+          "wins": 4
         },
         "division": {
-          "gamesBack": 2.0,
+          "gamesBack": 1.0,
           "losses": 4,
-          "percentage": 0.5,
+          "percentage": 0.5555555555555556,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "LOSS",
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 4
+          "wins": 5
         },
         "home": {
           "gamesBack": 0.0,
@@ -4137,21 +4139,21 @@
           "wins": 1
         },
         "overall": {
-          "gamesBack": 2.0,
+          "gamesBack": 1.0,
           "losses": 4,
-          "percentage": 0.5,
-          "pointsAgainst": 1096.6799999999998,
-          "pointsFor": 928.98,
+          "percentage": 0.5555555555555556,
+          "pointsAgainst": 1193.8799999999999,
+          "pointsFor": 1057.52,
           "streakLength": 1,
-          "streakType": "LOSS",
+          "streakType": "WIN",
           "ties": 0,
-          "wins": 4
+          "wins": 5
         }
       },
-      "playoffSeed": 7,
-      "points_for": 928.98,
-      "points_against": 1096.6799999999998,
-      "wins": 4,
+      "playoffSeed": 6,
+      "points_for": 1057.52,
+      "points_against": 1193.8799999999999,
+      "wins": 5,
       "losses": 4,
       "ties": 0,
       "roster": [
@@ -4286,7 +4288,7 @@
           "name": "Carnell Tate",
           "position": "WR",
           "proTeam": "TEN",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Tate was selected by the Titans with the fourth overall pick of April's draft. He didn't see a ton of volume at Ohio State, but he was efficient, averaging 13.1 yards per target (first in this rookie WR class) and 3.06 yards per route run (third) in 2025. He also paced the class in YPT for his career (11.6) and caught an impressive 75% of his targets during the 39-game span. Tate underwhelmed in the 40-yard dash at the combine (4.53 at 192 pounds), but he measured in with big hands and a large wingspan. Wide receivers selected in the top 10 handle, on average, one-quarter of their team's targets and generally deliver WR2/3 fantasy production. Cam Ward's development will be key here, but Tate's combination of talent and projected target volume is enough to make him an appealing WR3.",
           "currentSeason": {
             "points": 77.3,
@@ -4617,43 +4619,43 @@
         },
         "division": {
           "gamesBack": 1.0,
-          "losses": 3,
-          "percentage": 0.625,
+          "losses": 4,
+          "percentage": 0.5555555555555556,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
-          "streakLength": 2,
-          "streakType": "WIN",
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 5
         },
         "home": {
           "gamesBack": 0.0,
-          "losses": 3,
-          "percentage": 0.25,
+          "losses": 4,
+          "percentage": 0.2,
           "pointsAgainst": 0.0,
           "pointsFor": 0.0,
           "streakLength": 1,
-          "streakType": "WIN",
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 1
         },
         "overall": {
           "gamesBack": 1.0,
-          "losses": 3,
-          "percentage": 0.625,
-          "pointsAgainst": 892.0400000000001,
-          "pointsFor": 1061.9199999999998,
-          "streakLength": 2,
-          "streakType": "WIN",
+          "losses": 4,
+          "percentage": 0.5555555555555556,
+          "pointsAgainst": 1034.94,
+          "pointsFor": 1174.1799999999998,
+          "streakLength": 1,
+          "streakType": "LOSS",
           "ties": 0,
           "wins": 5
         }
       },
-      "playoffSeed": 2,
-      "points_for": 1061.9199999999998,
-      "points_against": 892.0400000000001,
+      "playoffSeed": 3,
+      "points_for": 1174.1799999999998,
+      "points_against": 1034.94,
       "wins": 5,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
       "roster": [
         {
@@ -4854,7 +4856,7 @@
           "name": "Mike Evans",
           "position": "WR",
           "proTeam": "SF",
-          "injuryStatus": "OUT",
+          "injuryStatus": "QUESTIONABLE",
           "seasonOutlook": "Evans signed with the 49ers after spending his first 12 NFL seasons with the Buccaneers. The future Hall of Famer famously opened his career with 11 consecutive 1,000-yard seasons, but that streak ended when he missed nine games due to injury last season. Even when active, Evans wasn't his usual, productive self, delivering only one weekly fantasy finish better than 23rd and none better than 11th. Now 33 years old, Evans is past his prime, but he's in line for a decent chunk of the targets, especially near the goal line, in Kyle Shanahan's high-scoring offense. Evans is best valued as a touchdown-dependent WR3/flex with more value in non-PPR formats.",
           "currentSeason": {
             "points": 89.0,
@@ -4946,8 +4948,8 @@
           "injuryStatus": "ACTIVE",
           "seasonOutlook": null,
           "currentSeason": {
-            "points": 80.0,
-            "pointsPerGame": 11.428571428571429,
+            "points": 89.0,
+            "pointsPerGame": 11.125,
             "stats": {}
           },
           "priorSeason": {
@@ -5713,65 +5715,65 @@
       "playoffTierType": "NONE",
       "home": {
         "teamId": 6,
-        "totalPoints": 0.0
+        "totalPoints": 133.82
       },
       "away": {
         "teamId": 1,
-        "totalPoints": 0.0
+        "totalPoints": 135.92
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 9,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 3,
-        "totalPoints": 0.0
+        "totalPoints": 147.88
       },
       "away": {
         "teamId": 2,
-        "totalPoints": 0.0
+        "totalPoints": 102.06
       },
-      "winner": "UNDECIDED"
+      "winner": "HOME"
     },
     {
       "matchupPeriodId": 9,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 10,
-        "totalPoints": 0.0
+        "totalPoints": 112.26
       },
       "away": {
         "teamId": 4,
-        "totalPoints": 0.0
+        "totalPoints": 142.9
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 9,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 5,
-        "totalPoints": 0.0
+        "totalPoints": 97.2
       },
       "away": {
         "teamId": 9,
-        "totalPoints": 0.0
+        "totalPoints": 128.54
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 9,
       "playoffTierType": "NONE",
       "home": {
         "teamId": 8,
-        "totalPoints": 0.0
+        "totalPoints": 114.98
       },
       "away": {
         "teamId": 7,
-        "totalPoints": 0.0
+        "totalPoints": 134.64
       },
-      "winner": "UNDECIDED"
+      "winner": "AWAY"
     },
     {
       "matchupPeriodId": 10,
@@ -6107,7 +6109,7 @@
     "activatedDate": 1786630093003,
     "createdAsLeagueType": 3,
     "currentLeagueType": 0,
-    "currentMatchupPeriod": 9,
+    "currentMatchupPeriod": 10,
     "finalScoringPeriod": 17,
     "firstScoringPeriod": 1,
     "isActive": true,
@@ -6117,13 +6119,13 @@
     "isToBeDeleted": false,
     "isViewable": false,
     "isWaiverOrderEdited": false,
-    "latestScoringPeriod": 9,
+    "latestScoringPeriod": 10,
     "previousSeasons": [],
-    "requestedMatchupPeriodId": 9,
-    "standingsUpdateDate": 1794212341226,
+    "requestedMatchupPeriodId": 10,
+    "standingsUpdateDate": 1794301637044,
     "teamsJoined": 10,
-    "transactionScoringPeriod": 9,
-    "waiverLastExecutionDate": 1794212341154,
+    "transactionScoringPeriod": 10,
+    "waiverLastExecutionDate": 1794301636928,
     "waiverProcessStatus": {
       "2026-09-16T07:11:50.770+00:00": 2,
       "2026-09-23T07:53:44.335+00:00": 5,

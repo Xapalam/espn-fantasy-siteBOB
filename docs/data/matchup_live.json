@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:59:35.838310+00:00",
+  "generatedAt": "2026-11-11T16:01:31.407288+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 10,
   "matchups": [
@@ -9,7 +9,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 93.7,
-        "winProbability": 0.42,
+        "winProbability": 0.33,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
@@ -26,18 +26,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 107.4,
-        "winProbability": 0.58,
+        "projectedFinal": 127.0,
+        "winProbability": 0.67,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
           "Josh Allen",
           "Quinshon Judkins",
-          "Rome Odunze",
+          "Tony Pollard",
           "Ka'imi Fairbairn",
           "Seahawks D/ST",
-          "Tre Tucker",
-          "Braelon Allen"
+          "Deebo Samuel Sr.",
+          "Jordan Addison"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -96,7 +96,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 97.7,
-        "winProbability": 0.49,
+        "winProbability": 0.44,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -113,17 +113,17 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 98.9,
-        "winProbability": 0.51,
+        "projectedFinal": 107.8,
+        "winProbability": 0.56,
         "yetToPlay": [
-          "Puka Nacua",
           "Ashton Jeanty",
           "Javonte Williams",
           "Tetairoa McMillan",
           "Patrick Mahomes",
           "Travis Kelce",
           "Zach Charbonnet",
-          "Tyler Bass"
+          "Tyler Bass",
+          "Konata Mumpfield"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -181,8 +181,8 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 120.2,
-        "winProbability": 0.53,
+        "projectedFinal": 123.0,
+        "winProbability": 0.54,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
@@ -191,8 +191,8 @@
           "Parker Washington",
           "Brock Purdy",
           "Spencer Shrader",
-          "Chiefs D/ST",
-          "Hunter Henry"
+          "Hunter Henry",
+          "Ravens D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -201,7 +201,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 115.1,
-        "winProbability": 0.47,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T16:20:50.408583+00:00",
+  "generatedAt": "2026-11-11T11:59:35.838310+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 10,
   "matchups": [
@@ -8,8 +8,8 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 106.9,
-        "winProbability": 0.5,
+        "projectedFinal": 93.7,
+        "winProbability": 0.42,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
@@ -18,7 +18,6 @@
           "Denzel Boston",
           "Ollie Gordon II",
           "Jonah Coleman",
-          "Malik Willis",
           "Bills D/ST"
         ],
         "worstMistake": null,
@@ -28,7 +27,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 107.4,
-        "winProbability": 0.5,
+        "winProbability": 0.58,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -53,7 +52,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 135.5,
-        "winProbability": 0.54,
+        "winProbability": 0.49,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
@@ -71,8 +70,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 126.5,
-        "winProbability": 0.46,
+        "projectedFinal": 136.8,
+        "winProbability": 0.51,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -81,8 +80,8 @@
           "Isaiah Likely",
           "Matthew Golden",
           "Matthew Stafford",
-          "Chase McLaughlin",
-          "Bengals D/ST"
+          "Jason Sanders",
+          "Packers D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -96,8 +95,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 103.7,
-        "winProbability": 0.54,
+        "projectedFinal": 97.7,
+        "winProbability": 0.49,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -106,8 +105,7 @@
           "Joe Burrow",
           "George Kittle",
           "Chuba Hubbard",
-          "Dominic Zvada",
-          "Giants D/ST"
+          "Dominic Zvada"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -115,18 +113,17 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 96.7,
-        "winProbability": 0.46,
+        "projectedFinal": 98.9,
+        "winProbability": 0.51,
         "yetToPlay": [
           "Puka Nacua",
           "Ashton Jeanty",
           "Javonte Williams",
           "Tetairoa McMillan",
-          "Stefon Diggs",
           "Patrick Mahomes",
           "Travis Kelce",
-          "Tyler Bass",
-          "Bears D/ST"
+          "Zach Charbonnet",
+          "Tyler Bass"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -141,7 +138,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 119.5,
-        "winProbability": 0.61,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -159,18 +156,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 100.4,
-        "winProbability": 0.39,
+        "projectedFinal": 118.6,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
-          "Bucky Irving",
           "Jayden Daniels",
+          "Jaylen Warren",
           "Tucker Kraft",
           "Will Reichard",
-          "Tyler Allgeier",
-          "Jaguars D/ST",
-          "Xavier Worthy"
+          "Blake Corum",
+          "Omar Cooper Jr.",
+          "Jaguars D/ST"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -184,7 +181,7 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 120.8,
+        "projectedFinal": 120.2,
         "winProbability": 0.53,
         "yetToPlay": [
           "James Cook III",
@@ -203,7 +200,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 115.4,
+        "projectedFinal": 115.1,
         "winProbability": 0.47,
         "yetToPlay": [
           "Christian McCaffrey",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:01:31.407288+00:00",
+  "generatedAt": "2026-11-12T13:01:38.767211+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 10,
   "matchups": [
@@ -8,8 +8,8 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 93.7,
-        "winProbability": 0.33,
+        "projectedFinal": 108.5,
+        "winProbability": 0.41,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
@@ -18,7 +18,8 @@
           "Denzel Boston",
           "Ollie Gordon II",
           "Jonah Coleman",
-          "Bills D/ST"
+          "Bills D/ST",
+          "Geno Smith"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -27,7 +28,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 127.0,
-        "winProbability": 0.67,
+        "winProbability": 0.59,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -51,7 +52,7 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 135.5,
+        "projectedFinal": 135.6,
         "winProbability": 0.49,
         "yetToPlay": [
           "Ja'Marr Chase",
@@ -70,7 +71,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 136.8,
+        "projectedFinal": 138.1,
         "winProbability": 0.51,
         "yetToPlay": [
           "Jonathan Taylor",
@@ -79,7 +80,7 @@
           "Bhayshul Tuten",
           "Isaiah Likely",
           "Matthew Golden",
-          "Matthew Stafford",
+          "C.J. Stroud",
           "Jason Sanders",
           "Packers D/ST"
         ],
@@ -113,7 +114,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 107.8,
+        "projectedFinal": 107.9,
         "winProbability": 0.56,
         "yetToPlay": [
           "Ashton Jeanty",
@@ -200,7 +201,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 115.1,
+        "projectedFinal": 115.2,
         "winProbability": 0.46,
         "yetToPlay": [
           "Christian McCaffrey",

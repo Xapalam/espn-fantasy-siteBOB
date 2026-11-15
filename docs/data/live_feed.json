@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:27:00.333470+00:00",
+  "generatedAt": "2026-11-15T15:33:30.296846+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 10,
   "events": [
@@ -9,8 +9,26 @@
       "player": "Stefon Diggs",
       "position": "WR",
       "actual": 20.3,
-      "projected": 10.27308152,
+      "projected": 10.26930984,
       "line": "espn88256878 benched Stefon Diggs, who scored 20.3 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "kconley5",
+      "player": "Drake Maye",
+      "position": "QB",
+      "actual": 3.02,
+      "projected": 21.95790786,
+      "line": "Drake Maye bombed his projection: 3.0 actual vs 22.0 projected, playing for kconley5."
+    },
+    {
+      "type": "under",
+      "owner": "82Cole47",
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "actual": 7.3,
+      "projected": 23.85862971,
+      "line": "Jahmyr Gibbs bombed his projection: 7.3 actual vs 23.9 projected, playing for 82Cole47."
     },
     {
       "type": "over",
@@ -18,7 +36,7 @@
       "player": "Cam Skattebo",
       "position": "RB",
       "actual": 27.2,
-      "projected": 11.51935438,
+      "projected": 11.51943902,
       "line": "Cam Skattebo crushed his projection: 27.2 actual vs 11.5 projected, playing for ESPNFAN6437471416."
     },
     {
@@ -27,8 +45,44 @@
       "player": "Isaiah Likely",
       "position": "TE",
       "actual": 27.7,
-      "projected": 12.21402869,
+      "projected": 12.21443213,
       "line": "Isaiah Likely crushed his projection: 27.7 actual vs 12.2 projected, playing for Eric Brotmann."
+    },
+    {
+      "type": "under",
+      "owner": "82Cole47",
+      "player": "A.J. Brown",
+      "position": "WR",
+      "actual": 0.0,
+      "projected": 12.54920724,
+      "line": "A.J. Brown bombed his projection: 0.0 actual vs 12.5 projected, playing for 82Cole47."
+    },
+    {
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual": 12.42,
+      "projected": 17.28800458,
+      "line": "kconley5 benched Jared Goff, who scored 12.4 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual": 0.0,
+      "projected": 12.08784156,
+      "line": "Jameson Williams bombed his projection: 0.0 actual vs 12.1 projected, playing for RGM2215."
+    },
+    {
+      "type": "under",
+      "owner": "espnfan7338848211",
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual": 0.0,
+      "projected": 11.43847949,
+      "line": "Sam LaPorta bombed his projection: 0.0 actual vs 11.4 projected, playing for espnfan7338848211."
     },
     {
       "type": "under",
@@ -36,17 +90,8 @@
       "player": "Malik Nabers",
       "position": "WR",
       "actual": 7.4,
-      "projected": 16.07015438,
+      "projected": 16.07071789,
       "line": "Malik Nabers bombed his projection: 7.4 actual vs 16.1 projected, playing for RGM2215."
-    },
-    {
-      "type": "under",
-      "owner": "RGM2215",
-      "player": "Devin Singletary",
-      "position": "RB",
-      "actual": 0.3,
-      "projected": 7.37917239,
-      "line": "Devin Singletary bombed his projection: 0.3 actual vs 7.4 projected, playing for RGM2215."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:55:49.160983+00:00",
+  "generatedAt": "2026-11-15T12:07:24.981867+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 10,
   "matchups": [
@@ -8,8 +8,8 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 0.0,
-        "projectedFinal": 113.0,
-        "winProbability": 0.42,
+        "projectedFinal": 117.8,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
@@ -19,7 +19,7 @@
           "Ollie Gordon II",
           "Bills D/ST",
           "Geno Smith",
-          "Audric Estime"
+          "Dylan Sampson"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -27,8 +27,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 128.9,
-        "winProbability": 0.58,
+        "projectedFinal": 128.8,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -52,18 +52,18 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 134.1,
-        "winProbability": 0.41,
+        "projectedFinal": 123.9,
+        "winProbability": 0.36,
         "yetToPlay": [
           "Ja'Marr Chase",
-          "Kenneth Walker III",
           "Drake London",
           "Zay Flowers",
           "Sam LaPorta",
           "Rams D/ST",
           "Cam Little",
           "Tyler Shough",
-          "Alvin Kamara"
+          "Alvin Kamara",
+          "Emmett Johnson"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -71,8 +71,8 @@
       },
       "away": {
         "score": 27.7,
-        "projectedFinal": 153.1,
-        "winProbability": 0.59,
+        "projectedFinal": 153.2,
+        "winProbability": 0.64,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -105,7 +105,7 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 0.0,
-        "projectedFinal": 122.8,
+        "projectedFinal": 122.9,
         "winProbability": 0.55,
         "yetToPlay": [
           "Amon-Ra St. Brown",
@@ -124,17 +124,17 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 112.6,
+        "projectedFinal": 114.0,
         "winProbability": 0.45,
         "yetToPlay": [
           "Ashton Jeanty",
           "Javonte Williams",
           "Tetairoa McMillan",
-          "Patrick Mahomes",
           "Travis Kelce",
           "Zach Charbonnet",
+          "Jalen Coker",
           "Tyler Bass",
-          "Konata Mumpfield",
+          "Jordan Love",
           "Chiefs D/ST"
         ],
         "worstMistake": null,
@@ -149,7 +149,7 @@
       "awayOwner": "ESPNfan83795608",
       "home": {
         "score": 0.0,
-        "projectedFinal": 118.1,
+        "projectedFinal": 118.2,
         "winProbability": 0.48,
         "yetToPlay": [
           "Bijan Robinson",
@@ -202,8 +202,8 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 27.2,
-        "projectedFinal": 136.4,
-        "winProbability": 0.74,
+        "projectedFinal": 137.0,
+        "winProbability": 0.71,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
@@ -230,8 +230,8 @@
       },
       "away": {
         "score": 7.7,
-        "projectedFinal": 93.8,
-        "winProbability": 0.26,
+        "projectedFinal": 99.1,
+        "winProbability": 0.29,
         "yetToPlay": [
           "Christian McCaffrey",
           "Tyler Warren",

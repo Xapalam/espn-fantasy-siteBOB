@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:33:31.733272+00:00",
+  "generatedAt": "2026-11-16T13:00:13.701197+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 10,
   "matchups": [
@@ -7,99 +7,93 @@
       "homeOwner": "Doakes22",
       "awayOwner": "82Cole47",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 117.8,
-        "winProbability": 0.48,
-        "yetToPlay": [
-          "Justin Jefferson",
-          "Brock Bowers",
-          "Christian Watson",
-          "Brandon Aubrey",
-          "Denzel Boston",
-          "Ollie Gordon II",
-          "Bills D/ST",
-          "Geno Smith",
-          "Dylan Sampson"
-        ],
-        "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
-      },
-      "away": {
-        "score": 7.3,
-        "projectedFinal": 122.5,
-        "winProbability": 0.52,
-        "yetToPlay": [
-          "Trey McBride",
-          "Josh Allen",
-          "Quinshon Judkins",
-          "Tony Pollard",
-          "Ka'imi Fairbairn",
-          "Seahawks D/ST",
-          "Deebo Samuel Sr."
-        ],
-        "worstMistake": null,
+        "score": 80.6,
+        "projectedFinal": 80.6,
+        "winProbability": 0.0,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "George Pickens",
+          "benchedPoints": 43.5,
+          "started": "Denzel Boston",
+          "startedPoints": 2.6,
+          "margin": 40.9
+        },
         "bestStarter": {
-          "name": "A.J. Brown",
-          "actual": 0.0,
-          "projected": 12.5,
-          "delta": -12.5
+          "name": "Bills D/ST",
+          "actual": 10.0,
+          "projected": 6.2,
+          "delta": 3.8
         },
         "worstStarter": {
+          "name": "Brock Bowers",
+          "actual": 3.8,
+          "projected": 15.4,
+          "delta": -11.6
+        }
+      },
+      "away": {
+        "score": 164.8,
+        "projectedFinal": 164.8,
+        "winProbability": 1.0,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Adonai Mitchell",
+          "benchedPoints": 8.9,
+          "started": "A.J. Brown",
+          "startedPoints": 4.7,
+          "margin": 4.2
+        },
+        "bestStarter": {
           "name": "Jahmyr Gibbs",
-          "actual": 7.3,
+          "actual": 44.2,
           "projected": 23.9,
-          "delta": -16.6
+          "delta": 20.3
+        },
+        "worstStarter": {
+          "name": "A.J. Brown",
+          "actual": 4.7,
+          "projected": 12.5,
+          "delta": -7.8
         }
       },
       "familyName": null,
-      "analysis": "82Cole47 leads Doakes22 by 7.3."
+      "analysis": "82Cole47 leads Doakes22 by 84.2."
     },
     {
       "homeOwner": "espnfan7338848211",
       "awayOwner": "Eric Brotmann",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 119.6,
-        "winProbability": 0.34,
+        "score": 150.1,
+        "projectedFinal": 164.7,
+        "winProbability": 0.99,
         "yetToPlay": [
-          "Ja'Marr Chase",
-          "Drake London",
-          "Zay Flowers",
-          "Rams D/ST",
-          "Cam Little",
-          "Tyler Shough",
-          "Alvin Kamara",
-          "Emmett Johnson"
+          "Zay Flowers"
         ],
-        "worstMistake": null,
+        "worstMistake": {
+          "benched": "Vikings D/ST",
+          "benchedPoints": 21.0,
+          "started": "Rams D/ST",
+          "startedPoints": 16.0,
+          "margin": 5.0
+        },
         "bestStarter": {
-          "name": "Sam LaPorta",
-          "actual": 0.0,
-          "projected": 11.4,
-          "delta": -11.4
+          "name": "Emmett Johnson",
+          "actual": 35.1,
+          "projected": 18.3,
+          "delta": 16.8
         },
         "worstStarter": {
           "name": "Sam LaPorta",
-          "actual": 0.0,
+          "actual": 2.6,
           "projected": 11.4,
-          "delta": -11.4
+          "delta": -8.8
         }
       },
       "away": {
-        "score": 27.7,
-        "projectedFinal": 153.2,
-        "winProbability": 0.66,
-        "yetToPlay": [
-          "Jonathan Taylor",
-          "CeeDee Lamb",
-          "Kyren Williams",
-          "Bhayshul Tuten",
-          "Matthew Golden",
-          "C.J. Stroud",
-          "Jason Sanders",
-          "Packers D/ST"
-        ],
+        "score": 136.1,
+        "projectedFinal": 136.1,
+        "winProbability": 0.01,
+        "yetToPlay": [],
         "worstMistake": null,
         "bestStarter": {
           "name": "Isaiah Likely",
@@ -108,95 +102,93 @@
           "delta": 15.5
         },
         "worstStarter": {
-          "name": "Isaiah Likely",
-          "actual": 27.7,
-          "projected": 12.2,
-          "delta": 15.5
+          "name": "Kyren Williams",
+          "actual": 5.2,
+          "projected": 18.6,
+          "delta": -13.4
         }
       },
       "familyName": null,
-      "analysis": "Eric Brotmann leads espnfan7338848211 by 27.7."
+      "analysis": "espnfan7338848211 leads Eric Brotmann by 14.0."
     },
     {
       "homeOwner": "SteelerFan9828",
       "awayOwner": "espn88256878",
       "home": {
-        "score": 14.3,
-        "projectedFinal": 129.6,
-        "winProbability": 0.6,
-        "yetToPlay": [
-          "Breece Hall",
-          "Rico Dowdle",
-          "George Kittle",
-          "Steelers D/ST",
-          "Chris Boswell",
-          "DK Metcalf",
-          "Chuba Hubbard",
-          "Bryce Young"
-        ],
-        "worstMistake": null,
+        "score": 115.1,
+        "projectedFinal": 115.1,
+        "winProbability": 1.0,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Joe Burrow",
+          "benchedPoints": 33.2,
+          "started": "Bryce Young",
+          "startedPoints": 8.1,
+          "margin": 25.1
+        },
         "bestStarter": {
-          "name": "Amon-Ra St. Brown",
-          "actual": 14.3,
-          "projected": 20.4,
-          "delta": -6.1
+          "name": "Chuba Hubbard",
+          "actual": 34.2,
+          "projected": 20.0,
+          "delta": 14.2
         },
         "worstStarter": {
-          "name": "Amon-Ra St. Brown",
-          "actual": 14.3,
-          "projected": 20.4,
-          "delta": -6.1
+          "name": "Steelers D/ST",
+          "actual": -7.0,
+          "projected": 5.5,
+          "delta": -12.5
         }
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 111.6,
-        "winProbability": 0.4,
-        "yetToPlay": [
-          "Ashton Jeanty",
-          "Javonte Williams",
-          "Tetairoa McMillan",
-          "Travis Kelce",
-          "Zach Charbonnet",
-          "Tyler Bass",
-          "Jordan Love",
-          "Konata Mumpfield",
-          "Chiefs D/ST"
-        ],
-        "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "score": 76.9,
+        "projectedFinal": 76.9,
+        "winProbability": 0.0,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Patrick Mahomes",
+          "benchedPoints": 35.4,
+          "started": "Jordan Love",
+          "startedPoints": 10.8,
+          "margin": 24.6
+        },
+        "bestStarter": {
+          "name": "Chiefs D/ST",
+          "actual": 9.0,
+          "projected": 4.9,
+          "delta": 4.1
+        },
+        "worstStarter": {
+          "name": "Tetairoa McMillan",
+          "actual": 6.5,
+          "projected": 16.0,
+          "delta": -9.5
+        }
       },
       "familyName": null,
-      "analysis": "SteelerFan9828 leads espn88256878 by 14.3."
+      "analysis": "SteelerFan9828 leads espn88256878 by 38.2."
     },
     {
       "homeOwner": "kconley5",
       "awayOwner": "ESPNfan83795608",
       "home": {
-        "score": 6.4,
-        "projectedFinal": 109.1,
-        "winProbability": 0.43,
+        "score": 93.2,
+        "projectedFinal": 111.4,
+        "winProbability": 0.73,
         "yetToPlay": [
-          "Bijan Robinson",
-          "Derrick Henry",
-          "Nico Collins",
-          "Tee Higgins",
-          "Harold Fannin Jr.",
-          "Broncos D/ST"
+          "Derrick Henry"
         ],
         "worstMistake": {
           "benched": "Jared Goff",
-          "benchedPoints": 12.4,
+          "benchedPoints": 20.4,
           "started": "Drake Maye",
           "startedPoints": 3.0,
-          "margin": 9.4
+          "margin": 17.4
         },
         "bestStarter": {
-          "name": "Jake Bates",
-          "actual": 2.0,
-          "projected": 9.3,
-          "delta": -7.3
+          "name": "Nico Collins",
+          "actual": 24.4,
+          "projected": 13.7,
+          "delta": 10.7
         },
         "worstStarter": {
           "name": "Drake Maye",
@@ -206,53 +198,50 @@
         }
       },
       "away": {
-        "score": 20.8,
-        "projectedFinal": 121.1,
-        "winProbability": 0.57,
-        "yetToPlay": [
-          "Jaxon Smith-Njigba",
-          "Chris Olave",
-          "Jaylen Warren",
-          "Tucker Kraft",
-          "Will Reichard",
-          "Blake Corum",
-          "Jaguars D/ST",
-          "Khalil Shakir"
-        ],
-        "worstMistake": null,
+        "score": 105.8,
+        "projectedFinal": 105.8,
+        "winProbability": 0.27,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Khalil Shakir",
+          "benchedPoints": 7.5,
+          "started": "Omar Cooper Jr.",
+          "startedPoints": 0.0,
+          "margin": 7.5
+        },
         "bestStarter": {
-          "name": "Jayden Daniels",
-          "actual": 20.8,
-          "projected": 17.7,
-          "delta": 3.1
+          "name": "Blake Corum",
+          "actual": 20.9,
+          "projected": 11.6,
+          "delta": 9.3
         },
         "worstStarter": {
-          "name": "Jayden Daniels",
-          "actual": 20.8,
-          "projected": 17.7,
-          "delta": 3.1
+          "name": "Chris Olave",
+          "actual": 6.0,
+          "projected": 15.8,
+          "delta": -9.8
         }
       },
       "familyName": null,
-      "analysis": "ESPNfan83795608 leads kconley5 by 14.4."
+      "analysis": "ESPNfan83795608 leads kconley5 by 12.6."
     },
     {
       "homeOwner": "ESPNFAN6437471416",
       "awayOwner": "RGM2215",
       "home": {
-        "score": 31.4,
-        "projectedFinal": 137.9,
-        "winProbability": 0.75,
+        "score": 162.5,
+        "projectedFinal": 170.2,
+        "winProbability": 0.99,
         "yetToPlay": [
-          "James Cook III",
-          "Chase Brown",
-          "Rashee Rice",
-          "Parker Washington",
-          "Brock Purdy",
-          "Spencer Shrader",
           "Ravens D/ST"
         ],
-        "worstMistake": null,
+        "worstMistake": {
+          "benched": "DJ Moore",
+          "benchedPoints": 19.4,
+          "started": "Rashee Rice",
+          "startedPoints": 13.2,
+          "margin": 6.2
+        },
         "bestStarter": {
           "name": "Cam Skattebo",
           "actual": 27.2,
@@ -267,33 +256,32 @@
         }
       },
       "away": {
-        "score": 7.7,
-        "projectedFinal": 94.5,
-        "winProbability": 0.25,
-        "yetToPlay": [
-          "Christian McCaffrey",
-          "Tyler Warren",
-          "Dak Prescott",
-          "Woody Marks",
-          "Jason Myers",
-          "Texans D/ST"
-        ],
-        "worstMistake": null,
+        "score": 114.3,
+        "projectedFinal": 114.3,
+        "winProbability": 0.01,
+        "yetToPlay": [],
+        "worstMistake": {
+          "benched": "Josh Downs",
+          "benchedPoints": 15.3,
+          "started": "Malik Nabers",
+          "startedPoints": 7.4,
+          "margin": 7.9
+        },
         "bestStarter": {
-          "name": "Devin Singletary",
-          "actual": 0.3,
-          "projected": 7.4,
-          "delta": -7.1
+          "name": "Christian McCaffrey",
+          "actual": 46.3,
+          "projected": 21.8,
+          "delta": 24.5
         },
         "worstStarter": {
-          "name": "Jameson Williams",
-          "actual": 0.0,
-          "projected": 12.1,
-          "delta": -12.1
+          "name": "Malik Nabers",
+          "actual": 7.4,
+          "projected": 16.1,
+          "delta": -8.7
         }
       },
       "familyName": null,
-      "analysis": "ESPNFAN6437471416 leads RGM2215 by 23.7."
+      "analysis": "ESPNFAN6437471416 leads RGM2215 by 48.2."
     }
   ],
   "recentLines": [

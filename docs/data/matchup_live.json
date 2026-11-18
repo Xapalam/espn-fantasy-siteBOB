@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:31:52.015157+00:00",
+  "generatedAt": "2026-11-18T13:16:33.470777+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 11,
   "matchups": [
@@ -52,7 +52,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 119.7,
-        "winProbability": 0.49,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -70,8 +70,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 120.9,
-        "winProbability": 0.51,
+        "projectedFinal": 119.8,
+        "winProbability": 0.5,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -95,15 +95,15 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 0.0,
-        "projectedFinal": 100.1,
-        "winProbability": 0.79,
+        "projectedFinal": 110.6,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
           "Kyren Williams",
           "Bhayshul Tuten",
           "Isaiah Likely",
-          "Matthew Golden",
+          "Tank Dell",
           "C.J. Stroud",
           "Jason Sanders",
           "Packers D/ST"
@@ -114,18 +114,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 58.8,
-        "winProbability": 0.21,
+        "projectedFinal": 102.0,
+        "winProbability": 0.45,
         "yetToPlay": [
-          "Bijan Robinson",
           "Derrick Henry",
           "Nico Collins",
           "Tee Higgins",
-          "Drake Maye",
+          "David Montgomery",
           "Harold Fannin Jr.",
-          "DeMario Douglas",
-          "Jake Bates",
-          "Colts D/ST"
+          "Jakobi Meyers",
+          "Jared Goff",
+          "Broncos D/ST",
+          "Jake Bates"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -183,8 +183,8 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 108.3,
-        "winProbability": 0.62,
+        "projectedFinal": 107.7,
+        "winProbability": 0.61,
         "yetToPlay": [
           "Omarion Hampton",
           "Chris Olave",
@@ -203,7 +203,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 88.5,
-        "winProbability": 0.38,
+        "winProbability": 0.39,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",

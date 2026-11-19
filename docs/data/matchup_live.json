@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:40:18.782979+00:00",
+  "generatedAt": "2026-11-19T17:15:05.944254+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 11,
   "matchups": [
@@ -8,8 +8,8 @@
       "awayOwner": "Doakes22",
       "home": {
         "score": 0.0,
-        "projectedFinal": 129.9,
-        "winProbability": 0.46,
+        "projectedFinal": 104.2,
+        "winProbability": 0.33,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Kenneth Walker III",
@@ -28,7 +28,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 138.4,
-        "winProbability": 0.54,
+        "winProbability": 0.67,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
@@ -52,8 +52,8 @@
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 0.0,
-        "projectedFinal": 119.8,
-        "winProbability": 0.5,
+        "projectedFinal": 120.5,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -71,18 +71,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 119.9,
-        "winProbability": 0.5,
+        "projectedFinal": 130.5,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
-          "Rico Dowdle",
+          "Carnell Tate",
+          "Joe Burrow",
           "George Kittle",
           "Steelers D/ST",
           "Chris Boswell",
           "DK Metcalf",
-          "Chuba Hubbard",
-          "Bryce Young"
+          "Chuba Hubbard"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -97,7 +97,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 110.8,
-        "winProbability": 0.55,
+        "winProbability": 0.51,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
@@ -115,18 +115,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 101.9,
-        "winProbability": 0.45,
+        "projectedFinal": 109.9,
+        "winProbability": 0.49,
         "yetToPlay": [
           "Derrick Henry",
           "Nico Collins",
           "Tee Higgins",
           "David Montgomery",
-          "Harold Fannin Jr.",
           "Jakobi Meyers",
           "Jared Goff",
           "Broncos D/ST",
-          "Jake Bates"
+          "Jake Bates",
+          "Brenton Strange"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -140,7 +140,7 @@
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 0.0,
-        "projectedFinal": 124.5,
+        "projectedFinal": 124.8,
         "winProbability": 0.51,
         "yetToPlay": [
           "Ashton Jeanty",
@@ -184,18 +184,18 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 116.7,
-        "winProbability": 0.66,
+        "projectedFinal": 115.0,
+        "winProbability": 0.65,
         "yetToPlay": [
           "Omarion Hampton",
           "Chris Olave",
           "Bucky Irving",
-          "Mike Evans",
           "Jaylen Warren",
           "Will Reichard",
           "Caleb Williams",
           "Bears D/ST",
-          "Chig Okonkwo"
+          "Chig Okonkwo",
+          "Khalil Shakir"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -204,7 +204,7 @@
       "away": {
         "score": 0.0,
         "projectedFinal": 88.1,
-        "winProbability": 0.34,
+        "winProbability": 0.35,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",

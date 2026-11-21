@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:53:32.502003+00:00",
+  "generatedAt": "2026-11-21T12:52:41.291314+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 11,
   "matchups": [
@@ -52,7 +52,7 @@
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 6.0,
-        "projectedFinal": 122.4,
+        "projectedFinal": 121.1,
         "winProbability": 0.46,
         "yetToPlay": [
           "Jahmyr Gibbs",
@@ -80,7 +80,7 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 130.5,
+        "projectedFinal": 129.4,
         "winProbability": 0.54,
         "yetToPlay": [
           "Amon-Ra St. Brown",
@@ -105,7 +105,7 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 32.9,
-        "projectedFinal": 110.7,
+        "projectedFinal": 110.6,
         "winProbability": 0.5,
         "yetToPlay": [
           "CeeDee Lamb",
@@ -131,7 +131,7 @@
       },
       "away": {
         "score": 30.2,
-        "projectedFinal": 110.7,
+        "projectedFinal": 110.8,
         "winProbability": 0.5,
         "yetToPlay": [
           "Derrick Henry",
@@ -164,8 +164,8 @@
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 0.0,
-        "projectedFinal": 124.8,
-        "winProbability": 0.56,
+        "projectedFinal": 123.6,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Ashton Jeanty",
           "Javonte Williams",
@@ -183,8 +183,8 @@
       },
       "away": {
         "score": 1.0,
-        "projectedFinal": 113.8,
-        "winProbability": 0.44,
+        "projectedFinal": 113.9,
+        "winProbability": 0.45,
         "yetToPlay": [
           "James Cook III",
           "Chase Brown",
@@ -217,7 +217,7 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 115.0,
+        "projectedFinal": 115.8,
         "winProbability": 0.65,
         "yetToPlay": [
           "Omarion Hampton",

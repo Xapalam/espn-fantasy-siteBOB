@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:52:41.291314+00:00",
+  "generatedAt": "2026-11-21T16:02:18.632442+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 11,
   "matchups": [
@@ -105,7 +105,7 @@
       "awayOwner": "kconley5",
       "home": {
         "score": 32.9,
-        "projectedFinal": 110.6,
+        "projectedFinal": 110.7,
         "winProbability": 0.5,
         "yetToPlay": [
           "CeeDee Lamb",

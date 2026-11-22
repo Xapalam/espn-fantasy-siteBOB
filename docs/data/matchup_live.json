@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:45:02.884205+00:00",
+  "generatedAt": "2026-11-22T16:09:23.958214+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 11,
   "matchups": [
@@ -8,7 +8,7 @@
       "awayOwner": "Doakes22",
       "home": {
         "score": 0.0,
-        "projectedFinal": 124.4,
+        "projectedFinal": 124.3,
         "winProbability": 0.43,
         "yetToPlay": [
           "Ja'Marr Chase",
@@ -52,8 +52,8 @@
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 6.0,
-        "projectedFinal": 121.1,
-        "winProbability": 0.46,
+        "projectedFinal": 123.4,
+        "winProbability": 0.47,
         "yetToPlay": [
           "Jahmyr Gibbs",
           "Trey McBride",
@@ -80,8 +80,8 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 129.4,
-        "winProbability": 0.54,
+        "projectedFinal": 130.1,
+        "winProbability": 0.53,
         "yetToPlay": [
           "Amon-Ra St. Brown",
           "Breece Hall",
@@ -164,7 +164,7 @@
       "awayOwner": "ESPNFAN6437471416",
       "home": {
         "score": 0.0,
-        "projectedFinal": 123.6,
+        "projectedFinal": 123.8,
         "winProbability": 0.55,
         "yetToPlay": [
           "Ashton Jeanty",
@@ -217,15 +217,15 @@
       "awayOwner": "RGM2215",
       "home": {
         "score": 0.0,
-        "projectedFinal": 115.8,
-        "winProbability": 0.65,
+        "projectedFinal": 116.4,
+        "winProbability": 0.54,
         "yetToPlay": [
           "Omarion Hampton",
           "Chris Olave",
           "Bucky Irving",
+          "Jayden Daniels",
           "Jaylen Warren",
           "Will Reichard",
-          "Caleb Williams",
           "Bears D/ST",
           "Chig Okonkwo",
           "Khalil Shakir"
@@ -236,15 +236,15 @@
       },
       "away": {
         "score": 18.2,
-        "projectedFinal": 91.0,
-        "winProbability": 0.35,
+        "projectedFinal": 108.7,
+        "winProbability": 0.46,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
+          "Travis Etienne Jr.",
           "Jameson Williams",
           "Dak Prescott",
-          "Jason Myers",
-          "Devin Singletary"
+          "Cameron Dicker"
         ],
         "worstMistake": null,
         "bestStarter": {

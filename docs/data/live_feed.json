@@ -1,43 +1,97 @@
 {
-  "generatedAt": "2026-11-20T13:22:44.623932+00:00",
+  "generatedAt": "2026-11-23T15:05:56.608611+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 11,
   "events": [
     {
-      "type": "under",
-      "owner": "Eric Brotmann",
-      "player": "Jonathan Taylor",
-      "position": "RB",
-      "actual": 6.7,
-      "projected": 16.62147757,
-      "line": "Jonathan Taylor bombed his projection: 6.7 actual vs 16.6 projected, playing for Eric Brotmann."
+      "type": "benched",
+      "owner": "ESPNfan83795608",
+      "player": "Mike Evans",
+      "position": "WR",
+      "actual": 22.9,
+      "projected": 11.46978428,
+      "line": "ESPNfan83795608 benched Mike Evans, who scored 22.9 anyway."
     },
     {
-      "type": "under",
+      "type": "benched",
       "owner": "ESPNFAN6437471416",
-      "player": "Spencer Shrader",
+      "player": "Brock Purdy",
+      "position": "QB",
+      "actual": 22.2,
+      "projected": 17.57808886,
+      "line": "ESPNFAN6437471416 benched Brock Purdy, who scored 22.2 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "kconley5",
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "actual": 20.7,
+      "projected": 10.75702036,
+      "line": "kconley5 benched Ladd McConkey, who scored 20.7 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "SteelerFan9828",
+      "player": "Bryce Young",
+      "position": "QB",
+      "actual": 15.96,
+      "projected": 17.37171797,
+      "line": "SteelerFan9828 benched Bryce Young, who scored 16.0 anyway."
+    },
+    {
+      "type": "over",
+      "owner": "Doakes22",
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "actual": 34.9,
+      "projected": 19.38917572,
+      "line": "Jonah Coleman crushed his projection: 34.9 actual vs 19.4 projected, playing for Doakes22."
+    },
+    {
+      "type": "benched",
+      "owner": "SteelerFan9828",
+      "player": "Dominic Zvada",
       "position": "K",
-      "actual": 1.0,
-      "projected": 9.37616093,
-      "line": "Spencer Shrader bombed his projection: 1.0 actual vs 9.4 projected, playing for ESPNFAN6437471416."
+      "actual": 15.0,
+      "projected": 9.00069044,
+      "line": "SteelerFan9828 benched Dominic Zvada, who scored 15.0 anyway."
+    },
+    {
+      "type": "over",
+      "owner": "espn88256878",
+      "player": "Travis Kelce",
+      "position": "TE",
+      "actual": 25.4,
+      "projected": 11.33628498,
+      "line": "Travis Kelce crushed his projection: 25.4 actual vs 11.3 projected, playing for espn88256878."
     },
     {
       "type": "over",
       "owner": "RGM2215",
-      "player": "Texans D/ST",
-      "position": "D/ST",
-      "actual": 15.0,
-      "projected": 6.69778046,
-      "line": "Texans D/ST crushed his projection: 15.0 actual vs 6.7 projected, playing for RGM2215."
+      "player": "Dak Prescott",
+      "position": "QB",
+      "actual": 35.9,
+      "projected": 21.89148783,
+      "line": "Dak Prescott crushed his projection: 35.9 actual vs 21.9 projected, playing for RGM2215."
     },
     {
-      "type": "under",
-      "owner": "RGM2215",
-      "player": "Tyler Warren",
-      "position": "TE",
-      "actual": 3.2,
-      "projected": 8.64336712,
-      "line": "Tyler Warren bombed his projection: 3.2 actual vs 8.6 projected, playing for RGM2215."
+      "type": "over",
+      "owner": "espn88256878",
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "actual": 27.9,
+      "projected": 14.10675244,
+      "line": "Ashton Jeanty crushed his projection: 27.9 actual vs 14.1 projected, playing for espn88256878."
+    },
+    {
+      "type": "benched",
+      "owner": "Doakes22",
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "actual": 13.5,
+      "projected": 12.04731772,
+      "line": "Doakes22 benched Saquon Barkley, who scored 13.5 anyway."
     }
   ]
 }

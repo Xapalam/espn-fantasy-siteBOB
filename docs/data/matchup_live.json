@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:35:27.677433+00:00",
+  "generatedAt": "2026-11-26T14:08:35.241349+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
   "matchups": [
@@ -53,7 +53,7 @@
       "home": {
         "score": 0.0,
         "projectedFinal": 118.9,
-        "winProbability": 0.54,
+        "winProbability": 0.45,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
@@ -71,18 +71,18 @@
       },
       "away": {
         "score": 0.0,
-        "projectedFinal": 112.0,
-        "winProbability": 0.46,
+        "projectedFinal": 129.6,
+        "winProbability": 0.55,
         "yetToPlay": [
           "Ja'Marr Chase",
-          "Kenneth Walker III",
           "Drake London",
           "D'Andre Swift",
           "Zay Flowers",
           "Sam LaPorta",
           "Cam Little",
           "Tyler Shough",
-          "Vikings D/ST"
+          "Vikings D/ST",
+          "Emmett Johnson"
         ],
         "worstMistake": null,
         "bestStarter": null,
@@ -140,8 +140,8 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 0.0,
-        "projectedFinal": 110.9,
-        "winProbability": 0.45,
+        "projectedFinal": 110.8,
+        "winProbability": 0.42,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -158,53 +158,70 @@
         "worstStarter": null
       },
       "away": {
-        "score": 0.0,
-        "projectedFinal": 120.3,
-        "winProbability": 0.55,
+        "score": 21.4,
+        "projectedFinal": 124.8,
+        "winProbability": 0.58,
         "yetToPlay": [
           "Jonathan Taylor",
           "CeeDee Lamb",
           "Bhayshul Tuten",
           "Isaiah Likely",
-          "Tank Dell",
           "C.J. Stroud",
           "Jason Sanders",
-          "Ryan Flournoy",
           "Jets D/ST"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Kyren Williams",
+          "actual": 16.5,
+          "projected": 16.8,
+          "delta": -0.3
+        },
+        "worstStarter": {
+          "name": "Matthew Golden",
+          "actual": 4.9,
+          "projected": 16.7,
+          "delta": -11.8
+        }
       },
       "familyName": null,
-      "analysis": "RGM2215 leads Eric Brotmann by 0.0."
+      "analysis": "Eric Brotmann leads RGM2215 by 21.4."
     },
     {
       "homeOwner": "ESPNfan83795608",
       "awayOwner": "espn88256878",
       "home": {
-        "score": 0.0,
-        "projectedFinal": 132.7,
-        "winProbability": 0.58,
+        "score": 28.5,
+        "projectedFinal": 151.7,
+        "winProbability": 0.67,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
           "Bucky Irving",
           "Jayden Daniels",
           "Mike Evans",
-          "Jaylen Warren",
           "Will Reichard",
-          "Bears D/ST",
-          "Chig Okonkwo"
+          "Chig Okonkwo",
+          "Commanders D/ST"
         ],
         "worstMistake": null,
-        "bestStarter": null,
-        "worstStarter": null
+        "bestStarter": {
+          "name": "Blake Corum",
+          "actual": 28.5,
+          "projected": 13.8,
+          "delta": 14.7
+        },
+        "worstStarter": {
+          "name": "Blake Corum",
+          "actual": 28.5,
+          "projected": 13.8,
+          "delta": 14.7
+        }
       },
       "away": {
         "score": 0.0,
         "projectedFinal": 115.9,
-        "winProbability": 0.42,
+        "winProbability": 0.33,
         "yetToPlay": [
           "Ashton Jeanty",
           "Javonte Williams",
@@ -221,7 +238,7 @@
         "worstStarter": null
       },
       "familyName": null,
-      "analysis": "ESPNfan83795608 leads espn88256878 by 0.0."
+      "analysis": "ESPNfan83795608 leads espn88256878 by 28.5."
     }
   ],
   "recentLines": [

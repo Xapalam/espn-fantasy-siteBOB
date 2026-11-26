@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-11-24T15:03:50.089734+00:00",
+  "generatedAt": "2026-11-26T14:08:33.698305+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
-  "events": []
+  "events": [
+    {
+      "type": "benched",
+      "owner": "Doakes22",
+      "player": "Christian Watson",
+      "position": "WR",
+      "actual": 16.5,
+      "projected": 14.1208321,
+      "line": "Doakes22 benched Christian Watson, who scored 16.5 anyway."
+    },
+    {
+      "type": "over",
+      "owner": "ESPNfan83795608",
+      "player": "Blake Corum",
+      "position": "RB",
+      "actual": 28.5,
+      "projected": 13.82033861,
+      "line": "Blake Corum crushed his projection: 28.5 actual vs 13.8 projected, playing for ESPNfan83795608."
+    },
+    {
+      "type": "benched",
+      "owner": "espnfan7338848211",
+      "player": "Rams D/ST",
+      "position": "D/ST",
+      "actual": 12.0,
+      "projected": 7.80266507,
+      "line": "espnfan7338848211 benched Rams D/ST, who scored 12.0 anyway."
+    },
+    {
+      "type": "under",
+      "owner": "Eric Brotmann",
+      "player": "Matthew Golden",
+      "position": "WR",
+      "actual": 4.9,
+      "projected": 16.69374239,
+      "line": "Matthew Golden bombed his projection: 4.9 actual vs 16.7 projected, playing for Eric Brotmann."
+    }
+  ]
 }

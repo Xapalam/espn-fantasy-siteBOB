@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-11-26T14:08:33.698305+00:00",
+  "generatedAt": "2026-11-26T18:19:34.254788+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
   "events": [
+    {
+      "type": "under",
+      "owner": "82Cole47",
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "actual": 2.2,
+      "projected": 25.60779575,
+      "line": "Jahmyr Gibbs bombed his projection: 2.2 actual vs 25.6 projected, playing for 82Cole47."
+    },
     {
       "type": "benched",
       "owner": "Doakes22",
@@ -13,6 +22,15 @@
       "line": "Doakes22 benched Christian Watson, who scored 16.5 anyway."
     },
     {
+      "type": "under",
+      "owner": "kconley5",
+      "player": "Jared Goff",
+      "position": "QB",
+      "actual": 1.84,
+      "projected": 16.92467457,
+      "line": "Jared Goff bombed his projection: 1.8 actual vs 16.9 projected, playing for kconley5."
+    },
+    {
       "type": "over",
       "owner": "ESPNfan83795608",
       "player": "Blake Corum",
@@ -20,6 +38,24 @@
       "actual": 28.5,
       "projected": 13.82033861,
       "line": "Blake Corum crushed his projection: 28.5 actual vs 13.8 projected, playing for ESPNfan83795608."
+    },
+    {
+      "type": "under",
+      "owner": "Doakes22",
+      "player": "Luther Burden III",
+      "position": "WR",
+      "actual": 0.0,
+      "projected": 13.02670376,
+      "line": "Luther Burden III bombed his projection: 0.0 actual vs 13.0 projected, playing for Doakes22."
+    },
+    {
+      "type": "under",
+      "owner": "RGM2215",
+      "player": "Jameson Williams",
+      "position": "WR",
+      "actual": 0.0,
+      "projected": 12.26555223,
+      "line": "Jameson Williams bombed his projection: 0.0 actual vs 12.3 projected, playing for RGM2215."
     },
     {
       "type": "benched",
@@ -38,6 +74,24 @@
       "actual": 4.9,
       "projected": 16.69374239,
       "line": "Matthew Golden bombed his projection: 4.9 actual vs 16.7 projected, playing for Eric Brotmann."
+    },
+    {
+      "type": "under",
+      "owner": "SteelerFan9828",
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "actual": 6.6,
+      "projected": 17.77446765,
+      "line": "Amon-Ra St. Brown bombed his projection: 6.6 actual vs 17.8 projected, playing for SteelerFan9828."
+    },
+    {
+      "type": "under",
+      "owner": "espnfan7338848211",
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "actual": 0.0,
+      "projected": 10.79816994,
+      "line": "Sam LaPorta bombed his projection: 0.0 actual vs 10.8 projected, playing for espnfan7338848211."
     }
   ]
 }

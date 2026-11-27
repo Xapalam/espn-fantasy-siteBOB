@@ -1,16 +1,34 @@
 {
-  "generatedAt": "2026-11-26T18:19:34.254788+00:00",
+  "generatedAt": "2026-11-27T14:06:54.907763+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
   "events": [
     {
-      "type": "under",
+      "type": "benched",
+      "owner": "Eric Brotmann",
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "actual": 43.0,
+      "projected": 14.39827453,
+      "line": "Eric Brotmann benched DeVonta Smith, who scored 43.0 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "ESPNfan83795608",
+      "player": "Caleb Williams",
+      "position": "QB",
+      "actual": 25.3,
+      "projected": 15.99548614,
+      "line": "ESPNfan83795608 benched Caleb Williams, who scored 25.3 anyway."
+    },
+    {
+      "type": "over",
       "owner": "82Cole47",
       "player": "Jahmyr Gibbs",
       "position": "RB",
-      "actual": 2.2,
+      "actual": 48.2,
       "projected": 25.60779575,
-      "line": "Jahmyr Gibbs bombed his projection: 2.2 actual vs 25.6 projected, playing for 82Cole47."
+      "line": "Jahmyr Gibbs crushed his projection: 48.2 actual vs 25.6 projected, playing for 82Cole47."
     },
     {
       "type": "benched",
@@ -22,13 +40,49 @@
       "line": "Doakes22 benched Christian Watson, who scored 16.5 anyway."
     },
     {
-      "type": "under",
-      "owner": "kconley5",
-      "player": "Jared Goff",
-      "position": "QB",
-      "actual": 1.84,
-      "projected": 16.92467457,
-      "line": "Jared Goff bombed his projection: 1.8 actual vs 16.9 projected, playing for kconley5."
+      "type": "over",
+      "owner": "espn88256878",
+      "player": "Javonte Williams",
+      "position": "RB",
+      "actual": 33.3,
+      "projected": 17.09007485,
+      "line": "Javonte Williams crushed his projection: 33.3 actual vs 17.1 projected, playing for espn88256878."
+    },
+    {
+      "type": "benched",
+      "owner": "RGM2215",
+      "player": "Makai Lemon",
+      "position": "WR",
+      "actual": 16.1,
+      "projected": 7.30269165,
+      "line": "RGM2215 benched Makai Lemon, who scored 16.1 anyway."
+    },
+    {
+      "type": "benched",
+      "owner": "espnfan7338848211",
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "actual": 15.9,
+      "projected": 7.78693673,
+      "line": "espnfan7338848211 benched Kyle Monangai, who scored 15.9 anyway."
+    },
+    {
+      "type": "over",
+      "owner": "82Cole47",
+      "player": "Rome Odunze",
+      "position": "WR",
+      "actual": 26.7,
+      "projected": 10.90722329,
+      "line": "Rome Odunze crushed his projection: 26.7 actual vs 10.9 projected, playing for 82Cole47."
+    },
+    {
+      "type": "over",
+      "owner": "espnfan7338848211",
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "actual": 29.2,
+      "projected": 14.03436916,
+      "line": "D'Andre Swift crushed his projection: 29.2 actual vs 14.0 projected, playing for espnfan7338848211."
     },
     {
       "type": "over",
@@ -38,60 +92,6 @@
       "actual": 28.5,
       "projected": 13.82033861,
       "line": "Blake Corum crushed his projection: 28.5 actual vs 13.8 projected, playing for ESPNfan83795608."
-    },
-    {
-      "type": "under",
-      "owner": "Doakes22",
-      "player": "Luther Burden III",
-      "position": "WR",
-      "actual": 0.0,
-      "projected": 13.02670376,
-      "line": "Luther Burden III bombed his projection: 0.0 actual vs 13.0 projected, playing for Doakes22."
-    },
-    {
-      "type": "under",
-      "owner": "RGM2215",
-      "player": "Jameson Williams",
-      "position": "WR",
-      "actual": 0.0,
-      "projected": 12.26555223,
-      "line": "Jameson Williams bombed his projection: 0.0 actual vs 12.3 projected, playing for RGM2215."
-    },
-    {
-      "type": "benched",
-      "owner": "espnfan7338848211",
-      "player": "Rams D/ST",
-      "position": "D/ST",
-      "actual": 12.0,
-      "projected": 7.80266507,
-      "line": "espnfan7338848211 benched Rams D/ST, who scored 12.0 anyway."
-    },
-    {
-      "type": "under",
-      "owner": "Eric Brotmann",
-      "player": "Matthew Golden",
-      "position": "WR",
-      "actual": 4.9,
-      "projected": 16.69374239,
-      "line": "Matthew Golden bombed his projection: 4.9 actual vs 16.7 projected, playing for Eric Brotmann."
-    },
-    {
-      "type": "under",
-      "owner": "SteelerFan9828",
-      "player": "Amon-Ra St. Brown",
-      "position": "WR",
-      "actual": 6.6,
-      "projected": 17.77446765,
-      "line": "Amon-Ra St. Brown bombed his projection: 6.6 actual vs 17.8 projected, playing for SteelerFan9828."
-    },
-    {
-      "type": "under",
-      "owner": "espnfan7338848211",
-      "player": "Sam LaPorta",
-      "position": "TE",
-      "actual": 0.0,
-      "projected": 10.79816994,
-      "line": "Sam LaPorta bombed his projection: 0.0 actual vs 10.8 projected, playing for espnfan7338848211."
     }
   ]
 }

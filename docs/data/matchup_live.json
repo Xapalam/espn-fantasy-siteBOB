@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:06:56.975776+00:00",
+  "generatedAt": "2026-11-27T18:03:06.904750+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
   "matchups": [
@@ -8,13 +8,13 @@
       "awayOwner": "SteelerFan9828",
       "home": {
         "score": 34.9,
-        "projectedFinal": 101.1,
-        "winProbability": 0.31,
+        "projectedFinal": 104.4,
+        "winProbability": 0.33,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
           "Jonah Coleman",
-          "Bo Nix"
+          "Kirk Cousins"
         ],
         "worstMistake": {
           "benched": "Christian Watson",
@@ -39,7 +39,7 @@
       "away": {
         "score": 21.6,
         "projectedFinal": 129.7,
-        "winProbability": 0.69,
+        "winProbability": 0.67,
         "yetToPlay": [
           "Breece Hall",
           "Carnell Tate",
@@ -131,16 +131,16 @@
       "awayOwner": "82Cole47",
       "home": {
         "score": 21.4,
-        "projectedFinal": 127.3,
-        "winProbability": 0.39,
+        "projectedFinal": 117.9,
+        "winProbability": 0.32,
         "yetToPlay": [
           "Chase Brown",
           "Garrett Wilson",
           "Cam Skattebo",
-          "Parker Washington",
           "Trevor Lawrence",
           "Spencer Shrader",
-          "49ers D/ST"
+          "49ers D/ST",
+          "Mack Hollins"
         ],
         "worstMistake": null,
         "bestStarter": {
@@ -159,7 +159,7 @@
       "away": {
         "score": 78.4,
         "projectedFinal": 143.0,
-        "winProbability": 0.61,
+        "winProbability": 0.68,
         "yetToPlay": [
           "Trey McBride",
           "Quinshon Judkins",

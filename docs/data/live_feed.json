@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:06:54.907763+00:00",
+  "generatedAt": "2026-11-28T13:24:04.686214+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
   "events": [
@@ -27,8 +27,17 @@
       "player": "Jahmyr Gibbs",
       "position": "RB",
       "actual": 48.2,
-      "projected": 25.60779575,
+      "projected": 25.60778578,
       "line": "Jahmyr Gibbs crushed his projection: 48.2 actual vs 25.6 projected, playing for 82Cole47."
+    },
+    {
+      "type": "over",
+      "owner": "SteelerFan9828",
+      "player": "Steelers D/ST",
+      "position": "D/ST",
+      "actual": 26.0,
+      "projected": 6.26269004,
+      "line": "Steelers D/ST crushed his projection: 26.0 actual vs 6.3 projected, playing for SteelerFan9828."
     },
     {
       "type": "benched",
@@ -45,7 +54,7 @@
       "player": "Javonte Williams",
       "position": "RB",
       "actual": 33.3,
-      "projected": 17.09007485,
+      "projected": 17.08999463,
       "line": "Javonte Williams crushed his projection: 33.3 actual vs 17.1 projected, playing for espn88256878."
     },
     {
@@ -63,7 +72,7 @@
       "player": "Kyle Monangai",
       "position": "RB",
       "actual": 15.9,
-      "projected": 7.78693673,
+      "projected": 7.78694473,
       "line": "espnfan7338848211 benched Kyle Monangai, who scored 15.9 anyway."
     },
     {
@@ -72,7 +81,7 @@
       "player": "Rome Odunze",
       "position": "WR",
       "actual": 26.7,
-      "projected": 10.90722329,
+      "projected": 10.90722379,
       "line": "Rome Odunze crushed his projection: 26.7 actual vs 10.9 projected, playing for 82Cole47."
     },
     {
@@ -83,15 +92,6 @@
       "actual": 29.2,
       "projected": 14.03436916,
       "line": "D'Andre Swift crushed his projection: 29.2 actual vs 14.0 projected, playing for espnfan7338848211."
-    },
-    {
-      "type": "over",
-      "owner": "ESPNfan83795608",
-      "player": "Blake Corum",
-      "position": "RB",
-      "actual": 28.5,
-      "projected": 13.82033861,
-      "line": "Blake Corum crushed his projection: 28.5 actual vs 13.8 projected, playing for ESPNfan83795608."
     }
   ]
 }

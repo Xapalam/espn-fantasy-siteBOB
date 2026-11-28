@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:03:06.904750+00:00",
+  "generatedAt": "2026-11-28T13:24:06.531016+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
   "matchups": [
@@ -7,13 +7,12 @@
       "homeOwner": "Doakes22",
       "awayOwner": "SteelerFan9828",
       "home": {
-        "score": 34.9,
-        "projectedFinal": 104.4,
-        "winProbability": 0.33,
+        "score": 50.1,
+        "projectedFinal": 102.7,
+        "winProbability": 0.16,
         "yetToPlay": [
           "Justin Jefferson",
           "Brock Bowers",
-          "Jonah Coleman",
           "Kirk Cousins"
         ],
         "worstMistake": {
@@ -37,58 +36,55 @@
         }
       },
       "away": {
-        "score": 21.6,
-        "projectedFinal": 129.7,
-        "winProbability": 0.67,
+        "score": 57.6,
+        "projectedFinal": 148.5,
+        "winProbability": 0.84,
         "yetToPlay": [
           "Breece Hall",
           "Carnell Tate",
           "Joe Burrow",
           "George Kittle",
-          "Steelers D/ST",
-          "Chris Boswell",
           "Chuba Hubbard",
           "Antonio Williams"
         ],
         "worstMistake": null,
         "bestStarter": {
-          "name": "Amon-Ra St. Brown",
-          "actual": 21.6,
-          "projected": 17.8,
-          "delta": 3.8
+          "name": "Steelers D/ST",
+          "actual": 26.0,
+          "projected": 6.3,
+          "delta": 19.7
         },
         "worstStarter": {
-          "name": "Amon-Ra St. Brown",
-          "actual": 21.6,
-          "projected": 17.8,
-          "delta": 3.8
+          "name": "Chris Boswell",
+          "actual": 10.0,
+          "projected": 10.3,
+          "delta": -0.3
         }
       },
       "familyName": null,
-      "analysis": "Doakes22 leads SteelerFan9828 by 13.3."
+      "analysis": "SteelerFan9828 leads Doakes22 by 7.5."
     },
     {
       "homeOwner": "kconley5",
       "awayOwner": "espnfan7338848211",
       "home": {
-        "score": 25.8,
-        "projectedFinal": 118.3,
-        "winProbability": 0.3,
+        "score": 33.8,
+        "projectedFinal": 123.1,
+        "winProbability": 0.32,
         "yetToPlay": [
           "Bijan Robinson",
           "Derrick Henry",
           "Nico Collins",
           "Tee Higgins",
           "Harold Fannin Jr.",
-          "Jakobi Meyers",
-          "Broncos D/ST"
+          "Jakobi Meyers"
         ],
         "worstMistake": null,
         "bestStarter": {
-          "name": "Jake Bates",
-          "actual": 10.0,
-          "projected": 9.6,
-          "delta": 0.4
+          "name": "Broncos D/ST",
+          "actual": 8.0,
+          "projected": 5.5,
+          "delta": 2.5
         },
         "worstStarter": {
           "name": "Jared Goff",
@@ -99,8 +95,8 @@
       },
       "away": {
         "score": 63.2,
-        "projectedFinal": 150.4,
-        "winProbability": 0.7,
+        "projectedFinal": 150.5,
+        "winProbability": 0.68,
         "yetToPlay": [
           "Ja'Marr Chase",
           "Drake London",
@@ -124,7 +120,7 @@
         }
       },
       "familyName": null,
-      "analysis": "espnfan7338848211 leads kconley5 by 37.4."
+      "analysis": "espnfan7338848211 leads kconley5 by 29.4."
     },
     {
       "homeOwner": "ESPNFAN6437471416",
@@ -158,7 +154,7 @@
       },
       "away": {
         "score": 78.4,
-        "projectedFinal": 143.0,
+        "projectedFinal": 142.5,
         "winProbability": 0.68,
         "yetToPlay": [
           "Trey McBride",
@@ -189,8 +185,8 @@
       "awayOwner": "Eric Brotmann",
       "home": {
         "score": 41.8,
-        "projectedFinal": 112.6,
-        "winProbability": 0.4,
+        "projectedFinal": 112.3,
+        "winProbability": 0.56,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -221,8 +217,8 @@
       },
       "away": {
         "score": 41.8,
-        "projectedFinal": 124.8,
-        "winProbability": 0.6,
+        "projectedFinal": 106.1,
+        "winProbability": 0.44,
         "yetToPlay": [
           "Jonathan Taylor",
           "Bhayshul Tuten",
@@ -259,8 +255,8 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 28.5,
-        "projectedFinal": 150.8,
-        "winProbability": 0.68,
+        "projectedFinal": 149.4,
+        "winProbability": 0.67,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
           "Chris Olave",
@@ -287,8 +283,8 @@
       },
       "away": {
         "score": 62.6,
-        "projectedFinal": 122.1,
-        "winProbability": 0.32,
+        "projectedFinal": 121.9,
+        "winProbability": 0.33,
         "yetToPlay": [
           "Ashton Jeanty",
           "Tetairoa McMillan",

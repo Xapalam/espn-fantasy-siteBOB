@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:24:06.531016+00:00",
+  "generatedAt": "2026-11-28T16:46:25.916159+00:00",
   "seasonId": 2026,
   "matchupPeriodId": 12,
   "matchups": [
@@ -37,7 +37,7 @@
       },
       "away": {
         "score": 57.6,
-        "projectedFinal": 148.5,
+        "projectedFinal": 148.6,
         "winProbability": 0.84,
         "yetToPlay": [
           "Breece Hall",
@@ -186,7 +186,7 @@
       "home": {
         "score": 41.8,
         "projectedFinal": 112.3,
-        "winProbability": 0.56,
+        "winProbability": 0.44,
         "yetToPlay": [
           "Christian McCaffrey",
           "Malik Nabers",
@@ -217,12 +217,12 @@
       },
       "away": {
         "score": 41.8,
-        "projectedFinal": 106.1,
-        "winProbability": 0.44,
+        "projectedFinal": 119.2,
+        "winProbability": 0.56,
         "yetToPlay": [
           "Jonathan Taylor",
-          "Bhayshul Tuten",
           "Isaiah Likely",
+          "Rhamondre Stevenson",
           "C.J. Stroud",
           "Jason Sanders",
           "Jets D/ST"
@@ -255,7 +255,7 @@
       "awayOwner": "espn88256878",
       "home": {
         "score": 28.5,
-        "projectedFinal": 149.4,
+        "projectedFinal": 149.5,
         "winProbability": 0.67,
         "yetToPlay": [
           "Jaxon Smith-Njigba",
